@@ -1,0 +1,17082 @@
+// Notifications
+"PUSH_MESSAGE_TEXT" = "%1$@|%2$@";
+"PUSH_MESSAGE_NOTEXT" = "%1$@|新消息";
+"PUSH_MESSAGE_PHOTO" = "%1$@|📷图片";
+"PUSH_MESSAGE_PHOTO_SECRET" = "%1$@|🔥 阅后即焚图片";
+"PUSH_MESSAGE_VIDEO" = "%1$@|📹视频";
+"PUSH_MESSAGE_VIDEO_SECRET" = "%1$@|🔥 阅后即焚视频";
+"PUSH_MESSAGE_ROUND" = "%1$@|📺视频消息";
+"PUSH_MESSAGE_CONTACT" = "%1$@|👤 %2$@";
+"PUSH_MESSAGE_GEO" = "%1$@|📍 位置";
+"PUSH_MESSAGE_GEOLIVE" = "%1$@|实时位置";
+"PUSH_MESSAGE_DOC" = "%1$@|📎 文档";
+"PUSH_MESSAGE_AUDIO" = "%1$@|🎤 语音消息";
+"PUSH_MESSAGE_GIF" = "%1$@|📹 GIF 动态图";
+"PUSH_ENCRYPTED_MESSAGE" = "您收到一条新消息 %1$@";
+"PUSH_LOCKED_MESSAGE" = "您有一条新的消息%1$@";
+"PUSH_LOCKED_STORY" = "你有一个新动态 %1$@";
+"PUSH_MESSAGE_SCREENSHOT" = "%1$@|已截屏!";
+"PUSH_ENCRYPTION_REQUEST" = "新的私密聊天请求 %1$@";
+"PUSH_ENCRYPTION_ACCEPT" = "您的私密聊天请求已被接受%1$@";
+
+"PUSH_MESSAGE_POLL" = "%1$@|📊 投票 \"%2$@\"";
+"PUSH_CHANNEL_MESSAGE_POLL" = "%1$@|📊 投票 \"%2$@\"";
+"PUSH_PINNED_POLL" = "%1$@|📌已置顶一项投票";
+
+"PUSH_MESSAGE_QUIZ" = "%1$@|给您发送了问答 \"%2$@\"";
+"PUSH_CHANNEL_MESSAGE_QUIZ" = "%1$@|已发布问答 “%2$@”";
+"PUSH_PINNED_QUIZ" = "%1$@| 置顶了一张问卷";
+
+"PUSH_CHAT_MESSAGE_TEXT" = "%2$@|%1$@：%3$@";
+"PUSH_CHAT_MESSAGE_NOTEXT" = " %2$@|%1$@：新消息";
+"PUSH_CHAT_MESSAGE_PHOTO" = "%2$@|%1$@：📷 图片";
+"PUSH_CHAT_MESSAGE_VIDEO" = "%2$@|%1$@：📹 视频";
+"PUSH_CHAT_MESSAGE_ROUND" = "%2$@|%1$@：📺 视频消息";
+"PUSH_CHAT_MESSAGE_CONTACT" = "%2$@|%1$@：👤 %3$@";
+"PUSH_CHAT_MESSAGE_GEO" = "%2$@|%1$@： 📍 位置";
+"PUSH_CHAT_MESSAGE_GEOLIVE" = "%2$@|%1$@：实时位置";
+"PUSH_CHAT_MESSAGE_DOC" = "%2$@|%1$@：📎 文档";
+"PUSH_CHAT_MESSAGE_AUDIO" = "%2$@|%1$@：🎤 语音消息";
+"PUSH_CHAT_MESSAGE_GIF" = "%2$@|%1$@：📹 GIF 动态图";
+"PUSH_CHAT_CREATED" = "%2$@|%1$@ 已邀请您加入群组";
+"PUSH_CHAT_TITLE_EDITED" = "%2$@|%1$@ 已编辑群组名称";
+"PUSH_CHAT_PHOTO_EDITED" = "%2$@|%1$@ 已修改群组头像";
+"PUSH_CHAT_ADD_MEMBER" = "%2$@|%1$@ 已邀请 %3$@ 加入群组";
+"PUSH_CHAT_ADD_YOU" = "%2$@|%1$@ 已邀请您加入群组";
+"PUSH_CHAT_DELETE_YOU" = "%2$@|%1$@ 已将您移出群组";
+"PUSH_CHAT_DELETE_MEMBER" = "%2$@|%1$@ 已将 %3$@ 移出群组";
+"PUSH_CHAT_LEFT" = "%2$@|%1$@ 已退出群组";
+"PUSH_CHAT_RETURNED" = "%2$@|%1$@ 已返回群组";
+
+"PUSH_MESSAGE_STICKER" = "%1$@|%2$@ 贴纸";
+"PUSH_CHAT_MESSAGE_STICKER" = "%2$@|%1$@：%3$@ 贴纸";
+
+"PUSH_CONTACT_JOINED" = "%1$@|已加入 Telegram ！";
+
+"PUSH_CHANNEL_MESSAGE_TEXT" = "%1$@|%2$@";
+"PUSH_CHANNEL_MESSAGE_NOTEXT" = "%1$@|新消息";
+"PUSH_CHANNEL_MESSAGE_PHOTO" = "%1$@|📷 照片";
+"PUSH_CHANNEL_MESSAGE_VIDEO" = "%1$@|📹 视频";
+"PUSH_CHANNEL_MESSAGE_ROUND" = "%1$@|📺 视频消息";
+"PUSH_CHANNEL_MESSAGE_DOC" = "%1$@|📎 文档";
+"PUSH_CHANNEL_MESSAGE_STICKER" = "%1$@|%2$@ 贴纸";
+"PUSH_CHANNEL_MESSAGE_AUDIO" = "%1$@|🎤 语音消息";
+"PUSH_CHANNEL_MESSAGE_CONTACT" = "%1$@|👤 %2$@";
+"PUSH_CHANNEL_MESSAGE_GEO" = "%1$@|📍 位置";
+"PUSH_CHANNEL_MESSAGE_GEOLIVE" = "%1$@|实时位置";
+"PUSH_CHANNEL_MESSAGE_GIF" = "%1$@|📹 GIF 动态图";
+
+"PUSH_MESSAGE_GAME" = "%1$@|🎮游玩 %2$@";
+"PUSH_CHANNEL_MESSAGE_GAME" = "%1$@|玩 %2$@";
+"PUSH_CHAT_MESSAGE_GAME" = "%2$@|🎮 %1$@ 邀请群组游玩 %3$@";
+
+"PUSH_MESSAGE_TEXT" = "%1$@|%2$@";
+"PUSH_MESSAGE_NOTEXT" = "%1$@|新消息";
+"PUSH_MESSAGE_PHOTO" = "%1$@|📷图片";
+"PUSH_MESSAGE_PHOTO_SECRET" = "%1$@|🔥 阅后即焚图片";
+"PUSH_MESSAGE_VIDEO" = "%1$@|📹视频";
+"PUSH_MESSAGE_VIDEO_SECRET" = "%1$@|🔥 阅后即焚视频";
+"PUSH_MESSAGE_SCREENSHOT" = "%1$@|已截屏!";
+"PUSH_MESSAGE_ROUND" = "%1$@|📺视频消息";
+"PUSH_MESSAGE_DOC" = "%1$@|📎 文档";
+"PUSH_MESSAGE_STICKER" = "%1$@|%2$@ 贴纸";
+"PUSH_MESSAGE_AUDIO" = "%1$@|🎤 语音消息";
+"PUSH_MESSAGE_CONTACT" = "%1$@|👤 %2$@";
+"PUSH_MESSAGE_GEO" = "%1$@|📍 位置";
+"PUSH_MESSAGE_GEOLIVE" = "%1$@|实时位置";
+"PUSH_MESSAGE_POLL" = "%1$@|📊 投票 \"%2$@\"";
+"PUSH_MESSAGE_QUIZ" = "%1$@|给您发送了问答 \"%2$@\"";
+"PUSH_MESSAGE_GIF" = "%1$@|📹 GIF 动态图";
+"PUSH_MESSAGE_GAME" = "%1$@|🎮游玩 %2$@";
+"PUSH_MESSAGE_INVOICE" = "%1$@|金额为 %2$@ 的账单";
+"PUSH_MESSAGE_FWD" = "%1$@|已转发消息";
+
+"PUSH_MESSAGE_FWDS_TEXT_any" = "向您转发了 %d 条消息";
+"PUSH_MESSAGE_PHOTO" = "%1$@|📷图片";
+
+"PUSH_MESSAGE_PHOTOS_TEXT_any" = "给您发送了 %d 张图片";
+"PUSH_MESSAGE_VIDEO" = "%1$@|📹视频";
+
+"PUSH_MESSAGE_VIDEOS_TEXT_any" = "给您发送了 %d 条视频";
+"PUSH_MESSAGE_ROUND" = "%1$@|📺视频消息";
+"PUSH_MESSAGE" = "%1$@|新消息";
+
+"PUSH_MESSAGES_TEXT_any" = "给您发送了 %d 条消息";
+"PUSH_ALBUM" = "%1$@|📷📹 相册";
+
+"PUSH_MESSAGE_FILES_TEXT_any" = "已给您发送 %d 个文件";
+"PUSH_MESSAGE_THEME" = "%1$@|将主题更改为 %2$@";
+"PUSH_MESSAGE_NOTHEME" = "%1$@|已停用聊天主题";
+"PUSH_MESSAGE_RECURRING_PAY" = "%1$@ |已收取您  %2$@";
+"CHAT_MESSAGE_RECURRING_PAY" = "%1$@|已收取主人 %2$@";
+"PUSH_MESSAGE_PAID_MEDIA" = "%1$@ 给您发送了一条价格为 %2$@ 颗星星的付费帖子";
+
+"PUSH_CHANNEL_MESSAGE_TEXT" = "%1$@|%2$@";
+"PUSH_CHANNEL_MESSAGE_NOTEXT" = "%1$@|新消息";
+"PUSH_CHANNEL_MESSAGE_PHOTO" = "%1$@|📷 照片";
+"PUSH_CHANNEL_MESSAGE_VIDEO" = "%1$@|📹 视频";
+"PUSH_CHANNEL_MESSAGE_ROUND" = "%1$@|📺 视频消息";
+"PUSH_CHANNEL_MESSAGE_DOC" = "%1$@|📎 文档";
+"PUSH_CHANNEL_MESSAGE_STICKER" = "%1$@|%2$@ 贴纸";
+"PUSH_CHANNEL_MESSAGE_AUDIO" = "%1$@|🎤 语音消息";
+"PUSH_CHANNEL_MESSAGE_CONTACT" = "%1$@|👤 %2$@";
+"PUSH_CHANNEL_MESSAGE_GEO" = "%1$@|📍 位置";
+"PUSH_CHANNEL_MESSAGE_GEOLIVE" = "%1$@|实时位置";
+"PUSH_CHANNEL_MESSAGE_POLL" = "%1$@|📊 投票 \"%2$@\"";
+"PUSH_CHANNEL_MESSAGE_QUIZ" = "%1$@|已发布问答 “%2$@”";
+"PUSH_CHANNEL_MESSAGE_GIF" = "%1$@|📹 GIF 动态图";
+"PUSH_CHANNEL_MESSAGE_GAME" = "%1$@|玩 %2$@";
+"PUSH_CHANNEL_MESSAGE_FWD" = "%1$@|转发了一条消息";
+"PUSH_CHANNEL_MESSAGE_PHOTO" = "%1$@|📷 照片";
+
+"PUSH_CHANNEL_MESSAGE_PHOTOS_TEXT_any" = "已发布 %d 张图片";
+"PUSH_CHANNEL_MESSAGE_VIDEO" = "%1$@|📹 视频";
+
+"PUSH_CHANNEL_MESSAGE_VIDEOS_TEXT_any" = "已发布 %d 段视频";
+"PUSH_CHANNEL_MESSAGE_ROUND" = "%1$@|📺 视频消息";
+"PUSH_CHANNEL_MESSAGE" = "%1$@|新消息";
+
+"PUSH_CHANNEL_MESSAGES_TEXT_any" = "发布了 %d 条消息";
+"PUSH_CHANNEL_ALBUM" = "%1$@|📷📹 相册";
+
+"PUSH_CHANNEL_MESSAGE_DOCS_TEXT_any" = "已发布 %d 个文件";
+"PUSH_CHANNEL_MESSAGE_PAID_MEDIA" = "%1$@ 已发送一条价格为 %2$@ 颗星星的付费帖子";
+
+"PUSH_CHAT_MESSAGE_TEXT" = "%2$@|%1$@：%3$@";
+"PUSH_CHAT_MESSAGE_NOTEXT" = " %2$@|%1$@：新消息";
+"PUSH_CHAT_MESSAGE_VIDEO" = "%2$@|%1$@：📹 视频";
+"PUSH_CHAT_MESSAGE_ROUND" = "%2$@|%1$@：📺 视频消息";
+"PUSH_CHAT_MESSAGE_DOC" = "%2$@|%1$@：📎 文档";
+"PUSH_CHAT_MESSAGE_STICKER" = "%2$@|%1$@：%3$@ 贴纸";
+"PUSH_CHAT_MESSAGE_AUDIO" = "%2$@|%1$@：🎤 语音消息";
+"PUSH_CHAT_MESSAGE_CONTACT" = "%2$@|%1$@：👤 %3$@";
+"PUSH_CHAT_MESSAGE_GEO" = "%2$@|%1$@： 📍 位置";
+"PUSH_CHAT_MESSAGE_GEOLIVE" = "%2$@|%1$@：实时位置";
+"PUSH_CHAT_MESSAGE_POLL" = "%2$@|%1$@：📊  投票 “%3$@”";
+"PUSH_CHAT_MESSAGE_QUIZ" = "%2$@|%1$@ 在群组中发送了问答 “%3$@”";
+"PUSH_CHAT_MESSAGE_GIF" = "%2$@|%1$@：📹 GIF 动态图";
+"PUSH_CHAT_MESSAGE_GAME" = "%2$@|🎮 %1$@ 邀请群组游玩 %3$@";
+"PUSH_CHAT_MESSAGE_INVOICE" = "%2$@|%1$@：金额为 %3$@ 的账单";
+"PUSH_CHAT_CREATED" = "%2$@|%1$@ 已邀请您加入群组";
+"PUSH_CHAT_TITLE_EDITED" = "%2$@|%1$@ edited the group\'s name";
+"PUSH_CHAT_PHOTO_EDITED" = "%2$@|%1$@ edited the group\'s photo";
+"PUSH_CHAT_ADD_MEMBER" = "%2$@|%1$@ 已邀请 %3$@ 加入群组";
+"PUSH_CHAT_ADD_YOU" = "%2$@|%1$@ 已邀请您加入群组";
+"PUSH_CHAT_DELETE_MEMBER" = "%2$@|%1$@ 已将 %3$@ 移出群组";
+"PUSH_CHAT_DELETE_YOU" = "%2$@|%1$@ 已将您移出群组";
+"PUSH_CHAT_LEFT" = "%2$@|%1$@ 已退出群组";
+"PUSH_CHAT_RETURNED" = "%2$@|%1$@ 已返回群组";
+"PUSH_CHAT_JOINED" = "%2$@|%1$@ 已加入该群组";
+"PUSH_CHAT_MESSAGE_FWD" = "%2$@|%1$@：转发消息";
+
+"PUSH_CHAT_MESSAGE_FWDS_TEXT_any" = "{author} 已转发 %d 条消息";
+"PUSH_CHAT_MESSAGE_PHOTO" = "%2$@|%1$@：📷 图片";
+
+"PUSH_CHAT_MESSAGE_PHOTOS_TEXT_any" = "{author} 已发送 %d 张图片";
+"PUSH_CHAT_MESSAGE_VIDEO" = "%2$@|%1$@：📹 视频";
+
+"PUSH_CHAT_MESSAGE_VIDEOS_TEXT_any" = "{author} 已发送 %d 段视频";
+"PUSH_CHAT_MESSAGE_ROUND" = "%2$@|%1$@：📺 视频消息";
+"PUSH_CHAT_MESSAGE" = "%2$@|%1$@：消息";
+
+"PUSH_CHAT_MESSAGES_TEXT_any" = "{author} 已发送 %d 条消息";
+"PUSH_CHAT_ALBUM" = "%2$@|%1$@: 📷📹 相册";
+
+"PUSH_CHAT_MESSAGE_DOCS_TEXT_any" = "{author} 已发送 %d 个文件";
+"PUSH_CHAT_MESSAGE_THEME" = "%1$@|已将群组 %2$@ 的主题设定为 %3$@";
+"PUSH_CHAT_MESSAGE_NOTHEME" = "%1$@|已停用群组主题 %2$@";
+"PUSH_CHAT_REQ_JOINED" = "%2$@|%1$@ 已获批加入群组";
+"PUSH_CHAT_MESSAGE_PAID_MEDIA" = "%1$@ 在 %2$@ 群组中发送了一条价格为 %3$@ 颗星星的付费帖子";
+
+"PUSH_PINNED_TEXT" = "%1$@|置顶了 “%2$@”";
+"PUSH_PINNED_NOTEXT" = "%1$@|📌 置顶了消息";
+"PUSH_PINNED_PHOTO" = "%1$@|📌 置顶了图片";
+"PUSH_PINNED_VIDEO" = "%1$@|📌 置顶了视频";
+"PUSH_PINNED_ROUND" = "%1$@|📌 已置顶一条视频消息";
+"PUSH_PINNED_DOC" = "%1$@|📌 已置顶文档";
+"PUSH_PINNED_STICKER" = "%1$@|置顶了一张 %2$@ 贴纸";
+"PUSH_PINNED_AUDIO" = "%1$@|📌 已置顶一条语音消息";
+"PUSH_PINNED_CONTACT" = "%1$@|📌 已置顶联系人信息：%2$@";
+"PUSH_PINNED_GEO" = "%1$@|📌 置顶了地图";
+"PUSH_PINNED_GEOLIVE" = "%1$@|📌 已置顶一个实时位置";
+"PUSH_PINNED_POLL" = "%1$@|📌已置顶一项投票";
+"PUSH_PINNED_QUIZ" = "%1$@| 置顶了一张问卷";
+"PUSH_PINNED_GAME" = "%1$@|📌 置顶了游戏";
+"PUSH_PINNED_INVOICE" = "%1$@|📌 已置顶一份账单";
+"PUSH_PINNED_GIF" = "%1$@|📌 已置顶一张 GIF 动态图";
+"PUSH_PINNED_PAID_MEDIA" = "%1$@|已置顶一条价格为%2$@ 的付费帖子";
+
+"PUSH_CONTACT_JOINED" = "%1$@|已加入 Telegram ！";
+
+
+
+
+"PUSH_PHONE_CALL_REQUEST" = "%1$@|正在呼叫！";
+"PUSH_VIDEO_CALL_REQUEST" = "%1$@| 正在呼叫您！";
+"PUSH_PHONE_CALL_MISSED" = "%1$@|☎️ 未接来电";
+"PUSH_VIDEO_CALL_MISSED" = "%1$@| 您错过了一个视频电话";
+
+"PUSH_MESSAGE_GAME_SCORE" = "🎮 %1$@ 在游戏 %2$@ 中获得了 %3$@ 分";
+
+"PUSH_MESSAGE_CHANNEL_MESSAGE_GAME_SCORE" = "%1$@在游戏%2$@中获得了%3$@分";
+
+"PUSH_PINNED_GAME_SCORE" = "%1$@ 置顶一个游戏分数";
+"PUSH_CHAT_MESSAGE_GAME_SCORE" = "🎮 %1$@ 在 %3$@ 中获得了 %4$@ 分";
+
+
+"PUSH_REACT_TEXT" = "%1$@|对您的 “%3$@” %2$@";
+"PUSH_REACT_NOTEXT" = "%1$@|对您的消息 %2$@";
+"PUSH_REACT_PHOTO" = "%1$@|对您的图片 %2$@";
+"PUSH_REACT_VIDEO" = "%1$@|对您的视频 %2$@";
+"PUSH_REACT_ROUND" = "%1$@|对您的视频消息 %2$@";
+"PUSH_REACT_DOC" = "%1$@ 及 %2$@ 发送给你的文件";
+"PUSH_REACT_STICKER" = "%1$@|对您的 %3$@ 贴纸 %2$@";
+"PUSH_REACT_AUDIO" = "%1$@|对您的语音消息 %2$@";
+"PUSH_REACT_CONTACT" = "%1$@|对您的联系人信息 %3$@ %2$@";
+"PUSH_REACT_GEO" = "%1$@|对您的地图 %2$@";
+"PUSH_REACT_GEOLIVE" = "%1$@|对您的实时位置 %2$@";
+"PUSH_REACT_POLL" = "%1$@|对您的 “%3$@” 投票 %2$@";
+"PUSH_REACT_QUIZ" = "%1$@|对您的 “%3$@” 问答 %2$@";
+"PUSH_REACT_GAME" = "%1$@|对您的游戏 %2$@";
+"PUSH_REACT_INVOICE" = "%1$@|对您的账单 %2$@";
+"PUSH_REACT_GIF" = "%1$@|对您的 GIF 动态图 %2$@";
+
+"PUSH_CHAT_REACT_TEXT" = "%2$@|%1$@：对您的“%4$@”作出了回应 %3$@";
+"PUSH_CHAT_REACT_NOTEXT" = "%2$@|%1$@：对您的消息 %3$@";
+"PUSH_CHAT_REACT_PHOTO" = "%2$@|%1$@ 对您的照片 %3$@";
+"PUSH_CHAT_REACT_VIDEO" = "%2$@|%1$@ 对您的视频 %3$@";
+"PUSH_CHAT_REACT_ROUND" = "%2$@|%1$@：对您的视频消息 %3$@";
+"PUSH_CHAT_REACT_DOC" = "%2$@|%1$@：对您的文件作出回应 %3$@";
+"PUSH_CHAT_REACT_STICKER" = "%2$@|%1$@ 对您的 %3$@ 贴纸 %4$@";
+"PUSH_CHAT_REACT_AUDIO" = "%2$@|%1$@：对您的语音消息 %3$@";
+"PUSH_CHAT_REACT_CONTACT" = "%2$@|%1$@ 对您的联系人%3$@ %4$@";
+"PUSH_CHAT_REACT_GEO" = "%2$@|%1$@：对您的地图 %3$@";
+"PUSH_CHAT_REACT_GEOLIVE" = "%2$@|%1$@ 对您的实时位置 %3$@";
+"PUSH_CHAT_REACT_POLL" = "%2$@|%1$@：对您的投票 %4$@ 作出了回应 %3$@";
+"PUSH_CHAT_REACT_QUIZ" = "%2$@|%1$@：对您的问答“%4$@”作出了回应 %3$@";
+"PUSH_CHAT_REACT_GAME" = "%2$@|%1$@：对您的游戏作出了回应 %3$@";
+"PUSH_CHAT_REACT_INVOICE" = "%2$@|%1$@ 对您的账单 %3$@";
+"PUSH_CHAT_REACT_GIF" = "%2$@|%1$@：对您的 GIF 动态图 %3$@";
+"PUSH_CHAT_REACT_PAID_MEDIA" = "%2$@|%1$@ 对您的付费贴文作出 %3$@";
+
+"PUSH_MESSAGE_SUGGEST_USERPIC" = "%1$@|已为您推荐一张头像图片";
+
+"PUSH_MESSAGE_WALLPAPER" = "%1$@ 已为此聊天设置一张新壁纸";
+"PUSH_MESSAGE_SAME_WALLPAPER" = "%1$@ 已为此聊天设置相同的壁纸。";
+
+"PUSH_MESSAGE_UNIQUE_STARGIFT" = "%1$@ 已给你赠送一份礼物\n";
+"PUSH_MESSAGE_STARGIFT_UPGRADE" = "%1$@ 已升级你的礼物";
+
+"PUSH_REMINDER_TITLE" = "🗓 提醒";
+"PUSH_SENDER_YOU" = "📅 您";
+
+"PUSH_CHAT_REQ_JOINED" = "%2$@|%1$@ 已获批加入群组";
+
+"PUSH_STORY_NOTEXT" = "%1$@|发布了一条动态";
+"PUSH_MESSAGE_STORY" = "%1$@|已将一条动态分享给您";
+"PUSH_MESSAGE_STORY_MENTION" = "%1$@|在一条动态中提到了您";
+"PUSH_CHANNEL_MESSAGE_STORY" = "%1$@|已分享一条动态";
+"PUSH_CHAT_MESSAGE_STORY" = "%2$@|%1$@ 已在群组中分享一条动态";
+
+"PUSH_REACT_HIDDEN" = "您的消息有新表情符号回应";
+"PUSH_REACT_STORY" = "您的动态有 %1$@|%2$@";
+"PUSH_REACT_STORY_HIDDEN" = "您的动态有新回应";
+
+
+
+
+
+
+"PUSH_STORY_HIDDEN_AUTHOR" = "新动态已发布。";
+"PUSH_MESSAGE_STARGIFT" = "%1$@|向您赠送了一份价值 %2$@ 颗星星的礼物";
+
+// Common
+"Common.OK" = "好的喵♪";
+"Common.Cancel" = "算了喵";
+"Common.Edit" = "梳梳毛喵";
+"Common.edit" = "梳梳毛喵";
+"Common.Done" = "好啦喵";
+"Common.Next" = "下一步喵";
+"Common.Delete" = "丢掉喵";
+"Common.Create" = "创建";
+"Common.Back" = "回去喵";
+"Common.Close" = "关掉喵";
+"Common.Yes" = "是";
+"Common.No" = "否";
+"Common.TakePhotoOrVideo" = "拍照或录像";
+"Common.TakePhoto" = "拍照";
+"Common.ChoosePhoto" = "选择照片";
+"Common.of" = "/";
+"Common.Search" = "搜索喵…";
+"Common.More" = "更多";
+"Common.Select" = "选择";
+"Items.NOfM" = "%2$@ 的 %1$@";
+
+// State
+"State.Connecting" = "正在努力找主人喵…";
+"State.connecting" = "正在连接";
+"State.ConnectingToProxy" = "正在偷偷挖秘密通道喵…";
+"State.ConnectingToProxyInfo" = "点击此处以小螺丝";
+"State.Updating" = "正在抖抖尾巴刷新喵…";
+"State.WaitingForNetwork" = "人家在耐心等网络喵…";
+
+"ChatState.Connecting" = "连接中...";
+"ChatState.ConnectingToProxy" = "正在偷偷挖秘密通道喵…";
+"ChatState.Updating" = "更新中...";
+"ChatState.WaitingForNetwork" = "等待网络中...";
+
+// Presence
+"Presence.online" = "正在想你";
+
+// Date
+"Month.GenJanuary" = "1月";
+"Month.GenFebruary" = "2月";
+"Month.GenMarch" = "3月";
+"Month.GenApril" = "4月";
+"Month.GenMay" = "5月";
+"Month.GenJune" = "6月";
+"Month.GenJuly" = "7月";
+"Month.GenAugust" = "8月";
+"Month.GenSeptember" = "9月";
+"Month.GenOctober" = "10月";
+"Month.GenNovember" = "11月";
+"Month.GenDecember" = "12月";
+"Month.ShortJanuary" = "1月";
+"Month.ShortFebruary" = "2月";
+"Month.ShortMarch" = "3月";
+"Month.ShortApril" = "4月";
+"Month.ShortMay" = "5月";
+"Month.ShortJune" = "6月";
+"Month.ShortJuly" = "7月";
+"Month.ShortAugust" = "8月";
+"Month.ShortSeptember" = "9月";
+"Month.ShortOctober" = "10月";
+"Month.ShortNovember" = "11月";
+"Month.ShortDecember" = "12月";
+"Weekday.ShortMonday" = "周一";
+"Weekday.ShortTuesday" = "周二";
+"Weekday.ShortWednesday" = "周三";
+"Weekday.ShortThursday" = "周四";
+"Weekday.ShortFriday" = "周五";
+"Weekday.ShortSaturday" = "周六";
+"Weekday.ShortSunday" = "周日";
+"Weekday.Today" = "今天";
+"Weekday.Yesterday" = "昨天";
+
+"Calendar.ShortMon" = "一";
+"Calendar.ShortTue" = "二";
+"Calendar.ShortWed" = "三";
+"Calendar.ShortThu" = "四";
+"Calendar.ShortFri" = "五";
+"Calendar.ShortSat" = "六";
+"Calendar.ShortSun" = "日";
+
+"Time.TodayAt" = "今天 %@";
+"Time.YesterdayAt" = "昨天 %@";
+
+"LastSeen.JustNow" = "刚刚还在想你喵";
+ //three to ten
+ //one
+ //two
+ //three to ten
+ // more than ten
+"LastSeen.MinutesAgo_any" = "最近上线于 %@ 分钟前"; // more than ten
+
+
+
+
+"LastSeen.HoursAgo_any" = "最近上线于 %@ 小时前";
+
+
+"LastSeen.YesterdayAt" = "最近上线于昨天 %@";
+"LastSeen.AtDate" = "最近上线于 %@";
+"LastSeen.TodayAt" = "今日最后上线于 %@";
+"LastSeen.Lately" = "最近曾上线";
+"LastSeen.WithinAWeek" = "最近一周内曾上线";
+"LastSeen.WithinAMonth" = "最近一个月内曾上线";
+"LastSeen.ALongTimeAgo" = "很久没上线";
+"LastSeen.Offline" = "很久没上线";
+
+"Date.DialogDateFormat" = "{month} {day}日";
+"Date.ChatDateHeader" = "%1$@%2$@日";
+"Date.ChatDateHeaderYear" = "%3$@年%1$@%2$@日";
+
+// Tour
+"Tour.Title1" = "猫猫电报";
+"Tour.Text1" = "世界上**最快的**聊天工具\n**免费**又**安全**";
+
+"Tour.Title2" = "快速";
+"Tour.Text2" = "**猫猫电报** 收发信息\n比任何应用都快";
+
+"Tour.Title3" = "强大";
+"Tour.Text3" = "**猫猫电报** 不论消息或是媒体文件\n都无大小限制";
+
+"Tour.Title4" = "安全";
+"Tour.Text4" = "**猫猫电报** 保障主人的消息安全\n免受黑客攻击";
+
+"Tour.Title5" = "云端";
+"Tour.Text5" = "**猫猫电报** 让主人能从\n多个设备收发消息喵。";
+
+"Tour.Title6" = "免费";
+"Tour.Text6" = "**猫猫电报** 提供免费无限量的聊天与媒体的云端存储喵。";
+
+"Tour.StartButton" = "开始聊天";
+
+// Login
+"Login.PhoneAndCountryHelp" = "请确认主人的国际电话区号并输入主人的手机号码喵。";
+"Login.CodeSentInternal" = "人家已向主人其它设备上的 **猫猫电报** 应用发送了一条带有验证码的消息";
+"Login.HaveNotReceivedCodeInternal" = "未收到验证码？";
+"Login.CodeSentSms" = "人家通过短信向主人发送了验证码";
+"Login.Code" = "验证码";
+"Login.WillCallYou" = "猫猫电报 会在 %@ 后使用电话语音播放验证码";
+"Login.CallRequestState2" = "正在请求 猫猫电报 呼叫…";
+"Login.CallRequestState3" = "猫猫电报 已拨打主人的电话\n[仍未收到验证码？]";
+"Login.EmailNotConfiguredError" = "需要设置电子邮箱才能向人家发送详细错误信息。\n\n请前往设备的小螺丝 > 邮件， 然后点击帐号 > 添加帐号并设置电子邮箱喵。";
+"Login.EmailCodeSubject" = "%@, no code";
+"Login.EmailCodeBody" = "My phone number is:\n%@\nI can't get an activation code for 猫猫电报.";
+"Login.UnknownError" = "发生错误，请稍后再试喵。";
+"Login.InvalidCodeError" = "验证码无效，请重试喵。";
+"Login.NetworkError" = "请检查主人的网络连接后重试喵。";
+"Login.CodeExpiredError" = "验证码已失效，请重新登录喵。";
+"Login.CodeFloodError" = "尝试次数过多，请稍后再试喵。";
+"Login.InvalidPhoneError" = "手机号码无效，请重新输入喵。";
+"Login.InvalidFirstNameError" = "不符合规范的名字，请重新输入喵。";
+"Login.InvalidLastNameError" = "抱歉，此姓氏不可用喵。";
+
+"Login.InvalidPhoneEmailSubject" = "Invalid phone number: %@";
+"Login.InvalidPhoneEmailBody" = "I'm trying to use my mobile phone number: %1$@\nBut 猫猫电报 says it's invalid. Please help.\n\nApp version: %2$@\nOS version: %3$@\nLocale: %4$@\nMNC: %5$@";
+
+"Login.PhoneBannedEmailSubject" = "被封禁的手机号码: %@";
+"Login.PhoneBannedEmailBody" = "I'm trying to use my mobile phone number: %1$@\nBut 猫猫电报 says it's banned. Please help.\n\nApp version: %2$@\nOS version: %3$@\nLocale: %4$@\nMNC: %5$@";
+
+"Login.PhoneGenericEmailSubject" = "猫猫电报 iOS 错误： %@";
+"Login.PhoneGenericEmailBody" = "I'm trying to use my mobile phone number: %1$@\nBut 猫猫电报 shows an error. Please help.\n\nError: %2$@\nApp version: %3$@\nOS version: %4$@\nLocale: %5$@\nMNC: %6$@";
+
+"Login.PhonePaidEmailSubject" = "付款问题";
+
+// Login.SelectCountry
+"Login.SelectCountry.Title" = "国家/地区";
+
+// Dialog List
+"DialogList.TabTitle" = "聊天";
+"DialogList.Title" = "聊天";
+"DialogList.SearchLabel" = "搜索聊天";
+"DialogList.SearchLabelCompact" = "搜索喵…";
+"DialogList.NoMessagesTitle" = "主人还没有任何对话";
+"DialogList.NoMessagesText" = "请点击右上角的铅笔按钮或转至联系人界面开始发送消息喵。";
+"DialogList.SingleTypingSuffix" = "%@ 正在输入";
+"DialogList.SingleRecordingAudioSuffix" = "%@ 正在录音";
+"DialogList.SingleUploadingPhotoSuffix" = "%@ 正在发送图片";
+"DialogList.SingleUploadingVideoSuffix" = "%@ 正在发送视频";
+"DialogList.SingleRecordingVideoMessageSuffix" = "%@ 正在录制视频";
+"DialogList.SingleUploadingFileSuffix" = "%@ 正在发送文件";
+"DialogList.MultipleTypingSuffix" = "%d 正在输入";
+"DialogList.Typing" = "正在输入";
+"DialogList.ClearHistoryConfirmation" = "清空历史记录";
+"DialogList.DeleteConversationConfirmation" = "删除并退出";
+"DialogList.AwaitingEncryption" = "等待 %@ 上线…";
+"DialogList.EncryptionRejected" = "私密聊天已取消";
+"DialogList.EncryptionProcessing" = "交换加密密钥中…";
+"DialogList.EncryptedChatStartedOutgoing" = "%@ 已加入主人的私密聊天喵。";
+"DialogList.EncryptedChatStartedIncoming" = "%@ 已创建私密聊天喵。";
+
+// Compose
+"Compose.TokenListPlaceholder" = "主人想将谁加入群组喵？";
+"Compose.NewMessage" = "新建对话";
+"Compose.NewGroup" = "新建群组";
+"Compose.NewGroupTitle" = "新建群组";
+"Compose.NewEncryptedChat" = "新建私密聊天";
+"Compose.NewEncryptedChatTitle" = "新建私密聊天";
+"Compose.Create" = "创建";
+
+// Contacts
+"Contacts.TabTitle" = "名册喵";
+"Contacts.Title" = "名册喵";
+"Contacts.FailedToSendInvitesMessage" = "发生错误。";
+"Contacts.AccessDeniedError" = "猫猫电报 无法访问主人的通讯录";
+"Contacts.AccessDeniedHelpLandscape" = "请前往主人 %@ 的「系统小螺丝 - 隐私 - 通讯录」，\n然后开启 猫猫电报 的权限即可喵。";
+"Contacts.AccessDeniedHelpPortrait" = "请在主人的 %@ 上打开“设置” > “隐私” > “通讯录”，然后将 猫猫电报 的权限打开喵。";
+"Contacts.AccessDeniedHelpON" = "开启";
+"Contacts.InviteToTelegram" = "邀请使用 猫猫电报";
+"Contacts.InviteFriends" = "邀请朋友";
+"Contacts.SelectAll" = "全选";
+
+// Conversation
+"Conversation.InputTextPlaceholder" = "输入消息";
+"Conversation.typing" = "正在输入";
+"Conversation.MessageDeliveryFailed" = "主人的消息未发送成功，点击“重新发送”可再次发送喵。";
+"Conversation.MessageDialogEdit" = "梳梳毛喵";
+"Conversation.MessageDialogRetry" = "重新发送";
+"Conversation.MessageDialogRetryAll" = "重新发送 %1$d 条消息";
+"Conversation.MessageDialogDelete" = "丢掉喵";
+"Conversation.LinkDialogOpen" = "打开";
+"Conversation.LinkDialogCopy" = "拷贝";
+"Conversation.ForwardTitle" = "转发喵";
+"Conversation.ForwardChats" = "聊天";
+"Conversation.ForwardContacts" = "名册喵";
+"Conversation.StatusKickedFromGroup" = "主人已被移出此群组";
+"Conversation.StatusLeftGroup" = "主人已退出此群组";
+"Conversation.StatusTyping" = "正在输入";
+"Conversation.Call" = "呼叫";
+"Conversation.Mute" = "静音";
+"ChatList.Mute" = "静音";
+"Conversation.TitleMute" = "静音";
+"Conversation.Unmute" = "开启通知";
+"ChatList.Unmute" = "开启通知";
+"Conversation.TitleUnmute" = "开启通知";
+"Conversation.Edit" = "梳梳毛喵";
+"Conversation.Info" = "详细信息";
+"Conversation.Search" = "搜索喵…";
+"Conversation.Unblock" = "移出黑名单";
+"Conversation.ClearAll" = "清空聊天";
+"Conversation.Location" = "位置";
+"Conversation.Contact" = "联系人信息";
+"Conversation.BlockUser" = "屏蔽此用户";
+"Conversation.UnblockUser" = "将此用户移出黑名单";
+
+"Conversation.EncryptionWaiting" = "等待 %@ 上线…";
+"Conversation.EncryptionProcessing" = "交换加密密钥中…";
+"Conversation.EmptyPlaceholder" = "暂无消息…";
+"Conversation.EncryptedPlaceholderTitleIncoming" = "%@ 邀请主人加入私密聊天喵。";
+"Conversation.EncryptedPlaceholderTitleOutgoing" = "主人已邀请 %@ 加入私密聊天喵。";
+"Conversation.EncryptedDescriptionTitle" = "私密聊天：";
+"Conversation.EncryptedDescription1" = "使用端到端加密";
+"Conversation.EncryptedDescription2" = "不会在人家的服务器上留下任何痕迹";
+"Conversation.EncryptedDescription3" = "支持阅后即焚";
+"Conversation.EncryptedDescription4" = "不允许转发消息";
+"Conversation.ContextMenuCopy" = "拷贝";
+"Conversation.ContextMenuDelete" = "丢掉喵";
+"Conversation.ContextMenuForward" = "转发喵";
+"Conversation.ContextMenuMore" = "更多";
+
+
+
+
+
+
+"Conversation.StatusMembers_any" = "%@ 位成员";
+
+
+
+
+"Conversation.StatusOnline_any" = "%@ 人在线";
+
+
+
+"Conversation.UnreadMessages" = "未读消息";
+
+// Notification
+"Notification.RenamedChat" = "%@ 已更改群组名称";
+"Notification.RenamedChannel" = "频道名称已更改";
+"Notification.ChangedGroupPhoto" = "%@ 已更改群组头像";
+"Notification.RemovedGroupPhoto" = "%@ 已移除群组头像";
+"Notification.JoinedChat" = "%@ 已加入群组";
+"Notification.JoinedChannel" = "%@ 已加入频道";
+"Notification.Invited" = "%@ 邀请了 %@";
+"Notification.InvitedMultiple" = "%@ 邀请了 %@";
+"Notification.LeftChat" = "%@ 已退出群组";
+"Notification.LeftChannel" = "%@ 已退出频道";
+"Notification.Kicked" = "%@ 已移除 %@";
+"Notification.CreatedChat" = "%@ 已创建群组";
+"Notification.CreatedChannel" = "频道已创建";
+"Notification.CreatedGroup" = "群组已创建";
+"Notification.CreatedChatWithTitle" = "%@ 已创建群组 “%@”";
+"Notification.Joined" = "%@ 已加入 猫猫电报";
+"Notification.ChangedGroupName" = "%@ 已将群组名称更改为 “%@”";
+
+"Notification.MessageLifetimeChanged" = "%1$@ 已将阅后即焚计时器设定为 %2$@";
+"Notification.MessageLifetimeChangedOutgoing" = "主人已将阅后即焚计时器设定为 %1$@";
+"Notification.MessageLifetimeRemoved" = "%1$@ 已停用阅后即焚计时器";
+"Notification.MessageLifetimeRemovedOutgoing" = "主人已停用阅后即焚计时器";
+"Notification.MessageLifetime2s" = "2 秒";
+"Notification.MessageLifetime5s" = "5 秒";
+"Notification.MessageLifetime1m" = "1 分钟";
+"Notification.MessageLifetime1h" = "1 小时";
+"Notification.MessageLifetime1d" = "1 天";
+"Notification.MessageLifetime1w" = "1 周";
+
+"Notification.Exceptions.AlwaysOn" = "总是开启";
+"Notification.Exceptions.AlwaysOff" = "总是关闭";
+"Notification.Exceptions.MutedUntil" = "%@ 前保持静音";
+
+"Notification.Exceptions.AddException" = "添加例外";
+"Notification.Exceptions.NewException" = "新建例外";
+"Notification.Exceptions.NewException.NotificationHeader" = "通知";
+"Notification.Exceptions.Sound" = "声音： %@";
+"Notification.Exceptions.SoundCustom" = "声音：自定义";
+
+
+// Message
+"Message.Photo" = "图片";
+"Message.Video" = "视频";
+"Message.Location" = "位置";
+"Message.Contact" = "名册喵";
+"Message.File" = "文件";
+"Message.Sticker" = "贴纸";
+"Message.StickerText" = "\n%@ 贴纸";
+"Message.Audio" = "语音消息";
+"Message.ForwardedMessage" = "转发的消息\n来自：%@";
+"Message.Animation" = "GIF";
+"Message.Game" = "游戏";
+
+// Conversation Profile
+"ConversationProfile.ErrorCreatingConversation" = "发生错误";
+"ConversationProfile.UnknownAddMemberError" = "抱歉，遇到了一个意外问题。人家的魔法师已收到错误报告并将很快吟唱修复咒语喵。";
+"ConversationProfile.UsersTooMuchError" = "抱歉，此群组已经满员。无法添加更多成员喵。";
+
+"ConversationProfile.LeaveDeleteAndExit" = "删除并退出";
+"Group.LeaveGroup" = "退出群组";
+"Group.DeleteGroup" = "删除群组";
+
+"Conversation.Megabytes" = "%.1f MB";
+"Conversation.Kilobytes" = "%d KB";
+"Conversation.Bytes" = "%d B";
+"Conversation.ShareMyContactInfo" = "分享人家的联系信息";
+"Conversation.AddContact" = "添加联系人";
+"Conversation.SendMessage" = "发送消息";
+"Conversation.EncryptionCanceled" = "私密聊天已取消";
+"Conversation.DeleteManyMessages" = "删除消息";
+"Conversation.SlideToCancel" = "滑动以取消";
+"Conversation.ApplyLocalization" = "执行本地化";
+"Conversation.OpenFile" = "打开文件";
+
+// Media Picker
+"MediaPicker.Send" = "送出去喵♪";
+"SearchImages.Title" = "相册";
+"MediaPicker.CameraRoll" = "相机胶卷";
+"SearchImages.NoImagesFound" = "没有符合条件的图片";
+
+// User Profile
+"Profile.CreateEncryptedChatError" = "发生错误。";
+
+"Profile.CreateNewContact" = "新建联系人";
+"Profile.AddToExisting" = "添加到现有的联系人信息";
+"Profile.EncryptionKey" = "加密密钥";
+"Profile.MessageLifetimeForever" = "关掉喵";
+"Profile.MessageLifetime2s" = "2 秒";
+"Profile.MessageLifetime5s" = "5 秒";
+"Profile.MessageLifetime1m" = "1 分钟";
+"Profile.MessageLifetime1h" = "1 小时";
+"Profile.MessageLifetime1d" = "1 天";
+"Profile.MessageLifetime1w" = "1 周";
+"Profile.ShareContactButton" = "分享联系人信息";
+
+// User Info
+"UserInfo.Title" = "个人信息";
+"UserInfo.FirstNamePlaceholder" = "名字";
+"UserInfo.LastNamePlaceholder" = "姓氏";
+"UserInfo.GenericPhoneLabel" = "手机";
+"UserInfo.SendMessage" = "发送消息";
+"UserInfo.AddContact" = "添加为联系人";
+"UserInfo.ShareContact" = "分享联系人信息";
+"UserInfo.StartSecretChat" = "开始私密聊天";
+"UserInfo.StartSecretChatConfirmation" = "主人确定要与 %@ 开始私密聊天吗喵？";
+"UserInfo.StartSecretChatStart" = "好的喵♪";
+"UserInfo.DeleteContact" = "删除联系人信息";
+"UserInfo.CreateNewContact" = "新建联系人";
+"UserInfo.AddToExisting" = "添加到现有的联系人信息";
+"UserInfo.AddPhone" = "添加电话号码";
+"UserInfo.NotificationsEnabled" = "开启";
+"UserInfo.NotificationsDisabled" = "已停用";
+"UserInfo.NotificationsEnable" = "启用";
+"UserInfo.NotificationsDisable" = "停用";
+"UserInfo.Invite" = "邀请使用 猫猫电报";
+
+// New Contact
+"NewContact.Title" = "新建联系人";
+
+// Phone Label
+"PhoneLabel.Title" = "标签";
+
+// Secret Chat
+"SecretChat.Title" = "私密聊天";
+
+// Group Info
+"GroupInfo.Title" = "群组信息";
+"GroupInfo.GroupNamePlaceholder" = "群组名称";
+
+"GroupInfo.SetGroupPhoto" = "设置群组头像";
+"GroupInfo.SetGroupPhotoStop" = "停止";
+"GroupInfo.SetGroupPhotoDelete" = "移除头像";
+"GroupInfo.Notifications" = "通知";
+"GroupInfo.Sound" = "铃声";
+"GroupInfo.SetSound" = "设置铃声";
+"GroupInfo.SharedMedia" = "分享的媒体文件";
+"GroupInfo.SharedMediaNone" = "无";
+"GroupInfo.DeleteAndExit" = "删除并退出";
+"GroupInfo.DeleteAndExitConfirmation" = "主人将无法再次加入此群组，除非由另一位群组成员邀请喵。";
+
+
+
+"GroupInfo.ParticipantCount_any" = "%@ 名成员";
+
+
+"GroupInfo.AddParticipant" = "添加成员";
+"GroupInfo.AddParticipantTitle" = "名册喵";
+"GroupInfo.AddParticipantConfirmation" = "是否将 %@ 添加到此群组喵？";
+"GroupInfo.LeftStatus" = "主人已退出此群组";
+
+// Encryption Key
+"EncryptionKey.Title" = "加密密钥";
+
+
+// Conversation media
+"ConversationMedia.Title" = "媒体";
+
+// Preview
+"Preview.DeletePhoto" = "删除图片";
+"Preview.SaveToCameraRoll" = "保存到照片";
+
+// Map
+"Map.ChooseLocationTitle" = "位置";
+"Map.Map" = "地图";
+"Map.Satellite" = "卫星图像";
+"Map.Hybrid" = "混合";
+"Map.GetDirections" = "获取路线";
+"Map.OpenInGoogleMaps" = "在 Google 地图中打开";
+
+// Web
+"Web.Error" = "无法加载页面";
+"Web.OpenExternal" = "在浏览器中打开";
+
+// Document
+"Document.TargetConfirmationFormat" = "发送文件（{size}）给 {target}喵？";
+
+// Dialog List
+"DialogList.You" = "主人自己";
+
+// Settings
+"Settings.SetProfilePhoto" = "换张可爱头像喵";
+"Settings.Logout" = "登出喵";
+"Settings.Title" = "拧小螺丝喵";
+"Settings.NotificationsAndSounds" = "通知和声音";
+"Settings.ChatSettings" = "数据和存储";
+"Settings.BlockedUsers" = "已屏蔽的用户";
+"Settings.ChatBackground" = "聊天壁纸";
+"Settings.Support" = "向人家提问";
+"Settings.FAQ" = "猫猫电报 常见问题";
+
+"Settings.FAQ_Intro" = "请注意：猫猫电报 的技术支持由志愿者提供。人家会尽快回复，但仍可能需要等待一段时间。\n\n请前往“常见问题”看看：那里有各种常见问题和故障排除指南喵。";
+"Settings.FAQ_Button" = "常见问题";
+"Settings.SaveIncomingPhotos" = "自动保存图片";
+
+// Notifications and Sounds
+"Notifications.Title" = "通知";
+"Notifications.MessageNotifications" = "消息通知";
+"Notifications.MessageNotificationsAlert" = "显示消息提醒";
+"Notifications.MessageNotificationsPreview" = "消息预览";
+"Notifications.MessageNotificationsSound" = "铃声";
+"Notifications.MessageNotificationsHelp" = "主人可以在其个人资料页面上为特定用户设置自定义通知喵。";
+"Notifications.MessageNotificationsExceptionsHelp" = "为特定用户设置自定义通知喵。";
+
+
+
+"Notifications.GroupNotifications" = "群组通知";
+"Notifications.GroupNotificationsAlert" = "显示通知";
+"Notifications.GroupNotificationsPreview" = "消息预览";
+"Notifications.GroupNotificationsSound" = "铃声";
+"Notifications.GroupNotificationsHelp" = "主人可以在特定的群组信息页中设置自定义通知喵。";
+"Notifications.GroupNotificationsExceptionsHelp" = "为特定群组设置自定义通知喵。";
+
+"Notifications.ChannelNotifications" = "频道通知";
+"Notifications.ChannelNotificationsAlert" = "显示通知";
+"Notifications.ChannelNotificationsPreview" = "消息预览";
+"Notifications.ChannelNotificationsSound" = "声音";
+"Notifications.ChannelNotificationsHelp" = "主人可以在特定的频道信息界面中设置针对他们的通知策略喵。";
+"Notifications.ChannelNotificationsExceptionsHelp" = "为特定频道设置自定义通知喵。";
+
+"Notifications.TextTone" = "消息提示音";
+"Notifications.AlertTones" = "提醒铃声";
+"Notifications.ClassicTones" = "经典";
+
+"Notifications.InAppNotifications" = "应用内通知";
+"Notifications.InAppNotificationsSounds" = "应用内提示音";
+"Notifications.InAppNotificationsVibrate" = "应用内振动";
+"Notifications.InAppNotificationsPreview" = "应用内消息预览";
+
+"Notifications.Reset" = "重置";
+"Notifications.ResetAllNotifications" = "重置所有通知策略";
+"Notifications.ResetAllNotificationsHelp" = "撤消主人对联系人、群组和频道的所有自定义通知小螺丝喵。";
+
+// Chat Settings
+"ChatSettings.Title" = "数据和存储";
+"ChatSettings.Appearance" = "外观";
+"ChatSettings.TextSize" = "字号大小";
+"ChatSettings.TextSizeUnits" = "号";
+"ChatSettings.AutomaticPhotoDownload" = "自动下载图片";
+
+"ChatSettings.PrivateChats" = "私聊";
+"ChatSettings.Groups" = "群组";
+"ChatSettings.Cache" = "存储用量";
+
+// Usage
+"Cache.Title" = "存储使用情况";
+"Cache.ClearCache" = "清空缓存";
+"Cache.KeepMedia" = "媒体文件保留时间";
+"Cache.Help" = "为节省磁盘空间，此期限内云端聊天中**未访问过**的图片、视频和其他文件将会被移除。\n\n所有媒体文件都会保留在 猫猫电报 云端，若主人需要可再次下载喵。";
+
+// Blocked Users
+"BlockedUsers.Title" = "已屏蔽";
+"BlockedUsers.SelectUserTitle" = "屏蔽用户";
+"BlockedUsers.BlockUser" = "屏蔽用户…";
+"BlockedUsers.BlockTitle" = "屏蔽";
+"BlockedUsers.LeavePrefix" = "退出";
+"BlockedUsers.Info" = "被主人屏蔽的用户将无法向主人发送消息，或邀请主人加入群组。该用户也无法看到主人的头像、动态、在线状态及最后上线时间喵。";
+"BlockedUsers.AddNew" = "添加新的…";
+"BlockedUsers.Unblock" = "取消屏蔽";
+
+// Wallpaper
+"Wallpaper.Title" = "聊天壁纸";
+"Wallpaper.PhotoLibrary" = "照片图库";
+"Wallpaper.Set" = "拧小螺丝喵";
+"Wallpaper.Wallpaper" = "壁纸";
+
+"Notification.SecretChatMessageScreenshot" = "%@ 截了一张图喵！";
+"Notification.SecretChatScreenshot" = "已截图！";
+
+
+
+"Settings.LogoutConfirmationTitle" = "主人确定要登出吗喵？";
+"Settings.LogoutConfirmationText" = "此操作将取消主人的所有私密聊天。\n\n主人可以同时在所有设备上使用 猫猫电报，并在同一个应用中使用多个帐号喵。";
+
+
+"Login.PadPhoneHelp" = "主人可以使用主要手机号码在所有设备上登录到 猫猫电报。\n请不要使用主人 iPad SIM 卡的号码 — 人家需要给主人发送短信。\n\n此号码是否正确？\n{number}";
+"Login.PadPhoneHelpTitle" = "主人的手机号码";
+
+"MessageTimer.Custom" = "自定义";
+
+"MessageTimer.Forever" = "永久";
+
+
+
+
+"MessageTimer.Seconds_any" = "%@ 秒";
+
+
+
+
+
+"MessageTimer.Minutes_any" = "%@ 分钟";
+
+
+
+
+
+"MessageTimer.Hours_any" = "%@ 小时";
+
+
+
+
+
+"MessageTimer.Days_any" = "%@ 天";
+
+
+
+
+
+"MessageTimer.Weeks_any" = "%@ 周";
+
+
+
+
+
+"MessageTimer.Months_any" = "%@ 个月";
+
+
+
+
+
+"MessageTimer.Years_any" = "%@ 年";
+
+
+
+
+"MessageTimer.ShortSeconds_any" = "%@秒";
+
+
+
+
+
+"MessageTimer.ShortMinutes_any" = "%@分";
+
+
+
+
+
+"MessageTimer.ShortHours_any" = "%@时";
+
+
+
+
+
+"MessageTimer.ShortDays_any" = "%@天";
+
+
+
+
+
+"MessageTimer.ShortWeeks_any" = "%@周";
+
+
+"MessageTimer.ShortMonths_any" = "%@个月";
+
+"MessageTimer.ShortYears_any" = "%@年";
+
+"Activity.UploadingPhoto" = "正在发送图片";
+"Activity.UploadingVideo" = "正在发送视频";
+"Activity.UploadingDocument" = "正在发送文件";
+"Activity.RecordingAudio" = "正在录音";
+"Activity.RecordingVideoMessage" = "正在录制视频";
+
+
+
+"Contacts.GlobalSearch" = "全局搜索";
+"Profile.Username" = "用户名";
+"Settings.Username" = "用户名";
+"Settings.UsernameEmpty" = "添加";
+
+"Username.Title" = "用户名";
+"Username.Placeholder" = "主人的用户名";
+"Username.Help" = "主人可以在 **猫猫电报** 上设置一个用户名。设置后，别人可以通过此用户名找到主人并与主人联系，而不需要主人的手机号码。\n\n主人可以使用 **a-z**、**0-9** 和下划线。最小长度为 **5** 个字符喵。";
+"Username.InvalidTooShort" = "用户名必须包含至少 5 个字符喵。";
+"Username.InvalidStartsWithNumber" = "用户名不能以数字开头喵。";
+"Username.InvalidCharacters" = "主人只能使用 a-z、0-9 和下划线喵。";
+"Username.InvalidTaken" = "抱歉，此用户名已被使用喵。";
+"Username.InvalidValue" = "抱歉，此用户名无效喵。";
+
+"Username.CheckingUsername" = "正在检查用户名…";
+"Username.UsernameIsAvailable" = "%@ 可用。";
+
+"WebSearch.Images" = "图片";
+"WebSearch.GIFs" = "GIF";
+"WebSearch.RecentSectionTitle" = "最近";
+"WebSearch.RecentSectionClear" = "清空";
+
+"Settings.PrivacySettings" = "隐私小螺丝喵";
+
+
+
+
+"UserCount_any" = "%@ 位用户";
+
+
+
+"PrivacySettings.Title" = "隐私小螺丝喵";
+
+"PrivacySettings.PrivacyTitle" = "隐私";
+"PrivacySettings.LastSeen" = "最后上线时间和在线状态";
+"PrivacySettings.LastSeenTitle" = "最近上线";
+"PrivacySettings.LastSeenEverybody" = "所有人";
+"PrivacySettings.LastSeenContacts" = "人家的联系人";
+"PrivacySettings.LastSeenNobody" = "不允许任何人";
+
+"PrivacySettings.LastSeenEverybodyMinus" = "所有人 (-%@)";
+"PrivacySettings.LastSeenContactsPlus" = "人家的联系人 (+%@)";
+"PrivacySettings.LastSeenContactsMinus" = "人家的联系人 (-%@)";
+"PrivacySettings.LastSeenContactsMinusPlus" = "人家的联系人 (-%@, +%@)";
+"PrivacySettings.LastSeenNobodyPlus" = "不允许任何人 (+%@)";
+"PrivacySettings.LastSeenCloseFriendsPlus" = "密友（+%@）";
+"PrivacySettings.LastSeenCloseFriends" = "密友";
+
+"PrivacySettings.SecurityTitle" = "安全";
+
+"PrivacySettings.DeleteAccountTitle" = "自动删除人家的帐号";
+"PrivacySettings.DeleteAccountIfAwayFor" = "若离线达";
+"PrivacySettings.DeleteAccountHelp" = "如果主人在此期间内主人的帐号未曾上线，主人帐号的所有资料——包括消息记录、联系人都会被删除喵。";
+
+"PrivacyLastSeenSettings.Title" = "最后上线时间和在线状态";
+"PrivacyLastSeenSettings.CustomHelp" = "除非主人是高级版订阅用户，对于主人不愿意分享最后上线时间的对象，他们最后的上线时间主人将也无法看到。取而代之的是大致的上线时间（如：最近、一周内、一个月内）喵。";
+"PrivacyLastSeenSettings.AlwaysShareWith" = "总是共享给";
+"PrivacyLastSeenSettings.NeverShareWith" = "从不分享给";
+"PrivacyLastSeenSettings.CustomShareSettingsHelp" = "主人可以将用户或整个群组设为例外，不受以上设置的限制喵。";
+
+"PrivacyLastSeenSettings.CustomShareSettings.Delete" = "丢掉喵";
+"PrivacyLastSeenSettings.AlwaysShareWith.Title" = "总是共享";
+"PrivacyLastSeenSettings.AlwaysShareWith.Placeholder" = "选择可以看见主人上线时间的用户…";
+"PrivacyLastSeenSettings.NeverShareWith.Title" = "从不分享";
+"PrivacyLastSeenSettings.NeverShareWith.Placeholder" = "选择无法看见主人上线时间的用户…";
+"PrivacyLastSeenSettings.EmpryUsersPlaceholder" = "添加用户";
+
+
+
+"PrivacyLastSeenSettings.AddUsers_any" = "添加 %@ 位用户到此列表喵？";
+
+
+
+// Photo Editor
+"PhotoEditor.DiscardChanges" = "放弃更改";
+
+"PhotoEditor.Original" = "原图";
+
+"PhotoEditor.CropReset" = "重置";
+"PhotoEditor.CropAuto" = "自动";
+"PhotoEditor.CropAspectRatioOriginal" = "原图";
+"PhotoEditor.CropAspectRatioSquare" = "正方形";
+
+"PhotoEditor.EnhanceTool" = "增强";
+"PhotoEditor.ExposureTool" = "亮度";
+"PhotoEditor.ContrastTool" = "对比";
+"PhotoEditor.WarmthTool" = "色温";
+"PhotoEditor.SaturationTool" = "饱和";
+"PhotoEditor.HighlightsTool" = "高光";
+"PhotoEditor.ShadowsTool" = "阴影";
+"PhotoEditor.VignetteTool" = "晕影";
+"PhotoEditor.GrainTool" = "噪点";
+"PhotoEditor.SharpenTool" = "锐化";
+
+"PhotoEditor.BlurToolOff" = "关掉喵";
+"PhotoEditor.BlurToolRadial" = "圆形";
+"PhotoEditor.BlurToolLinear" = "线性";
+
+
+
+
+// Camera
+"Camera.PhotoMode" = "拍照";
+"Camera.VideoMode" = "录像";
+"Camera.SquareMode" = "正方形";
+"Camera.FlashOff" = "关掉喵";
+"Camera.FlashOn" = "打开";
+"Camera.FlashAuto" = "自动";
+"Camera.Retake" = "重拍";
+
+"Settings.PhoneNumber" = "更改号码";
+
+"PhoneNumberHelp.Help" = "主人可以在此更换当前绑定到 猫猫电报 的手机号码。主人的帐号和所有云端数据（消息、媒体文件、联系人等）都会迁移到新号码下喵。";
+"PhoneNumberHelp.Alert" = "如果其他用户在其通讯录中存有主人的新号码，或者主人的隐私设置允许其查看主人的号码，该用户将会看到主人的新号码。主人可以在“设置” > “隐私与安全” > “手机号码”中更改此小螺丝喵。";
+"PhoneNumberHelp.ChangeNumber" = "更换手机号码";
+
+"ChangePhoneNumberNumber.Title" = "更换手机号码";
+"ChangePhoneNumberNumber.NewNumber" = "新手机号码";
+"ChangePhoneNumberNumber.Help" = "主人的新号码将通过电话或短信收到确认码喵。";
+"ChangePhoneNumberNumber.NumberPlaceholder" = "输入主人的新手机号码";
+
+"ChangePhoneNumberCode.Code" = "主人的验证码";
+"ChangePhoneNumberCode.CodePlaceholder" = "验证码";
+"ChangePhoneNumberCode.Help" = "人家已向此号码发送短信验证码";
+"ChangePhoneNumberCode.CallTimer" = "猫猫电报 会在 %@ 后使用电话语音播放验证码";
+"ChangePhoneNumberCode.RequestingACall" = "发送呼叫请求中…";
+"ChangePhoneNumberCode.Called" = "猫猫电报 已拨打主人的电话";
+
+"LoginPassword.Title" = "主人的密码";
+"LoginPassword.PasswordPlaceholder" = "密码";
+"LoginPassword.InvalidPasswordError" = "密码错误，请重试喵。";
+"LoginPassword.FloodError" = "尝试次数过多，请稍后再试喵。";
+"LoginPassword.ForgotPassword" = "是否忘记密码？";
+"LoginPassword.PasswordHelp" = "两步验证已开启，已使用额外密码保护主人的帐号喵。";
+
+
+
+
+
+"QuickSend.Photos_any" = "发送 %@ 张图片";
+
+
+
+"Share.Title" = "分享";
+
+
+
+"Forward.ConfirmMultipleFiles_any" = "发送 %@ 个文件给 {target}喵？";
+
+
+
+"Notification.Reply" = "回复喵";
+"Notification.Mute1h" = "静音 1 小时";
+"Notification.Mute1hMin" = "静音 1 小时";
+"Conversation.ContextMenuShare" = "分享";
+"Conversation.ContextMenuLookUp" = "查找";
+
+"SharedMedia.TitleAll" = "分享的媒体文件";
+
+
+
+
+"SharedMedia.Photo_any" = "%@ 张图片";
+
+
+
+
+
+
+"SharedMedia.Video_any" = "%@ 段视频";
+
+
+
+
+
+
+"SharedMedia.File_any" = "%@ 个文件";
+
+
+
+
+
+
+"SharedMedia.Generic_any" = "%@ 个媒体文件";
+
+
+
+"FileSize.B" = "%@ B";
+"FileSize.KB" = "%@ KB";
+"FileSize.MB" = "%@ MB";
+"FileSize.GB" = "%@ GB";
+
+"DownloadingStatus" = "下载中：%@ / %@";
+
+"Time.MonthOfYear_m1" = "%@ 年 1 月";
+"Time.MonthOfYear_m2" = "%@ 年 2 月";
+"Time.MonthOfYear_m3" = "%@ 年 3 月";
+"Time.MonthOfYear_m4" = "%@ 年 4 月";
+"Time.MonthOfYear_m5" = "%@ 年 5 月";
+"Time.MonthOfYear_m6" = "%@ 年 6 月";
+"Time.MonthOfYear_m7" = "%@ 年 7 月";
+"Time.MonthOfYear_m8" = "%@ 年 8 月";
+"Time.MonthOfYear_m9" = "%@ 年 9 月";
+"Time.MonthOfYear_m10" = "%@ 年 10 月";
+"Time.MonthOfYear_m11" = "%@ 年 11 月";
+"Time.MonthOfYear_m12" = "%@ 年 12 月";
+
+"Time.PreciseDate_m1" = "%2$@年1月%1$@日 %3$@";
+"Time.PreciseDate_m2" = "%2$@年2月%1$@日 %3$@";
+"Time.PreciseDate_m3" = "%2$@年3月%1$@日 %3$@";
+"Time.PreciseDate_m4" = "%2$@年4月%1$@日 %3$@";
+"Time.PreciseDate_m5" = "%2$@年5月%1$@日 %3$@";
+"Time.PreciseDate_m6" = "%2$@年6月%1$@日 %3$@";
+"Time.PreciseDate_m7" = "%2$@年7月%1$@日 %3$@";
+"Time.PreciseDate_m8" = "%2$@年8月%1$@日 %3$@";
+"Time.PreciseDate_m9" = "%2$@年9月%1$@日 %3$@";
+"Time.PreciseDate_m10" = "%2$@年10月%1$@日 %3$@";
+"Time.PreciseDate_m11" = "%2$@年11月%1$@日 %3$@";
+"Time.PreciseDate_m12" = "%2$@年12月%1$@日 %3$@";
+
+"Time.MediumDate" = "%1$@  %2$@";
+
+
+
+
+
+
+
+
+
+
+
+"MuteFor.Hours_any" = "关闭通知 %@ 小时";
+
+
+
+
+
+
+"MuteFor.Days_any" = "静音 %@ 天";
+
+
+
+
+"MutedForTime.Minutes_any" = "%@ 分钟";
+
+
+"MutedForTime.Hours_any" = "%@ 小时";
+
+
+"MutedForTime.Days_any" = "%@ 天";
+
+
+
+
+"MuteExpires.Minutes_any" = "%@ 分钟内";
+
+
+
+
+
+
+"MuteExpires.Hours_any" = "%@ 小时内";
+
+
+
+
+
+
+"MuteExpires.Days_any" = "%@ 天内";
+
+
+
+"SharedMedia.EmptyTitle" = "暂无媒体文件";
+"SharedMedia.EmptyText" = "快在这个对话里分享一些图片或者视频吧\n不然这个回形针会一直不开心的喵。";
+"SharedMedia.EmptyFilesText" = "主人可以发送或收取最大为1.5G的任意格式的文件，\n并在所有设备上查看喵。";
+
+"ShareFileTip.Title" = "分享文件";
+"ShareFileTip.Text" = "主人可以在此处从主人的相机胶卷中分享 **无损的** 媒体文件。\n\n如要分享其它类型的文件，请在 %@（例如浏览器）中打开它们，点击 **通过其它应用打开** 或者点击分享按钮并选择「猫猫电报」喵。";
+"ShareFileTip.CloseTip" = "关闭提示";
+
+"DialogList.SearchSectionDialogs" = "聊天和联系人";
+"DialogList.SearchSectionChats" = "聊天";
+"DialogList.SearchSectionGlobal" = "全局搜索";
+"DialogList.SearchSectionMessages" = "消息";
+
+"Username.LinkHint" = "通过此链接可以与主人聊天：[\nhttps://t.me/%@]";
+"Username.LinkCopied" = "链接已复制到剪贴板喵。";
+
+
+
+
+"SharedMedia.DeleteItemsConfirmation_any" = "删除 %@ 个媒体文件喵？";
+
+
+
+"PrivacySettings.Passcode" = "密码锁";
+"PasscodeSettings.Title" = "密码锁";
+"PasscodeSettings.TurnPasscodeOn" = "开启密码锁";
+"PasscodeSettings.TurnPasscodeOff" = "关闭锁定码";
+"PasscodeSettings.ChangePasscode" = "修改锁定码";
+"PasscodeSettings.Help" = "当主人设置好锁定码后，聊天页面会出现一个锁形图标。点击它来锁定 猫猫电报 应用。\n\n注意：如果主人忘记了锁定码，主人将需要重新安装应用。所有的私密聊天将会丢失喵。";
+"PasscodeSettings.UnlockWithTouchId" = "使用 Touch ID 解锁";
+"PasscodeSettings.SimplePasscode" = "简易锁定码";
+"PasscodeSettings.SimplePasscodeHelp" = "简易锁定码由四位数字组成喵。";
+"PasscodeSettings.EncryptData" = "加密本地数据库";
+"PasscodeSettings.EncryptDataHelp" = "这是一个试验性功能，请谨慎使用。它通过锁定码生成密钥，来加密本地储存的 猫猫电报 数据喵。";
+
+"EnterPasscode.EnterTitle" = "请输入 猫猫电报 锁定码";
+"EnterPasscode.ChangeTitle" = "修改锁定码";
+"EnterPasscode.EnterPasscode" = "请输入 猫猫电报 锁定码";
+"EnterPasscode.EnterNewPasscodeNew" = "请输入一个锁定码";
+"EnterPasscode.EnterNewPasscodeChange" = "请输入新的锁定码";
+"EnterPasscode.RepeatNewPasscode" = "请再次输入新的锁定码";
+"EnterPasscode.EnterCurrentPasscode" = "请输入当前的锁定码";
+"EnterPasscode.TouchId" = "解锁 猫猫电报";
+
+"DialogList.PasscodeLockHelp" = "点击以锁定 猫猫电报";
+
+"PasscodeSettings.AutoLock" = "自动锁定";
+"PasscodeSettings.AutoLock.Disabled" = "停用";
+"PasscodeSettings.AutoLock.IfAwayFor_1minute" = "离开 1 分钟后";
+"PasscodeSettings.AutoLock.IfAwayFor_5minutes" = "离开 5 分钟后";
+"PasscodeSettings.AutoLock.IfAwayFor_1hour" = "离开 1 小时后";
+"PasscodeSettings.AutoLock.IfAwayFor_5hours" = "离开 5 小时后";
+
+
+
+
+"PasscodeSettings.FailedAttempts_any" = "已输错锁定码 %@ 次";
+
+
+"PasscodeSettings.TryAgainIn1Minute" = "请于 1 分钟后重试";
+
+"AccessDenied.Title" = "请授权访问";
+
+"AccessDenied.Contacts" = "猫猫电报 基于主人已有的联系人列表与他人通讯。\n\n请在主人的设备上打开“设置” > “隐私” > “通讯录”，然后将 猫猫电报 的权限打开喵。";
+
+"AccessDenied.VoiceMicrophone" = "猫猫电报 需要访问主人的麦克风，以便主人发送语音消息。\n\n请在主人的设备上打开“设置” > “隐私” > “麦克风”，然后将 猫猫电报 的权限打开喵。";
+
+"AccessDenied.VideoMicrophone" = "猫猫电报 需要访问主人的麦克风，以便主人在视频中录制声音。\n\n请在主人的设备上打开“设置” > “隐私” > “麦克风”，然后将 猫猫电报 的权限打开喵。";
+
+"AccessDenied.MicrophoneRestricted" = "猫猫电报 无法访问麦克风。\n\n请在主人的设备上打开“设置” > “通用” > “访问限制” > “麦克风”，然后将 猫猫电报 的权限打开喵。";
+
+
+"AccessDenied.Camera" = "猫猫电报 需要访问主人的相机，以便主人拍照或录像。\n\n请在主人的设备上打开“设置” > “隐私” > “相机”，然后将 猫猫电报 的权限打开喵。";
+
+"AccessDenied.CameraRestricted" = "猫猫电报 无法访问相机。\n\n请在主人的设备上打开“设置” > “通用” > “访问限制” > “相机”，然后将 猫猫电报 的权限打开喵。";
+
+"AccessDenied.CameraDisabled" = "此设备已被禁止使用相机。\n\n请前往「小螺丝 - 通用 - 访问限制」中打开「相机」的开关喵。";
+
+"AccessDenied.PhotosAndVideos" = "猫猫电报 需要访问主人的相册，以便主人发送图片或视频。\n\n请在主人的设备上打开“设置” > “隐私” > “照片”，然后将 猫猫电报 的权限打开喵。";
+
+"AccessDenied.SaveMedia" = "猫猫电报 需要访问主人的相册，以便主人保存图片或视频。\n\n请在主人的设备上打开“设置” > “隐私” > “照片”，然后将 猫猫电报 的权限打开喵。";
+
+"AccessDenied.PhotosRestricted" = "猫猫电报 无法访问照片。\n\n请前往「小螺丝 - 隐私 - 照片」中开启 猫猫电报 权限喵。";
+
+"AccessDenied.LocationDenied" = "猫猫电报 需要访问主人的位置信息，以便主人将其分享给联系人。\n\n请在主人的设备上打开“设置” > “隐私” > “定位服务”，然后将 猫猫电报 的权限打开喵。";
+
+"AccessDenied.LocationDisabled" = "猫猫电报 需要访问主人的位置信息，以便主人将其分享给联系人。\n\n请在主人的设备上打开“设置” > “隐私” > “定位服务”，然后将 猫猫电报 的权限打开喵。";
+
+"AccessDenied.LocationTracking" = "猫猫电报 需要访问主人的位置信息，以便主人与朋友分享位置。\n\n请在主人的设备上打开“设置” > “隐私” > “定位服务”，然后将 猫猫电报 的权限打开喵。";
+
+"AccessDenied.Settings" = "拧小螺丝喵";
+
+"WebSearch.RecentClearConfirmation" = "主人确定要清空“近期图片”列表吗喵？";
+
+"FeatureDisabled.Oops" = "哎哟";
+
+"Conversation.ContextMenuReply" = "回复喵";
+
+
+
+
+"ForwardedMessages_any" = "%@ 条转发的消息";
+
+
+
+
+
+
+"ForwardedFiles_any" = "%@ 个转发的文件";
+
+
+
+
+
+
+"ForwardedStickers_any" = "%@ 个转发的表情";
+
+
+
+
+
+
+"ForwardedPhotos_any" = "%@ 张转发的图片";
+
+
+
+
+
+
+"ForwardedVideos_any" = "%@ 段转发的视频";
+
+
+
+
+
+
+"ForwardedAudios_any" = "%@ 条转发的语音消息";
+
+
+
+
+
+
+"ForwardedLocations_any" = "%@ 个转发的位置信息";
+
+
+
+
+
+
+"ForwardedGifs_any" = "%@ 张转发的 GIF 动态图 ";
+
+
+
+
+
+
+"ForwardedContacts_any" = "%@ 个被转发的联系人信息";
+
+
+
+"ForwardedAuthors2" = "%@, %@";
+
+"PrivacySettings.TwoStepAuth" = "两步验证";
+"TwoStepAuth.Title" = "两步验证";
+"TwoStepAuth.SetPassword" = "设置两步验证密码";
+"TwoStepAuth.SetPasswordHelp" = "主人可以设置一个密码。当登陆到新设备时，它将作为输入短信验证码后的附加验证喵。";
+"TwoStepAuth.SetupPasswordTitle" = "主人的密码";
+
+"TwoStepAuth.SetupHintTitle" = "密码提示";
+"TwoStepAuth.SetupHint" = "请为主人的密码建立提示：";
+
+"TwoStepAuth.ChangePassword" = "更改密码";
+"TwoStepAuth.RemovePassword" = "停用密码";
+"TwoStepAuth.SetupEmail" = "设置恢复电子邮箱";
+"TwoStepAuth.ChangeEmail" = "更改密码恢复电子邮箱";
+"TwoStepAuth.PendingEmailHelp" = "主人的密码恢复电子邮箱 %@ 正在等待验证，在完成验证之前它将不会启用喵。";
+"TwoStepAuth.GenericHelp" = "主人已启用两步验证。\n主人将需要此处设置的密码以登录到主人的 猫猫电报 帐号喵。";
+
+"TwoStepAuth.ConfirmationTitle" = "两步验证";
+"TwoStepAuth.ConfirmationText" = "请检查主人的电子邮箱，并点击验证链接来完成两步验证的小螺丝。请务必也检查垃圾邮件文件夹喵。";
+"TwoStepAuth.ConfirmationAbort" = "取消两步验证小螺丝";
+
+"TwoStepAuth.SetupPasswordEnterPasswordNew" = "请输入密码：";
+"TwoStepAuth.SetupPasswordEnterPasswordChange" = "请输入新密码：";
+"TwoStepAuth.SetupPasswordConfirmPassword" = "请再次输入密码：";
+"TwoStepAuth.SetupPasswordConfirmFailed" = "密码不一致，请重新输入喵。";
+
+"TwoStepAuth.EnterPasswordTitle" = "密码";
+"TwoStepAuth.EnterPasswordPassword" = "密码";
+"TwoStepAuth.EnterPasswordHint" = "提示：%@";
+"TwoStepAuth.EnterPasswordHelp" = "主人已启用了两步验证，因此主人的帐号已受到额外密码的保护喵。";
+"TwoStepAuth.EnterPasswordInvalid" = "密码错误，请重试喵。";
+"TwoStepAuth.EnterPasswordForgot" = "是否忘记密码？";
+
+"TwoStepAuth.EmailTitle" = "密码恢复电子邮箱";
+"TwoStepAuth.EmailSkip" = "跳过";
+"TwoStepAuth.EmailSkipAlert" = "主人确定不设置密码恢复邮箱吗？\n\n一旦主人忘记了密码，主人将无法再访问主人的 猫猫电报 帐号，并且再也没有办法恢复帐号数据喵。";
+"TwoStepAuth.Email" = "电子邮箱";
+"TwoStepAuth.EmailPlaceholder" = "主人的电子邮箱";
+"TwoStepAuth.EmailHelp" = "请添加主人的有效电子邮箱。这是忘记密码时唯一的恢复方法喵。";
+"TwoStepAuth.EmailInvalid" = "邮箱地址无效，请重试喵。";
+"TwoStepAuth.EmailSent" = "人家已向主人发送了一封邮件来验证此电子邮箱地址喵。";
+"TwoStepAuth.PasswordSet" = "主人的两步验证密码现已启用喵。";
+"TwoStepAuth.PasswordRemoveConfirmation" = "主人确定要停用密码吗喵？";
+"TwoStepAuth.EmailCodeExpired" = "此验证码已失效，请再试一次喵。";
+
+"TwoStepAuth.RecoveryUnavailable" = "因为主人在设置密码时没有同时提供密码恢复电子邮箱，主人剩下的选择就只有回忆起主人的密码或重置主人的帐号喵。";
+"TwoStepAuth.RecoveryFailed" = "主人剩下的选择只有回忆起主人的密码或重置主人的帐号喵。";
+"TwoStepAuth.ResetAccountHelp" = "如果主人确认重置帐号，主人将丢失 猫猫电报 中所有的聊天、消息、媒体和文件喵。";
+"TwoStepAuth.ResetAccountConfirmation" = "如果主人重置了帐号，将会丢失所有的聊天、消息、媒体和文件喵。";
+
+"TwoStepAuth.RecoveryTitle" = "电子邮箱验证码";
+"TwoStepAuth.RecoveryCode" = "验证码";
+"TwoStepAuth.RecoveryCodeHelp" = "请查阅主人电子邮箱中的邮件，并输入人家发送的六位数验证码，以停用云端密码喵。";
+"TwoStepAuth.RecoveryCodeInvalid" = "验证码无效，请重试喵。";
+"TwoStepAuth.RecoveryCodeExpired" = "人家重新向主人发送了六位验证码喵。";
+"TwoStepAuth.RecoveryEmailUnavailable" = "无法访问 %@ 喵？";
+
+"TwoStepAuth.FloodError" = "尝试次数过多，请稍后再试喵。";
+
+"Conversation.FilePhotoOrVideo" = "相机胶卷";
+"Conversation.FileICloudDrive" = "iCloud Drive";
+"Conversation.FileDropbox" = "Dropbox";
+
+"Conversation.FileOpenIn" = "使用其它应用打开…";
+"Conversation.FileHowToText" = "如需分享其它类型的文件，在主人的 %@（例如浏览器）中打开它们，点击 **通过其它应用打开** 或在分享按钮中选择使用 猫猫电报 打开喵。";
+
+"Map.LocationTitle" = "位置";
+"Map.OpenInMaps" = "在地图中显示";
+"Map.OpenInHereMaps" = "在 HERE Maps 中显示";
+"Map.OpenInYandexMaps" = "在 Yandex Maps 中显示";
+"Map.OpenInYandexNavigator" = "在 Yandex Navigator 中显示";
+"Map.OpenIn" = "使用其它应用打开…";
+
+"Map.SendThisLocation" = "发送此位置";
+"Map.SendMyCurrentLocation" = "发送人家当前的位置";
+"Map.Locating" = "定位中…";
+"Map.ChooseAPlace" = "或者选择一个地点";
+"Map.AccurateTo" = "精确到 %@";
+"Map.Search" = "搜索周边";
+"Map.ShowPlaces" = "显示地点";
+"Map.LoadError" = "发生错误，请重试喵。";
+"Map.LocatingError" = "定位失败";
+"Map.Unknown" = "未知位置";
+
+"Map.DistanceAway" = "距离此地 %@";
+
+
+
+
+"Map.ETAMinutes_any" = "%@ 分";
+
+
+
+
+
+"Map.ETAHours_any" = "%@ 小时";
+
+
+"ChangePhone.ErrorOccupied" = "手机号码 %@ 已经和一个 猫猫电报 帐号绑定。请先删除该帐号再迁移到此新号码喵。";
+
+"AccessDenied.LocationTracking" = "猫猫电报 需要访问主人的位置信息，以便主人与朋友分享位置。\n\n请在主人的设备上打开“设置” > “隐私” > “定位服务”，然后将 猫猫电报 的权限打开喵。";
+
+"PrivacySettings.AuthSessions" = "活跃会话";
+"AuthSessions.Title" = "活跃会话";
+"AuthSessions.CurrentSession" = "此设备";
+"AuthSessions.TerminateOtherSessions" = "注销所有其它设备上的会话";
+"AuthSessions.TerminateOtherSessionsHelp" = "登出除此设备外的所有设备喵。";
+"AuthSessions.TerminateSession" = "注销会话";
+"AuthSessions.OtherSessions" = "活跃会话";
+"AuthSessions.EmptyTitle" = "没有其它的会话";
+"AuthSessions.EmptyText" = "主人可以从其它的手机、平板和桌面设备用同样的手机号码登录到 猫猫电报。所有数据将被实时同步喵。";
+"AuthSessions.AppUnofficial" = "（ID: %@）";
+
+"WebPreview.GettingLinkInfo" = "正在获取链接信息…";
+
+"Preview.OpenInInstagram" = "在 Instagram 中打开";
+
+"MediaPicker.AddCaption" = "添加说明…";
+
+"GroupInfo.InviteByLink" = "通过链接邀请加入群组";
+
+"GroupInfo.InviteLink.Title" = "邀请链接";
+"GroupInfo.InviteLink.LinkSection" = "链接";
+"GroupInfo.InviteLink.Help" = "任何已安装 猫猫电报 的用户都将可以通过此链接加入主人的群组喵。";
+"GroupInfo.InviteLink.CopyLink" = "拷贝链接";
+"GroupInfo.InviteLink.RevokeLink" = "撤销链接";
+"GroupInfo.InviteLink.ShareLink" = "分享链接";
+"GroupInfo.InviteLink.RevokeAlert.Text" = "主人确定要撤销此邀请链接吗？一旦撤销，其他人将不能通过此链接加入此群组喵。";
+"GroupInfo.InviteLink.RevokeAlert.Revoke" = "撤销";
+"GroupInfo.InviteLink.RevokeAlert.Success" = "之前的邀请链接已失效，新的链接已生成喵。";
+"GroupInfo.InviteLink.CopyAlert.Success" = "链接已拷贝到剪贴板喵。";
+
+"UserInfo.ShareMyContactInfo" = "分享人家的联系信息";
+
+"GroupInfo.InvitationLinkAcceptChannel" = "主人确定要加入频道 “%@” 吗喵？";
+"GroupInfo.InvitationLinkDoesNotExist" = "抱歉，该群组似乎不存在喵。";
+"GroupInfo.InvitationLinkGroupFull" = "抱歉，此群组已满员喵。";
+
+"Core.ServiceUserStatus" = "服务通知";
+
+"Notification.JoinedGroupByLink" = "%@ 已通过邀请链接加入群组";
+
+"ChatSettings.Other" = "其它";
+"ChatSettings.Stickers" = "贴纸与表情";
+
+"StickerPacksSettings.Title" = "贴纸与表情";
+"StickerPacksSettings.ShowStickersButton" = "显示「表情」标签页";
+"StickerPacksSettings.ShowStickersButtonHelp" = "开启后，输入框内将出现一个「表情」图标喵。";
+
+"StickerPacksSettings.StickerPacksSection" = "表情包";
+"StickerPacksSettings.ManagingHelp" = "艺术家可以自由地使用机器人 @stickers 创建自己的表情包。\n\n点击一个表情可以对其进行预览，并添加其所属的整套表情包喵。";
+
+"StickerPack.BuiltinPackName" = "伟大的思想";
+
+
+
+"StickerPack.StickerCount_any" = "%@ 张贴图";
+
+
+
+
+
+
+"StickerPack.AddStickerCount_any" = "添加 %@ 个表情";
+
+
+
+"Conversation.ContextMenuStickerPackAdd" = "添加表情包";
+"Conversation.ContextMenuStickerPackInfo" = "信息";
+
+
+
+"UserInfo.ShareBot" = "分享";
+"UserInfo.InviteBotToGroup" = "添加到群组";
+"Profile.BotInfo" = "关于";
+
+"Target.SelectGroup" = "选择群组";
+"Target.InviteToGroupConfirmation" = "是否将机器人添加到 “%@”喵？";
+"Target.InviteToGroupErrorAlreadyInvited" = "该机器人已在此群组中喵。";
+"Bot.GenericBotStatus" = "机器人";
+"Bot.GenericSupportStatus" = "客服";
+"Bot.DescriptionTitle" = "它能做什么？";
+"Bot.GroupStatusReadsHistory" = "可读取消息";
+"Bot.GroupStatusDoesNotReadHistory" = "无权读取消息";
+"Bot.Start" = "开始";
+"UserInfo.BotSettings" = "拧小螺丝喵";
+"UserInfo.BotHelp" = "帮助";
+
+"Contacts.SearchLabel" = "搜索联系人或用户名";
+"ChatSearch.SearchPlaceholder" = "搜索喵…";
+
+"WatchRemote.NotificationText" = "在主人的手机上打开此通知以查看来自主人 Apple Watch 的消息喵。";
+"WatchRemote.AlertTitle" = "来自 Apple Watch 的消息";
+"WatchRemote.AlertText" = "是否在此查看消息喵？";
+"WatchRemote.AlertOpen" = "查看";
+
+"Conversation.SearchPlaceholder" = "在此聊天中搜索";
+"Conversation.SearchNoResults" = "未找到相关信息";
+
+"GroupInfo.AddUserLeftError" = "抱歉，若用户退出了群组，只有双向联系人才能将他们加回来（即需双方互相持有对方的手机号码）。\n\n注意只要对方不在被移除用户列表中，就仍可通过群组的邀请链接加入喵。";
+
+"DialogList.SearchSectionRecent" = "最近";
+
+"DialogList.DeleteBotConfirmation" = "丢掉喵";
+"DialogList.DeleteBotConversationConfirmation" = "删除并屏蔽";
+"Bot.Stop" = "屏蔽机器人";
+"Bot.Unblock" = "重新启用机器人";
+
+"Login.PhoneNumberHelp" = "帮助";
+"Login.EmailPhoneSubject" = "无效号码 %@";
+"Login.EmailPhoneBody" = "I'm trying to use my mobile phone number: %@\nBut 猫猫电报 says it's invalid. Please help.\nAdditional Info: %@, %@.";
+
+
+"SharedMedia.EmptyLinksText" = "此聊天中分享的所有链接都会显示在这里";
+
+
+
+
+"SharedMedia.Link_any" = "%@ 条链接";
+
+
+
+"Compose.NewChannel" = "新建频道";
+"GroupInfo.ChannelListNamePlaceholder" = "频道名称";
+
+"Channel.MessagePhotoUpdated" = "频道头像已更新";
+"Channel.MessagePhotoRemoved" = "频道头像已被移除";
+"Channel.MessageTitleUpdated" = "频道名称已被更改为«%@»";
+"Channel.TitleInfo" = "频道信息";
+
+"Channel.UpdatePhotoItem" = "设置频道头像";
+
+"Channel.LinkItem" = "分享链接";
+"Channel.Edit.AboutItem" = "简介";
+"Channel.Edit.LinkItem" = "链接";
+
+"Channel.Username.Title" = "链接";
+"Channel.Username.Help" = "主人可以在 **猫猫电报** 上为频道设置一个名称。设置后，别人将能够通过此名称找到主人的频道。\n\n主人可以使用 **a-z**、**0-9** 和下划线。最小长度为 **5** 个字符喵。";
+"Channel.Username.LinkHint" = "通过这个链接可以打开主人的频道：[\nhttps://t.me/%@]";
+"Channel.Username.InvalidTooShort" = "公开链接必须包含至少 5 个字符喵。";
+"Channel.Username.InvalidStartsWithNumber" = "公开链接不能以数字开头喵。";
+"Channel.Username.InvalidCharacters" = "抱歉，此用户名不符合规范喵。";
+"Channel.Username.InvalidTaken" = "抱歉，此链接已被占用喵。";
+"Channel.Username.CheckingUsername" = "正在检查用户名…";
+"Channel.Username.UsernameIsAvailable" = "%@ 可用。";
+
+"Channel.LeaveChannel" = "退出频道";
+
+"Channel.About.Title" = "简介";
+
+"Channel.About.Placeholder" = "简介";
+"Channel.About.Help" = "主人可以给主人的频道添加一段简介喵。";
+"Group.About.Help" = "主人可以给主人的群组添加一段简介喵。";
+
+"Channel.Status" = "频道";
+"Group.Status" = "群组";
+
+
+
+"ChannelInfo.ConfirmLeave" = "退出频道";
+"Channel.JoinChannel" = "加入";
+"Forward.ChannelReadOnly" = "抱歉，主人无法发布消息到此频道喵。";
+
+"Channel.ErrorAccessDenied" = "此频道不可用。";
+"Group.ErrorAccessDenied" = "此群组不可用。";
+"CommentsGroup.ErrorAccessDenied" = "抱歉，由于主人被管理员封禁，该聊天已无法访问喵。";
+"Conversation.InputTextBroadcastPlaceholder" = "广播";
+
+"Channel.NotificationLoading" = "加载中…";
+
+"Compose.ChannelTokenListPlaceholder" = "搜索联系人或用户名";
+"Compose.GroupTokenListPlaceholder" = "搜索联系人或用户名";
+
+"Compose.ChannelMembers" = "成员";
+
+"Channel.Setup.TypeHeader" = "频道类型";
+"Channel.Setup.TypePrivate" = "私密";
+"Channel.Setup.TypePublic" = "公开";
+"Channel.Setup.TypePublicHelp" = "公开频道可以通过搜索找到，任何人都可以加入喵。";
+"Channel.Setup.TypePrivateHelp" = "私密频道只能通过邀请链接加入喵。";
+
+"Channel.Setup.Title" = "频道";
+
+"Channel.Username.CreatePublicLinkHelp" = "设置公开链接后，其他人就可以找到并加入主人的频道。\n\n主人可以使用 **a-z**、**0-9** 和下划线。\n最小长度为 5 个字符喵。";
+"Channel.Username.CreatePrivateLinkHelp" = "任何人都可以通过此链接关注主人的频道。主人可以随时废除此链接喵。";
+
+"Channel.Setup.PublicNoLink" = "请为主人的公开频道设置一条链接，以便他人能通过搜索找到此频道并分享给他人。\n\n如果主人对此不感兴趣，人家建议主人创建一个私密频道喵。";
+
+"Channel.Edit.PrivatePublicLinkAlert" = "请注意：若主人选择给主人的频道创建一条公开链接，任何人都能找到主人的频道并关注。\n\n如果主人想保持频道的私密性，请不要创建此链接喵。";
+
+"Channel.Info.Description" = "简介";
+
+"Channel.Info.Management" = "管理员";
+"Channel.Info.Banned" = "已封禁";
+"Channel.Info.Members" = "成员";
+
+"Channel.Members.AddMembers" = "添加订阅者";
+"Channel.Members.AddMembersHelp" = "此列表仅频道管理员可见喵。";
+"Channel.Members.Title" = "成员";
+"Channel.BlackList.Title" = "已封禁";
+"Channel.Management.Title" = "管理员";
+"Channel.Management.LabelCreator" = "所有者";
+"Channel.Management.LabelEditor" = "管理员";
+
+"Channel.Management.AddModerator" = "添加管理员";
+"Channel.Management.AddModeratorHelp" = "主人可以添加管理员帮助主人管理频道喵。";
+
+"Channel.Members.InviteLink" = "通过链接邀请";
+
+
+
+"Channel.Moderator.AccessLevelRevoke" = "解任管理员";
+
+"Channel.Moderator.Title" = "管理员";
+
+"Notification.ChannelInviter" = "%@ 邀请主人关注此频道";
+"Notification.ChannelInviterSelf" = "主人已加入此频道";
+
+"Notification.GroupInviter" = "%@ 已邀请主人加入此群组";
+"Notification.GroupInviterSelf" = "主人已加入此群组";
+
+"ChannelInfo.DeleteChannel" = "删除频道";
+"ChannelInfo.DeleteChannelConfirmation" = "删除此频道将会移除所有关注者并且会丢失所有消息。确定要删除此频道喵？";
+
+"ChannelInfo.ChannelForbidden" = "抱歉，频道«%@»已无法访问喵。";
+"ChannelInfo.AddParticipantConfirmation" = "是否将 %@ 添加到此频道喵？";
+
+"PhotoEditor.FadeTool" = "褪色";
+
+"PhotoEditor.ShadowsTint" = "阴影";
+"PhotoEditor.HighlightsTint" = "高光";
+
+"PhotoEditor.CurvesAll" = "全部颜色";
+"PhotoEditor.CurvesRed" = "红";
+"PhotoEditor.CurvesGreen" = "绿";
+"PhotoEditor.CurvesBlue" = "蓝";
+
+"Channel.ErrorAddBlocked" = "抱歉，根据此用户的隐私小螺丝，主人无法邀请此人关注频道喵。";
+"Channel.ErrorAddTooMuch" = "抱歉，主人只能在订阅者未满 200 人时手动添加用户。然而通过频道邀请链接关注的用户无此数量限制喵。";
+
+"ChannelIntro.Title" = "频道是什么？";
+"ChannelIntro.Text" = "频道是一种\n能够将主人的消息\n广播给无数关注者的工具喵。";
+"ChannelIntro.CreateChannel" = "创建频道";
+
+"ShareMenu.Send" = "送出去喵♪";
+
+"Conversation.ReportSpam" = "举报垃圾信息";
+"Conversation.ReportSpamAndLeave" = "举报垃圾信息并退出";
+"Conversation.ReportSpamConfirmation" = "主人要举报此用户发布垃圾信息吗喵？";
+"Conversation.ReportSpamGroupConfirmation" = "主人确定要举报此群组发送垃圾信息吗喵？";
+"Conversation.ReportSpamChannelConfirmation" = "主人确定要举报此频道发布垃圾信息吗喵？";
+"SharedMedia.EmptyMusicText" = "此聊天中共享的所有音乐都会在这里显示喵。";
+
+"ChatSettings.AutoPlayAnimations" = "自动播放 GIF";
+
+"GroupInfo.ChatAdmins" = "添加管理员";
+
+"ChatAdmins.Title" = "聊天管理员";
+"ChatAdmins.AllMembersAreAdmins" = "将所有成员都设为管理员";
+"ChatAdmins.AllMembersAreAdminsOnHelp" = "所有成员都能邀请新成员、编辑群组名称和头像喵。";
+"ChatAdmins.AllMembersAreAdminsOffHelp" = "只有管理员有权添加或移除成员、编辑群组名称或头像喵。";
+"ChatAdmins.AdminLabel" = "管理员";
+
+"Group.MessagePhotoUpdated" = "群组头像已更新";
+"Group.MessagePhotoRemoved" = "群组头像已被移除";
+
+"Group.UpgradeNoticeHeader" = "成员人数已达上限";
+
+"Group.UpgradeNoticeText1" = "升级为超级群组即可提升成员数量上限，并获得更多功能：";
+"Group.UpgradeNoticeText2" = "• 超级群组可以拥有 {supergroup_member_limit} 名成员\n• 新成员可以看到所有的历史聊天记录\n• 管理员能为所有人撤回消息\n• 消息通知默认为静音";
+"GroupInfo.UpgradeButton" = "升级为超级群组";
+"Group.UpgradeConfirmation" = "请注意：此操作是不可逆的。超级群组不可能降级为普通群组喵。";
+
+
+
+"GroupInfo.DeactivatedStatus" = "群组已失效";
+
+"Notification.RenamedGroup" = "群组名称已更改";
+
+"Group.ErrorAddTooMuchBots" = "抱歉，此群组的机器人数量已达上限喵。";
+"Group.ErrorAddTooMuchAdmins" = "抱歉，此群组的管理员人数已达上限喵。";
+"Group.ErrorAddBlocked" = "抱歉，主人无法将此用户添加到群组喵。";
+"Group.ErrorNotMutualContact" = "抱歉，目前主人只能将双向联系人添加到群组喵。";
+
+"Conversation.SendMessageErrorFlood" = "抱歉，目前主人只能给双向联系人发送消息喵。";
+"Generic.ErrorMoreInfo" = "更多信息";
+
+"ChannelInfo.DeleteGroup" = "删除群组";
+"ChannelInfo.DeleteGroupConfirmation" = "删除本群组将会移除所有成员并导致所有消息记录丢失，确认要这样做吗喵？";
+
+"ReportPeer.Report" = "举报";
+
+"ReportPeer.ReasonSpam" = "垃圾信息";
+"ReportPeer.ReasonViolence" = "暴力";
+"ReportPeer.ReasonPornography" = "色情";
+"ReportPeer.ReasonChildAbuse" = "虐待儿童";
+"ReportPeer.ReasonOther" = "其它";
+
+"ReportPeer.AlertSuccess" = "非常感谢！\n人家的团队将会核查主人的举报喵。";
+
+"Login.TermsOfServiceLabel" = "注册即代表主人同意[服务条款]喵。";
+"Login.TermsOfServiceHeader" = "服务条款";
+
+"ReportPeer.ReasonOther.Placeholder" = "描述";
+"ReportPeer.ReasonOther.Title" = "举报";
+"ReportPeer.ReasonOther.Send" = "送出去喵♪";
+
+"Group.Management.AddModeratorHelp" = "主人可以添加管理员帮助主人管理群组喵。";
+
+"Watch.AppName" = "猫猫电报";
+"Watch.Compose.AddContact" = "选择联系人";
+"Watch.Compose.CreateMessage" = "创建消息";
+"Watch.Compose.CurrentLocation" = "当前位置";
+"Watch.Compose.Send" = "送出去喵♪";
+"Watch.Contacts.NoResults" = "未找到\n符合条件的\n联系人";
+"Watch.ChatList.NoConversationsTitle" = "尚无对话";
+"Watch.ChatList.NoConversationsText" = "重按一下，\n再点击「新消息」\n来开始发送信息";
+"Watch.ChatList.Compose" = "新建对话";
+
+"Watch.Conversation.Reply" = "回复喵";
+"Watch.Conversation.Unblock" = "移出黑名单";
+"Watch.Conversation.UserInfo" = "个人信息";
+"Watch.Conversation.GroupInfo" = "群组信息";
+"Watch.Bot.Restart" = "重新启用";
+
+"Watch.UserInfo.Title" = "个人信息";
+"Watch.UserInfo.Service" = "服务通知";
+
+"Watch.UserInfo.Block" = "屏蔽";
+"Watch.UserInfo.Unblock" = "移出黑名单";
+
+
+
+"Watch.UserInfo.Mute_any" = "静音 %@ 小时";
+
+
+"Watch.UserInfo.MuteTitle" = "静音";
+"Watch.UserInfo.Unmute" = "开启通知";
+
+"Watch.GroupInfo.Title" = "群组信息";
+"Watch.ChannelInfo.Title" = "频道信息";
+
+"Watch.Message.ForwardedFrom" = "转发自";
+
+"Watch.Notification.Joined" = "已加入 猫猫电报";
+
+"Watch.MessageView.Title" = "消息";
+"Watch.MessageView.Forward" = "转发喵";
+"Watch.MessageView.Reply" = "回复喵";
+"Watch.MessageView.ViewOnPhone" = "在手机上查看";
+
+"Watch.PhotoView.Title" = "图片";
+
+"Watch.Stickers.Recents" = "最近";
+"Watch.Stickers.RecentPlaceholder" = "主人常用的表情会在这里显示喵。";
+"Watch.Stickers.StickerPacks" = "贴纸包";
+
+"Watch.Location.Current" = "当前位置信息";
+"Watch.Location.Access" = "允许 猫猫电报 获取主人的位置";
+
+"Watch.AuthRequired" = "若要开始，请先在手机上登录到 猫猫电报";
+
+"Watch.NoConnection" = "无连接";
+"Watch.ConnectionDescription" = "主人的手表需要在连接后才能运行应用";
+
+"Watch.Time.ShortTodayAt" = "今天 %@";
+"Watch.Time.ShortYesterdayAt" = "昨天 %@";
+"Watch.Time.ShortWeekdayAt" = "%1$@ %2$@";
+"Watch.Time.ShortFullAt" = "%1$@ %2$@";
+
+"Watch.LastSeen.JustNow" = "刚刚";
+
+
+
+"Watch.LastSeen.MinutesAgo_any" = "%@ 分钟前";
+
+
+
+
+
+"Watch.LastSeen.HoursAgo_any" = "%@ 小时前";
+
+
+"Watch.LastSeen.YesterdayAt" = "昨天 %@";
+"Watch.LastSeen.AtDate" = "%@";
+"Watch.LastSeen.Lately" = "最近";
+"Watch.LastSeen.WithinAWeek" = "一周内";
+"Watch.LastSeen.WithinAMonth" = "一个月内";
+"Watch.LastSeen.ALongTimeAgo" = "很久之前";
+
+"Watch.Suggestion.OK" = "好的喵♪";
+"Watch.Suggestion.Thanks" = "谢谢！";
+"Watch.Suggestion.WhatsUp" = "什么事？";
+"Watch.Suggestion.TalkLater" = "待会儿再聊？";
+"Watch.Suggestion.CantTalk" = "人家现在没空…";
+"Watch.Suggestion.HoldOn" = "等一下…";
+"Watch.Suggestion.BRB" = "马上回来";
+"Watch.Suggestion.OnMyWay" = "在路上。";
+"Cache.Photos" = "图片";
+"Cache.Videos" = "视频";
+"Cache.Music" = "音乐";
+"Cache.Files" = "文件";
+"Cache.Clear" = "释放 (%@)";
+"Cache.ClearNone" = "清除";
+"Cache.ClearProgress" = "请稍候…";
+"Cache.ClearEmpty" = "无";
+"Cache.ByPeerHeader" = "聊天";
+"Cache.Indexing" = "猫猫电报 正在计算当前缓存占用空间。\n这可能需要几分钟喵。";
+
+"ExplicitContent.AlertTitle" = "抱歉";
+"ExplicitContent.AlertChannel" = "主人无法访问这个频道，因为它违反了 App Store 的规定喵。";
+
+"StickerSettings.ContextHide" = "归档";
+
+"Conversation.LinkDialogSave" = "收好喵";
+"Conversation.GifTooltip" = "点击这里访问已保存的 GIF 动态图";
+
+"AttachmentMenu.PhotoOrVideo" = "图片或视频";
+"AttachmentMenu.File" = "文件";
+
+
+
+
+"AttachmentMenu.SendPhoto_any" = "发送 %@ 张图片";
+
+
+
+
+
+
+"AttachmentMenu.SendVideo_any" = "发送 %@ 段视频";
+
+
+
+
+
+
+"AttachmentMenu.SendGif_any" = "发送 %@ 张 GIF 动态图";
+
+
+
+
+
+
+"AttachmentMenu.SendItem_any" = "发送这 %@ 项";
+
+
+
+"AttachmentMenu.SendAsFile" = "作为文件发送";
+"AttachmentMenu.SendAsFiles" = "作为文件发送";
+
+"Conversation.Processing" = "处理中…";
+
+"Conversation.MessageViaUser" = "通过 %@";
+
+"CreateGroup.SoftUserLimitAlert" = "在创建群组后，主人将能添加更多成员喵。";
+
+"Privacy.GroupsAndChannels" = "群组与频道";
+"Privacy.GroupsAndChannels.WhoCanAddMe" = "谁可以邀请人家";
+"Privacy.GroupsAndChannels.CustomHelp" = "主人可以详细控制哪些人能够将主人加入到群组和频道中喵。";
+"Privacy.GroupsAndChannels.AlwaysAllow" = "总是允许";
+"Privacy.GroupsAndChannels.NeverAllow" = "从不允许";
+"Privacy.GroupsAndChannels.CustomShareHelp" = "上面的设置项将决定这些用户是否能添加主人到群组或频道喵。";
+
+"Privacy.GroupsAndChannels.AlwaysAllow.Title" = "总是允许";
+"Privacy.GroupsAndChannels.AlwaysAllow.Placeholder" = "总是允许…";
+"Privacy.GroupsAndChannels.NeverAllow.Title" = "绝不允许";
+"Privacy.GroupsAndChannels.NeverAllow.Placeholder" = "永不允许…";
+
+"Privacy.GroupsAndChannels.InviteToGroupError" = "抱歉，根据“%@”的隐私小螺丝，主人无法将“%@”添加到群组喵。";
+"Privacy.GroupsAndChannels.InviteToChannelError" = "抱歉，根据 %@ 的隐私小螺丝，主人无法将 %@ 加入频道喵。";
+"Privacy.GroupsAndChannels.InviteToChannelMultipleError" = "抱歉，根据其中一些用户的隐私小螺丝，主人无法与这些人建立群组喵。";
+
+"ChannelMembers.WhoCanAddMembers" = "谁可以邀请成员";
+"ChannelMembers.WhoCanAddMembers.AllMembers" = "所有成员";
+"ChannelMembers.WhoCanAddMembers.Admins" = "仅限管理员";
+"ChannelMembers.WhoCanAddMembersAllHelp" = "所有人都能邀请成员";
+"ChannelMembers.WhoCanAddMembersAdminsHelp" = "只有管理员有权添加新成员喵。";
+
+"ChannelMembers.GroupAdminsTitle" = "群组管理员";
+"ChannelMembers.ChannelAdminsTitle" = "频道管理员";
+"MusicPlayer.VoiceNote" = "语音消息";
+
+"PrivacyLastSeenSettings.WhoCanSeeMyTimestamp" = "谁可以看到人家最后上线的时间";
+
+"PrivacyLastSeenSettings.GroupsAndChannelsHelp" = "上面的选项可以决定谁能将主人添加到群组/频道喵。";
+"MusicPlayer.VoiceNote" = "语音消息";
+
+"Watch.Microphone.Access" = "允许 猫猫电报 获取主人手机上的麦克风权限";
+
+"Settings.AppleWatch" = "Apple Watch";
+"AppleWatch.Title" = "Apple Watch";
+"AppleWatch.ReplyPresets" = "预设回复";
+"AppleWatch.ReplyPresetsHelp" = "编写或回复信息时，主人可以选择其中一条作为回复，也可将它们改成任意主人喜欢的样子喵。";
+
+"KeyCommand.FocusOnInputField" = "编写消息";
+"KeyCommand.Find" = "搜索喵…";
+"KeyCommand.ScrollUp" = "向上滚动";
+"KeyCommand.ScrollDown" = "向下滚动";
+"KeyCommand.NewMessage" = "新建对话";
+"KeyCommand.JumpToPreviousChat" = "跳转到上一个聊天";
+"KeyCommand.JumpToNextChat" = "跳转到下一个聊天";
+"KeyCommand.JumpToPreviousUnreadChat" = "跳转到上一个未读聊天";
+"KeyCommand.JumpToNextUnreadChat" = "跳转到下一个未读聊天";
+"KeyCommand.SendMessage" = "发送消息";
+"KeyCommand.ChatInfo" = "聊天信息";
+
+"Conversation.SecretLinkPreviewAlert" = "主人要启用私密聊天中的链接预览功能吗？注意，链接预览将在 猫猫电报 的服务器上生成喵。";
+
+
+"Map.OpenInWaze" = "在 Waze 中显示";
+
+"ShareMenu.CopyShareLink" = "拷贝链接";
+
+"Channel.SignMessages" = "消息署名";
+"Channel.SignMessages.Help" = "在管理员发送的消息后附上名字喵。";
+
+"Channel.EditMessageErrorGeneric" = "抱歉，主人无法编辑这条消息喵。";
+
+"Conversation.InputTextSilentBroadcastPlaceholder" = "静默广播";
+"Conversation.SilentBroadcastTooltipOn" = "消息发布后订阅者会收到通知喵。";
+"Conversation.SilentBroadcastTooltipOff" = "消息发布后订阅者会收到无声通知喵。";
+
+"Settings.About" = "个人简介";
+"GroupInfo.LabelAdmin" = "管理员";
+
+"Conversation.Pin" = "置顶喵";
+"Conversation.Unpin" = "取消置顶喵";
+"Conversation.Report" = "举报垃圾信息";
+"Conversation.PinnedMessage" = "置顶消息";
+"Conversation.PinnedPreviousMessage" = "之前置顶的消息";
+
+"Conversation.Moderate.Delete" = "删除消息";
+"Conversation.Moderate.Ban" = "封禁用户";
+"Conversation.Moderate.Report" = "举报垃圾信息";
+"Conversation.Moderate.DeleteAllMessages" = "删除 %@ 发送的所有消息";
+
+"Group.Username.InvalidTooShort" = "群组名称必须至少包含 5 个字符喵。";
+"Group.Username.InvalidStartsWithNumber" = "公开链接不能以数字开头喵。";
+
+"Notification.PinnedTextMessage" = "%@ 置顶了«%@»";
+"Notification.PinnedPhotoMessage" = "%@ 置顶了一张图片";
+"Notification.PinnedVideoMessage" = "%@ 置顶了一段视频";
+"Notification.PinnedRoundMessage" = "%@ 已置顶一条视频消息";
+"Notification.PinnedAudioMessage" = "%@ 已置顶一条语音消息";
+"Notification.PinnedDocumentMessage" = "%@ 置顶了一个文件";
+"Notification.PinnedAnimationMessage" = "%@ 已置顶一张 GIF 动态图";
+"Notification.PinnedStickerMessage" = "%@ 置顶了一个表情";
+"Notification.PinnedLocationMessage" = "%@ 已置顶一张地图";
+"Notification.PinnedContactMessage" = "%@ 已置顶一个联系人信息";
+"Notification.PinnedDeletedMessage" = "%@ 已置顶一条已删除消息";
+"Notification.PinnedPollMessage" = "%@ 置顶了一项投票";
+"Notification.PinnedQuizMessage" = "%@ 已置顶一个问答";
+
+"Message.PinnedTextMessage" = "置顶了«%@»";
+"Message.PinnedPhotoMessage" = "已置顶图片";
+"Message.PinnedVideoMessage" = "已置顶视频";
+"Message.PinnedAudioMessage" = "已置顶语音消息";
+"Message.PinnedDocumentMessage" = "已置顶文件";
+"Message.PinnedAnimationMessage" = "置顶了 GIF";
+"Message.PinnedStickerMessage" = "已置顶贴纸";
+"Message.PinnedLocationMessage" = "已置顶一个位置";
+"Message.PinnedContactMessage" = "已置顶联系人信息";
+"Message.PinnedGenericMessage" = "%@ 已置顶一条消息";
+
+"Notification.PinnedMessage" = "已置顶消息";
+
+"GroupInfo.ConvertToSupergroup" = "转换为超级群组";
+
+"ConvertToSupergroup.Title" = "超级群组";
+"ConvertToSupergroup.HelpTitle" = "**在超级群组中：**";
+"ConvertToSupergroup.HelpText" = "• 新成员能看到所有历史聊天记录\n• 所有成员将看不到已删除的消息\n• 管理员可以为群组添加描述\n• 创建者可以给群组设置一条公开链接";
+
+"ConvertToSupergroup.Note" = "**注意**：此操作不可撤消喵。";
+
+"GroupInfo.GroupType" = "群组类型";
+
+"Group.Setup.TypeHeader" = "群组类型";
+"Group.Setup.TypePublicHelp" = "任何人都可以搜索、加入公开群组，并查看历史聊天记录喵。";
+"Group.Setup.TypePrivateHelp" = "私密群组只能通过他人的邀请或邀请链接加入喵。";
+
+"Group.Username.CreatePublicLinkHelp" = "所有人都可以与其他人分享此链接，并使用 猫猫电报 的搜索功能找到主人的群组喵。";
+"Group.Username.CreatePrivateLinkHelp" = "任何人都可以通过此链接加入主人的群组。主人可以随时撤销此链接喵。";
+
+"Conversation.PinMessageAlertGroup" = "是否置顶此消息并通知所有群组成员喵？";
+"Conversation.PinMessageAlert.OnlyPin" = "仅置顶";
+"Conversation.PinMessageAlert.PinAndNotifyMembers" = "置顶并提醒所有人";
+
+"Conversation.UnpinMessageAlert" = "主人确定要取消置顶此消息吗喵？";
+
+"Settings.About.Title" = "个人简介";
+"Settings.About.Help" = "主人可以在此输入任何有关主人个人的信息，诸如：年龄、工作或居住城市。\n示例：23岁，来自旧金山的设计师喵。";
+
+"Profile.About" = "个人简介";
+
+"Conversation.StatusKickedFromChannel" = "主人已被移出此频道";
+
+"Generic.OpenHiddenLinkAlert" = "是否打开 %@ 喵？";
+
+"Resolve.ErrorNotFound" = "抱歉，此用户似乎不存在喵。";
+
+"StickerPack.Share" = "分享";
+"StickerPack.Send" = "发送表情";
+"StickerPack.AddSticker" = "添加贴纸";
+"StickerPack.RemoveStickerSet" = "移除贴纸包";
+
+
+
+
+"StickerPack.RemoveStickerCount_any" = "移除 %@ 个表情";
+
+
+
+"StickerPack.HideStickers" = "隐藏这些表情";
+"StickerPack.ShowStickers" = "显示这些表情";
+
+"ShareMenu.ShareTo" = "分享给";
+"ShareMenu.SelectChats" = "选择聊天";
+"ShareMenu.Comment" = "补充评论…";
+
+"MediaPicker.Videos" = "视频";
+
+"Coub.TapForSound" = "点击以播放声音";
+
+"Preview.SaveGif" = "保存 GIF";
+"Preview.DeleteGif" = "删除 GIF";
+"Preview.CopyAddress" = "拷贝地址";
+
+
+
+
+
+
+
+
+
+"StickerPack.ErrorNotFound" = "抱歉，此表情包似乎不存在喵。";
+
+"Camera.TapAndHoldForVideo" = "长按拍摄视频";
+
+"DialogList.RecentTitlePeople" = "用户";
+
+"Conversation.MessageEditedLabel" = "已编辑";
+"Conversation.EditingMessagePanelTitle" = "编辑消息";
+
+"DialogList.Draft" = "草稿";
+"Embed.PlayingInPIP" = "此视频正在以「画中画」模式播放";
+
+"StickerPacksSettings.FeaturedPacks" = "热门表情";
+"FeaturedStickerPacks.Title" = "热门表情";
+
+"Invitation.JoinGroup" = "加入群组";
+
+
+
+"Invitation.Members_any" = "%@ 位成员：";
+
+
+
+"StickerPacksSettings.ArchivedPacks" = "已归档贴纸包";
+"StickerPacksSettings.ArchivedPacks.Info" = "主人最多可以添加 200 套贴图包。\n未被使用的贴图包将在主人添加新贴图包时被归档喵。";
+
+"Conversation.CloudStorageInfo.Title" = "主人的云存储";
+"Conversation.ClousStorageInfo.Description1" = "• 转发消息到此以保存它们";
+"Conversation.ClousStorageInfo.Description2" = "• 保存发送至此的媒体和文件";
+"Conversation.ClousStorageInfo.Description3" = "• 在任意设备上访问此聊天";
+"Conversation.ClousStorageInfo.Description4" = "• 使用搜索以更快地查找";
+
+"Conversation.CloudStorage.ChatStatus" = "与主人自己聊天";
+
+"ArchivedPacksAlert.Title" = "主人的一些旧贴纸包已经被归档。主人可以在「贴纸」设置里重新激活它们喵。";
+
+"StickerSettings.ContextInfo" = "如果主人归档了一套贴纸包，主人可以在「已归档贴纸包」选项中快速将其恢复喵。";
+
+"Contacts.TopSection" = "名册喵";
+
+
+
+"Login.ResetAccountProtected.TimerTitle" = "在这段时间后，主人将能重置主人的帐号：";
+"Login.ResetAccountProtected.Reset" = "重置";
+"Login.ResetAccountProtected.LimitExceeded" = "主人最近的重置帐号请求已被此帐号当前的活跃用户撤销，请于 7 天后再试喵。";
+
+"Login.CodeSentCall" = "人家正在呼叫主人的手机以播放验证码喵。";
+
+"Login.WillSendSms" = "猫猫电报 将在 %@ 后给主人发送短信";
+"Login.SmsRequestState2" = "正在请求 猫猫电报 发送短信…";
+"Login.SmsRequestState3" = "猫猫电报 已向主人发送短信\n[仍未收到验证码？]";
+
+
+
+
+"CancelResetAccount.Success" = "删除帐号（%@）的请求已被取消 喵。";
+
+
+"Paint.Clear" = "清除全部";
+"Paint.ClearConfirm" = "清理绘画痕迹";
+"Paint.Delete" = "丢掉喵";
+"Paint.Edit" = "梳梳毛喵";
+"Paint.Duplicate" = "拷贝";
+"Paint.Stickers" = "表情包";
+"Paint.RecentStickers" = "最近";
+"Paint.Masks" = "装饰";
+
+"Paint.Outlined" = "轮廓";
+"Paint.Regular" = "常规";
+
+"MediaPicker.VideoMuteDescription" = "已处于静音状态，视频将像 GIF 动态图一样自动循环播放喵。";
+
+
+"Group.Username.RemoveExistingUsernamesInfo" = "主人保留了太多公共用户名。主人可以撤消其中一个较旧群组或频道的链接，也可以创建一个私人链接喵。";
+
+
+
+
+"ServiceMessage.GameScoreExtended_any" = "{name} 在«{game}»中获得 %@ 分";
+
+
+
+
+
+
+"ServiceMessage.GameScoreSelfExtended_any" = "主人在«{game}»中获得 %@ 分";
+
+
+
+
+
+
+"ServiceMessage.GameScoreSimple_any" = "{name} 获得 %@ 分";
+
+
+
+
+
+
+"ServiceMessage.GameScoreSelfSimple_any" = "主人获得 %@ 分";
+
+
+
+
+
+
+"Notification.GameScoreExtended_any" = "在«{game}»中获得 %@ 分";
+
+
+
+
+
+
+"Notification.GameScoreSelfExtended_any" = "在«{game}»中获得 %@ 分";
+
+
+
+
+
+
+"Notification.GameScoreSimple_any" = "获得 %@ 分";
+
+
+
+
+
+
+"Notification.GameScoreSelfSimple_any" = "获得 %@ 分";
+
+
+
+"Stickers.Install" = "添加";
+"Stickers.Installed" = "添加";
+
+"MaskStickerSettings.Title" = "装饰";
+"MaskStickerSettings.Info" = "在发送图片和视频前，主人可以在媒体编辑器中为其添加装饰喵。";
+
+"StickerPack.Add" = "添加";
+
+
+
+"StickerPack.AddMaskCount_any" = "添加 %@ 个装饰";
+
+
+
+
+
+
+"StickerPack.RemoveMaskCount_any" = "移除 %@ 个装饰";
+
+
+
+
+"StickerPacksSettings.ArchivedMasks" = "已归档装饰";
+"StickerSettings.MaskContextInfo" = "如果主人归档了一套装饰包，主人可以从「已归档装饰包」选项中快速将其恢复喵。";
+"StickerPacksSettings.ArchivedMasks.Info" = "You can have up to 200 sets of masks.
+Unused sets are archived when you add more.";
+
+"CloudStorage.Title" = "云存储";
+
+"Widget.AuthRequired" = "登录到 猫猫电报";
+"Widget.NoUsers" = "发送消息后，就能在这里看到主人的朋友";
+
+
+
+"ShareMenu.CopyShareLinkGame" = "拷贝游戏链接";
+
+"Message.PinnedGame" = "置顶了一个游戏";
+"Message.AuthorPinnedGame" = "%@ 置顶了一个游戏";
+
+"Target.ShareGameConfirmationPrivate" = "与“%@”分享此游戏喵？";
+"Target.ShareGameConfirmationGroup" = "向«%@»分享此游戏喵？";
+
+"Activity.PlayingGame" = "正在玩游戏";
+"Activity.UploadingVideoMessage" = "正在发送视频";
+
+"DialogList.SinglePlayingGameSuffix" = "%@ 正在玩游戏";
+
+"UserInfo.GroupsInCommon" = "共同加入的群组";
+"Conversation.InstantPagePreview" = "即时预览";
+
+"StickerPack.ViewPack" = "查看贴纸包";
+"InstantPage.AuthorAndDateTitle" = "作者 %1$@ • %2$@";
+"InstantPage.FeedbackButton" = "举报此预览的错误";
+"Conversation.JumpToDate" = "跳转到此日期";
+"Conversation.AddToReadingList" = "添加到阅读列表";
+
+"AccessDenied.CallMicrophone" = "猫猫电报 需要访问主人的麦克风，以便主人进行语音通话。\n\n请在主人的设备上打开“设置” > “隐私” > “麦克风”，然后将 猫猫电报 的权限打开喵。";
+
+"Call.EncryptionKey.Title" = "加密密钥";
+
+"Application.Name" = "猫猫电报";
+"DialogList.Pin" = "置顶喵";
+"DialogList.Unpin" = "取消置顶喵";
+"DialogList.PinLimitError" = "抱歉，主人最多只能置顶 %@ 个聊天喵。";
+"DialogList.UnknownPinLimitError" = "抱歉，主人无法再置顶更多的聊天喵。";
+
+"Conversation.DeleteMessagesForMe" = "仅为人家删除";
+"Conversation.DeleteMessagesFor" = "为人家和“%@\"删除";
+"Conversation.DeleteMessagesForEveryone" = "为所有人删除";
+
+"NetworkUsageSettings.Title" = "流量使用情况";
+"NetworkUsageSettings.Cellular" = "蜂窝网络";
+"NetworkUsageSettings.Wifi" = "Wi-Fi";
+
+"NetworkUsageSettings.GeneralDataSection" = "消息";
+"NetworkUsageSettings.MediaImageDataSection" = "图片";
+"NetworkUsageSettings.MediaVideoDataSection" = "视频";
+"NetworkUsageSettings.MediaAudioDataSection" = "音频";
+"NetworkUsageSettings.MediaDocumentDataSection" = "文件";
+"NetworkUsageSettings.TotalSection" = "总字节数";
+"NetworkUsageSettings.BytesSent" = "已发送流量";
+"NetworkUsageSettings.BytesReceived" = "已接收流量";
+
+"NetworkUsageSettings.ResetStats" = "重置统计数据";
+"NetworkUsageSettings.ResetStatsConfirmation" = "主人确定要重置统计数据吗喵？";
+"NetworkUsageSettings.CellularUsageSince" = "自 %@ 起的蜂窝移动网络使用情况";
+"NetworkUsageSettings.WifiUsageSince" = "自 %@ 起的 Wi-Fi 使用情况";
+
+"Settings.CallSettings" = "语音通话喵";
+
+"Calls.TabTitle" = "语音通话喵";
+"Calls.All" = "全部";
+"Calls.Missed" = "未接";
+
+"CallSettings.Title" = "语音通话喵";
+"CallSettings.RecentCalls" = "最近通话";
+"CallSettings.TabIcon" = "显示「通话」标签页";
+"CallSettings.TabIconDescription" = "开启后，底栏内将出现一个「通话」图标喵。";
+"CallSettings.UseLessData" = "节省数据流量";
+"CallSettings.Never" = "从不";
+"CallSettings.OnMobile" = "仅限移动网络";
+"CallSettings.Always" = "总是";
+"CallSettings.UseLessDataLongDescription" = "在较差的网络环境下，节省数据流量能在一定程度上提升通话体验，但是音质和画质将有些许降低喵。";
+
+"Calls.CallTabTitle" = "「通话」标签页";
+"Calls.CallTabDescription" = "主人可以将「通话」添加到底栏内喵。";
+"Calls.NotNow" = "稍后";
+"Calls.AddTab" = "添加此标签页";
+"Calls.NewCall" = "新建通话";
+
+"Calls.RatingTitle" = "请对主人这次 猫猫电报 通话的质量\n作出评价";
+"Calls.SubmitRating" = "提交";
+
+
+
+
+"Call.Seconds_any" = "%@ 秒";
+
+
+
+
+
+"Call.Minutes_any" = "%@ 分钟";
+
+
+
+
+
+"Call.Hours_any" = "%@ 小时";
+
+
+
+
+
+"Call.Days_any" = "%@ 天";
+
+
+
+
+
+
+
+"Call.ShortSeconds_any" = "%@ 秒";
+
+
+
+
+
+"Call.ShortMinutes_any" = "%@ 分";
+
+
+
+"Notification.CallTimeFormat" = "%1$@（%2$@）"; // 1 - type, 2 - duration
+"Notification.CallOutgoing" = "拨出";
+"Notification.VideoCallOutgoing" = "拨出视频通话";
+"Notification.CallIncoming" = "来电";
+"Notification.VideoCallIncoming" = "视频来电";
+"Notification.CallMissed" = "未接";
+"Notification.VideoCallMissed" = "未接视频来电";
+"Notification.CallCanceled" = "通话已取消";
+"Notification.VideoCallCanceled" = "已取消的视频通话";
+"Notification.CallOutgoingShort" = "拨出";
+"Notification.CallIncomingShort" = "来电";
+"Notification.CallMissedShort" = "未接";
+"Notification.CallCanceledShort" = "已取消";
+"Notification.CallFormat" = "%1$@, %2$@"; // 1 - time, 2 - duration
+
+"Call.ConnectionErrorTitle" = "无法呼叫";
+"Call.ConnectionErrorMessage" = "请检查主人的互联网连接并重试喵。";
+
+"Call.CallAgain" = "再次呼叫";
+
+"Login.PhoneFloodError" = "抱歉，主人最近删除重建账号的次数过多。请稍等几天再重新注册喵。";
+
+"Checkout.Title" = "结算";
+"Checkout.TotalAmount" = "总计";
+"Checkout.TotalPaidAmount" = "总计支付";
+"Checkout.PaymentMethod" = "支付方式";
+"Checkout.ShippingMethod" = "配送方式";
+"Checkout.ShippingAddress" = "配送信息";
+"Checkout.Name" = "姓名";
+"Checkout.Email" = "电子邮箱";
+"Checkout.Phone" = "电话号码";
+"Checkout.PayPrice" = "支付 %@";
+"Checkout.PayNone" = "支付";
+
+"Checkout.PaymentMethod.Title" = "支付方式";
+"Checkout.PaymentMethod.New" = "添加银行卡…";
+
+"Checkout.NewCard.Title" = "添加银行卡";
+"Checkout.NewCard.PaymentCard" = "付款卡";
+"Checkout.NewCard.SaveInfo" = "保存付款信息";
+"Checkout.NewCard.SaveInfoEnableHelp" = "主人可以保存主人的付款信息以便在未来使用。\n请先[开启两步验证]后再启用此功能喵。";
+"Checkout.NewCard.SaveInfoHelp" = "主人可以保存付款信息以便在未来使用。将会直接由支付服务提供商保存。猫猫电报 无法获取主人的信用卡数据喵。";
+"Checkout.NewCard.CardholderNameTitle" = "持卡人";
+"Checkout.NewCard.CardholderNamePlaceholder" = "持卡人姓名";
+"Checkout.NewCard.PostcodeTitle" = "账单地址";
+"Checkout.NewCard.PostcodePlaceholder" = "邮政编码";
+
+"Checkout.ShippingOption.Title" = "配送方式";
+
+"Checkout.ErrorProviderAccountInvalid" = "此机器人目前无法接受支付请求，请稍后再试喵。";
+"Checkout.ErrorProviderAccountTimeout" = "这个机器人现在无法处理付款，请稍后再试喵。";
+"Checkout.ErrorInvoiceAlreadyPaid" = "主人已经支付过此商品了喵。";
+
+"Checkout.ErrorGeneric" = "处理主人的付款时出错，主人的银行卡没有被扣款喵。";
+"Checkout.ErrorPaymentFailed" = "付款失败。主人的银行卡没有被扣款喵。";
+"Checkout.ErrorPrecheckoutFailed" = "此机器人无法处理主人的付款。主人的银行卡没有被扣款喵。";
+
+"CheckoutInfo.Title" = "配送信息";
+"CheckoutInfo.ShippingInfoTitle" = "配送地址";
+"CheckoutInfo.ShippingInfoAddress1" = "地址行 1";
+"CheckoutInfo.ShippingInfoAddress1Placeholder" = "地址";
+"CheckoutInfo.ShippingInfoAddress2" = "地址行 2";
+"CheckoutInfo.ShippingInfoAddress2Placeholder" = "地址";
+"CheckoutInfo.ShippingInfoState" = "省份/州";
+"CheckoutInfo.ShippingInfoStatePlaceholder" = "省份/州";
+"CheckoutInfo.ShippingInfoCity" = "城市";
+"CheckoutInfo.ShippingInfoCityPlaceholder" = "城市";
+"CheckoutInfo.ShippingInfoCountry" = "国家/地区";
+"CheckoutInfo.ShippingInfoCountryPlaceholder" = "国家/地区";
+"CheckoutInfo.ShippingInfoPostcode" = "邮政编码";
+"CheckoutInfo.ShippingInfoPostcodePlaceholder" = "邮政编码";
+"CheckoutInfo.ReceiverInfoTitle" = "收件人";
+"CheckoutInfo.ReceiverInfoName" = "姓名";
+"CheckoutInfo.ReceiverInfoNamePlaceholder" = "姓名";
+"CheckoutInfo.ReceiverInfoEmail" = "电子邮箱";
+"CheckoutInfo.ReceiverInfoEmailPlaceholder" = "电子邮箱";
+"CheckoutInfo.ReceiverInfoPhone" = "电话号码";
+"CheckoutInfo.SaveInfo" = "保存信息";
+"CheckoutInfo.SaveInfoHelp" = "主人可以保存主人的配送信息以便在未来使用喵。";
+"CheckoutInfo.Pay" = "支付";
+
+"Checkout.Receipt.Title" = "收据";
+
+"Message.ReplyActionButtonShowReceipt" = "显示收据";
+"Message.InvoiceLabel" = "账单";
+
+"CheckoutInfo.ErrorShippingNotAvailable" = "无法配送到主人所选择的国家喵。";
+"CheckoutInfo.ErrorPostcodeInvalid" = "请输入有效的邮政编码喵。";
+"CheckoutInfo.ErrorStateInvalid" = "请输入有效的省份/州喵。";
+"CheckoutInfo.ErrorCityInvalid" = "请输入有效的城市喵。";
+"CheckoutInfo.ErrorNameInvalid" = "请输入有效的姓名喵。";
+"CheckoutInfo.ErrorEmailInvalid" = "请输入有效的电子邮箱地址喵。";
+"CheckoutInfo.ErrorPhoneInvalid" = "请输入有效的手机号码喵。";
+
+"Checkout.WebConfirmation.Title" = "支付完成";
+"Checkout.PasswordEntry.Title" = "支付确认";
+"Checkout.PasswordEntry.Pay" = "支付";
+"Checkout.PasswordEntry.Text" = "主人曾保存过主人的银行卡（%@）的信息。要使用此卡支付，请输入主人的两步验证密码喵。";
+
+"Checkout.SavePasswordTimeout" = "主人是否要在 %@ 内保存密码喵？";
+"Checkout.SavePasswordTimeoutAndTouchId" = "主人是否希望保存主人的密码 %@并改用 Touch ID 支付喵？";
+"Checkout.PayWithTouchId" = "使用 Touch ID 支付";
+"Checkout.EnterPassword" = "输入密码";
+
+"Your_card_has_expired" = "主人的银行卡已过期喵。";
+
+/* Error when the card was declined by the credit card networks */
+"Your_card_was_declined" = "主人的银行卡被拒绝喵。";
+
+/* Error when the card's expiration month is not valid */
+"Your_cards_expiration_month_is_invalid" = "主人输入的过期月份无效喵。";
+
+/* Error when the card's expiration year is not valid */
+"Your_cards_expiration_year_is_invalid" = "主人输入的过期年份无效喵。";
+
+/* Error when the card number is not valid */
+"Your_cards_number_is_invalid" = "主人输入的卡号无效喵。";
+
+/* Error when the card's CVC is not valid */
+"Your_cards_security_code_is_invalid" = "主人输入的安全码无效喵。";
+
+"MESSAGE_INVOICE" = "%1$@ 向主人发送了一份金额为 %2$@ 的账单";
+"CHAT_MESSAGE_INVOICE" = "%1$@ 在群组 %2$@ 中发送了一份金额为 %3$@ 的账单";
+"PINNED_INVOICE" = "%1$@ 已置顶一份账单";
+
+"Message.PinnedInvoice" = "已置顶一份账单";
+
+"User.DeletedAccount" = "已销号用户";
+
+"Settings.SaveEditedPhotos" = "保存经编辑器修改的图片";
+
+"Message.PaymentSent" = "付款：%@";
+"Notification.PaymentSent" = "主人已成功为 {title} 向 {name} 转账 {amount}";
+"Notification.PaymentSentNoTitle" = "主人已成功向 {name} 转账 {amount}";
+
+"Notification.PaymentSentRecurringInit" = "主人已成功为 {title} 向 {name} 转账 {amount}，并已允许后续的定期付款";
+"Notification.PaymentSentRecurringInitNoTitle" = "主人已成功将 {amount} 转账给 {name}，并已允许后续的定期付款";
+
+"Notification.PaymentSentRecurringUsed" = "主人刚刚成功通过定期付款向 {name} 转账 {amount}，付款标题为 {title}";
+"Notification.PaymentSentRecurringUsedNoTitle" = "主人刚刚成功通过定期付款向 {name} 转账 {amount}";
+
+"Common.NotNow" = "稍后";
+
+"Calls.RatingFeedback" = "添加评价…";
+
+"Call.StatusIncoming" = "猫猫电报 语音通话…";
+"Call.IncomingVoiceCall" = "视频来电";
+"Call.IncomingVideoCall" = "视频来电";
+"Call.StatusRequesting" = "正在努力找主人喵…";
+"Call.StatusWaiting" = "等待中…";
+"Call.StatusRinging" = "拨号中…";
+"Call.StatusConnecting" = "正在努力找主人喵…";
+"Call.StatusOngoing" = "猫猫电报 语音通话 %@";
+"Call.StatusEnded" = "通话结束";
+"Call.StatusFailed" = "通话失败";
+"Call.StatusBusy" = "线路正忙";
+"Call.Accept" = "接听";
+"Call.Decline" = "挂断";
+
+"Call.StatusBar" = "轻触此处可返回通话 %@";
+
+"Call.ParticipantVersionOutdatedError" = "%@ 的应用不支持通话。在主人能够呼叫他们之前，他们必须先更新他们的应用喵。";
+"Call.ParticipantVideoVersionOutdatedError" = "%@ 使用的应用不支持视频通话。在主人呼叫前，对方应先更新应用喵。";
+
+"Privacy.Calls" = "语音通话喵";
+
+"Privacy.Calls.WhoCanCallMe" = "谁可以给人家打电话";
+"Privacy.Calls.CustomHelp" = "精确限制谁能给主人打电话喵。";
+"Privacy.Calls.AlwaysAllow" = "总是允许";
+"Privacy.Calls.NeverAllow" = "从不允许";
+"Privacy.Calls.CustomShareHelp" = "上面的设置项将决定这些用户是否能呼叫主人喵。";
+
+"Privacy.Calls.AlwaysAllow.Title" = "总是允许";
+"Privacy.Calls.AlwaysAllow.Placeholder" = "总是允许…";
+"Privacy.Calls.NeverAllow.Title" = "从不允许";
+"Privacy.Calls.NeverAllow.Placeholder" = "永不允许…";
+
+"PhotoEditor.QualityTool" = "画质";
+
+
+
+
+
+
+"Settings.SaveEditedPhotos" = "保存经编辑器修改的图片";
+
+"Calls.NoCallsPlaceholder" = "主人最近的通话会在这里显示喵。";
+"Calls.NoMissedCallsPlacehoder" = "主人没有未接来电";
+
+"Call.CallInProgressTitle" = "有通话正在进行";
+"Call.CallInProgressMessage" = "主人是否要挂断与 %1$@ 的通话并与 %2$@ 开始新通话喵？";
+"Call.CallInProgressVoiceChatMessage" = "是否结束与 %1$@ 的通话并与 %2$@ 开始视频聊天喵？";
+"Call.CallInProgressLiveStreamMessage" = "是否结束与 %1$@ 的通话并在 %2$@ 开始直播喵？";
+"Call.ExternalCallInProgressMessage" = "请先结束当前通话喵。";
+
+
+"Call.VoiceChatInProgressTitle" = "正在进行视频聊天";
+"Call.LiveStreamInProgressTitle" = "直播进行中";
+"Call.VoiceChatInProgressMessage" = "是否要退出与 %1$@ 的视频聊天并发起与 %2$@ 的视频聊天喵？";
+"Call.LiveStreamInProgressMessage" = "要离开 %1$@ 中的直播，并在 %2$@ 中开始新直播吗喵？";
+"Call.VoiceChatInProgressCallMessage" = "是否要退出 %1$@ 的视频聊天并呼叫 %2$@喵？";
+"Call.LiveStreamInProgressCallMessage" = "是否退出 %1$@ 中的直播并与 %2$@ 开始通话喵？";
+
+"Call.Message" = "输入消息";
+
+"UserInfo.TapToCall" = "点击以发起端到端加密通话";
+"Call.GroupFormat" = "%1$@（%2$@）";
+
+"NetworkUsageSettings.CallDataSection" = "语音通话喵";
+
+"Call.PrivacyErrorMessage" = "抱歉，由于其隐私小螺丝，主人无法呼叫 %@。主人可以让其修改设置或呼叫主人喵。";
+
+"Notification.CallBack" = "回拨";
+
+"Call.AudioRouteSpeaker" = "扬声器";
+"Call.AudioRouteHeadphones" = "耳机";
+"Call.AudioRouteHide" = "隐藏";
+
+"Call.PhoneCallInProgressMessage" = "如果主人正在进行电话通话，将无法拨打 猫猫电报 电话喵。";
+"Call.RecordingDisabledMessage" = "请在录制语音消息前结束通话喵。";
+
+"Call.EmojiDescription" = "如果 %@ 屏幕上的表情和此处一致，那么本次通话就是 100%% 安全的喵。";
+
+"Message.VideoMessage" = "视频消息";
+
+"Conversation.HoldForAudio" = "长按以录制语音消息，点按切换为视频消息喵。";
+"Conversation.HoldForVideo" = "长按以录制视频消息，点按切换为语音消息喵。";
+
+"UserInfo.TelegramCall" = "猫猫电报 通话";
+"UserInfo.TelegramVideoCall" = "猫猫电报 视频通话";
+"UserInfo.PhoneCall" = "电话呼叫";
+
+"SharedMedia.CategoryMedia" = "媒体";
+"SharedMedia.CategoryDocs" = "文件";
+"SharedMedia.CategoryLinks" = "链接";
+"SharedMedia.CategoryOther" = "音乐";
+
+"AccessDenied.VideoMessageCamera" = "猫猫电报 需要访问主人的相机，以便主人录制视频信息。\n\n请在主人的设备上打开“设置” > “隐私” > “相机”，然后将 猫猫电报 的权限打开喵。";
+"AccessDenied.VideoMessageMicrophone" = "猫猫电报 需要访问主人的麦克风，以便主人发送视频消息。\n\n请在主人的设备上打开“设置” > “隐私” > “麦克风”，然后将 猫猫电报 的权限打开喵。";
+
+"ChatSettings.AutomaticVideoMessageDownload" = "自动下载视频消息";
+
+
+
+
+"ForwardedVideoMessages_any" = "%@ 条转发的视频消息";
+
+
+
+"Conversation.DiscardVoiceMessageTitle" = "放弃语音消息";
+"Conversation.DiscardVoiceMessageDescription" = "主人确定要停止并放弃录音吗喵？";
+"Conversation.DiscardVoiceMessageAction" = "放弃";
+
+"Message.ForwardedMessageShort" = "转发自\n%@";
+
+"Checkout.LiabilityAlertTitle" = "警告";
+
+
+"Settings.AppLanguage.Unofficial" = "非官方";
+
+"InstantPage.AutoNightTheme" = "自动启用夜间主题";
+
+"Privacy.PaymentsTitle" = "付款";
+"Privacy.PaymentsClearInfo" = "清除付款和配送信息";
+"Privacy.PaymentsClearInfoHelp" = "主人可以删除主人的配送信息并通知所有的支付服务提供商清除主人已保存的信用卡信息。请注意：猫猫电报 从来不会存储主人的信用卡数据喵。";
+"Privacy.PaymentsClear.PaymentInfo" = "付款信息";
+"Privacy.PaymentsClear.ShippingInfo" = "配送信息";
+
+"Channel.EditAdmin.PermissionsHeader" = "这位管理员可以做什么喵？";
+"Channel.EditAdmin.PermissionChangeInfo" = "修改频道信息";
+"Group.EditAdmin.PermissionChangeInfo" = "修改群组信息";
+"Channel.EditAdmin.PermissionPostMessages" = "发布消息";
+"Channel.EditAdmin.PermissionEditMessages" = "编辑其他用户的消息";
+"Channel.EditAdmin.PermissionDeleteMessages" = "删除消息";
+"Channel.EditAdmin.PermissionBanUsers" = "封禁用户";
+"Channel.EditAdmin.PermissionInviteSubscribers" = "添加订阅者";
+"Channel.EditAdmin.PermissionInviteMembers" = "添加成员";
+"Channel.EditAdmin.PermissionInviteViaLink" = "通过链接邀请用户";
+"Channel.EditAdmin.PermissionPinMessages" = "置顶消息";
+"Channel.EditAdmin.PermissionAddAdmins" = "添加新的管理员";
+"Channel.EditAdmin.PermissionProcessJoinRequests" = "处理加入请求";
+"Channel.EditAdmin.PermissionProcessJoinRequestsInfo" = "允许此机器人使用其自身的界面批准新成员，例如验证码喵。";
+
+"Channel.EditAdmin.PermissinAddAdminOn" = "此管理员将能够添加新的管理员，并赋予其与该管理员同等（或更少）的权限喵。";
+"Channel.EditAdmin.PermissinAddAdminOff" = "此管理员将不能添加新的管理员喵。";
+
+"Login.ContinueWithLocalization" = "继续使用中文（简体）";
+"Localization.LanguageName" = "简体中文";
+"Localization.ChooseLanguage" = "选择主人的语言";
+"Localization.EnglishLanguageName" = "英语";
+"Localization.LanguageOther" = "其它";
+"Localization.LanguageCustom" = "自定义";
+
+"Channel.BanUser.Title" = "封禁用户";
+"Channel.BanUser.PermissionsHeader" = "用户限制";
+"Channel.BanUser.PermissionReadMessages" = "查看消息";
+"Channel.BanUser.PermissionSendMessages" = "发送消息";
+"Channel.BanUser.PermissionSendMedia" = "发送媒体文件";
+"Channel.BanUser.PermissionSendStickersAndGifs" = "发送贴纸和 GIF 动态图";
+"Channel.BanUser.PermissionEmbedLinks" = "嵌入链接预览";
+"Channel.BanUser.PermissionSendPolls" = "发起投票";
+"Channel.BanUser.PermissionChangeGroupInfo" = "修改群组信息";
+"Channel.BanUser.PermissionAddMembers" = "添加成员";
+"Channel.BanUser.Unban" = "解除封禁";
+
+"Channel.BanUser.BlockFor" = "封禁时长";
+
+"Channel.BanList.BlockedTitle" = "已封禁";
+"Channel.BanList.RestrictedTitle" = "受限制";
+
+"Group.Info.AdminLog" = "近期操作";
+"Channel.AdminLog.InfoPanelTitle" = "这是什么？";
+"Channel.AdminLog.InfoPanelAlertTitle" = "什么是事件记录喵？";
+"Channel.AdminLog.InfoPanelAlertText" = "此列表包含了在过去 48 小时内频道管理员执行的所有操作喵。";
+"Channel.AdminLog.InfoPanelChannelAlertText" = "此列表包含了在过去 48 小时内频道管理员执行的所有操作喵。";
+
+"Channel.AdminLog.BanReadMessages" = "查看消息";
+"Channel.AdminLog.BanSendMessages" = "发送消息";
+"Channel.AdminLog.BanSendMedia" = "发送媒体";
+"Channel.AdminLog.BanSendStickersAndGifs" = "发送贴纸和 GIF 动态图";
+"Channel.AdminLog.BanEmbedLinks" = "嵌入链接预览";
+"Channel.AdminLog.MessageRestricted" = "%@ 已修改 %@（%@）的限制";
+"Channel.AdminLog.MessageAdmin" = "%@ 已修改 %@（%@）的权限";
+"Channel.AdminLog.ChangeInfo" = "修改信息";
+"Channel.AdminLog.PinMessages" = "置顶消息";
+"Channel.AdminLog.AddMembers" = "添加成员";
+"Channel.AdminLog.SendPolls" = "发起投票";
+"Channel.AdminLog.ManageTopics" = "管理话题";
+"Channel.AdminLog.SendReactions" = "发出回应";
+
+"Channel.AdminLog.CanChangeInfo" = "修改信息";
+"Channel.AdminLog.CanSendMessages" = "发布消息";
+"Channel.AdminLog.CanDeleteMessages" = "删除消息";
+"Channel.AdminLog.CanBanUsers" = "封禁用户";
+"Channel.AdminLog.CanInviteUsers" = "添加用户";
+"Channel.AdminLog.CanPinMessages" = "置顶消息";
+"Channel.AdminLog.CanManageTopics" = "管理话题";
+"Channel.AdminLog.CanAddAdmins" = "添加新的管理员";
+"Channel.AdminLog.CanBeAnonymous" = "保持匿名";
+"Channel.AdminLog.CanEditMessages" = "编辑其他用户的消息";
+"Channel.AdminLog.CanManageCalls" = "管理视频聊天";
+"Channel.AdminLog.CanManageLiveStreams" = "管理直播";
+"Channel.AdminLog.CanManageDirect" = "管理私信";
+
+"Channel.AdminLog.MessageToggleInvitesOn" = "%@ 已开启群组成员的邀请权限";
+"Channel.AdminLog.MessageToggleInvitesOff" = "%@ 已停用群组邀请";
+
+"Channel.AdminLog.MessageUnpinned" = "%@ 已将一条消息取消置顶";
+
+"Channel.AdminLog.MessageToggleSignaturesOn" = "%@ 已开启消息署名";
+"Channel.AdminLog.MessageToggleSignaturesOff" = "%@ 已停用消息署名";
+
+"Channel.AdminLog.MessageChangedGroupUsername" = "%@ 已更改群组链接：";
+"Channel.AdminLog.MessageChangedChannelUsername" = "%@ 已更换频道链接：";
+"Channel.AdminLog.MessageRemovedGroupUsername" = "%@ 已移除群组链接";
+"Channel.AdminLog.MessageRemovedChannelUsername" = "%@ 已移除频道链接";
+
+"Channel.AdminLog.MessageChangedGroupAbout" = "%@ 已编辑群组简介：";
+"Channel.AdminLog.MessageChangedChannelAbout" = "%@ 已修改频道简介";
+
+"Channel.AdminLog.MessageEdited" = "%@ 已编辑消息：";
+"Channel.AdminLog.CaptionEdited" = "%@ 已编辑说明：";
+"Channel.AdminLog.MessageDeleted" = "%@ 已删除消息：";
+"Channel.AdminLog.MessagePinned" = "%@ 已置顶消息：";
+"Channel.AdminLog.MessageUnpinnedExtended" = "%@ 已取消置顶消息：";
+
+"Channel.AdminLog.MessageInvitedName" = "已邀请 %1$@";
+"Channel.AdminLog.MessageInvitedNameUsername" = "已邀请%1$@（%2$@）";
+"Channel.AdminLog.MessageKickedName" = "已封禁 %1$@";
+"Channel.AdminLog.MessageKickedNameUsername" = "已封禁 %1$@（%2$@）";
+"Channel.AdminLog.MessageUnkickedName" = "已将 %1$@ 解除封禁";
+"Channel.AdminLog.MessageUnkickedNameUsername" = "已解封 %1$@（%2$@）";
+"Channel.AdminLog.MessageRestrictedName" = "已修改对 %1$@ 的限制";
+"Channel.AdminLog.MessageRestrictedNameUsername" = "已修改对 %1$@（%2$@）的限制";
+"Channel.AdminLog.MessagePromotedName" = "已修改 %1$@ 的权限";
+"Channel.AdminLog.MessagePromotedNameUsername" = "已修改 %1$@（%2$@）的权限";
+"Channel.AdminLog.MessageRestrictedUntil" = "直到 %@";
+"Channel.AdminLog.MessageRestrictedForever" = "直到永久";
+"Channel.AdminLog.MessageRestrictedNewSetting" = "现在是：%@";
+
+"Channel.AdminLog.MessagePreviousMessage" = "原消息";
+"Channel.AdminLog.MessagePreviousCaption" = "原说明";
+"Channel.AdminLog.MessagePreviousLink" = "之前的链接";
+"Channel.AdminLog.MessagePreviousDescription" = "之前的简介";
+
+"Contacts.MemberSearchSectionTitleGroup" = "群组成员";
+
+"Channel.AdminLog.TitleAllEvents" = "所有操作";
+"Channel.AdminLog.TitleSelectedEvents" = "选中的操作";
+"Channel.AdminLogFilter.Title" = "筛选器";
+"Channel.AdminLogFilter.EventsTitle" = "操作";
+"Channel.AdminLogFilter.EventsAll" = "所有操作";
+"Channel.AdminLogFilter.EventsRestrictions" = "新限制";
+"Channel.AdminLogFilter.EventsAdmins" = "管理员权限";
+"Channel.AdminLogFilter.EventsNewMembers" = "新成员";
+"Channel.AdminLogFilter.EventsInfo" = "群组信息";
+"Channel.AdminLogFilter.ChannelEventsInfo" = "频道信息";
+"Channel.AdminLogFilter.EventsDeletedMessages" = "已删除消息";
+"Channel.AdminLogFilter.EventsEditedMessages" = "已编辑消息";
+"Channel.AdminLogFilter.EventsPinned" = "已置顶消息";
+"Channel.AdminLogFilter.EventsLeaving" = "成员退出";
+"Channel.AdminLogFilter.EventsCalls" = "视频聊天";
+"Channel.AdminLogFilter.EventsLiveStreams" = "直播";
+"Channel.AdminLogFilter.EventsInviteLinks" = "邀请链接";
+"Channel.AdminLogFilter.AdminsTitle" = "管理员";
+"Channel.AdminLogFilter.AdminsAll" = "所有管理员";
+
+"Group.ErrorSendRestrictedStickers" = "此群组的管理员已限制主人发送贴纸喵。";
+"Group.ErrorSendRestrictedMedia" = "此群组的管理员限制了主人发送媒体文件喵。";
+
+"SharedMedia.ViewInChat" = "在聊天中查看";
+
+"Channel.Info.BlackList" = "移除的用户";
+
+"Channel.Management.PromotedBy" = "由 %@ 设为管理员";
+"DialogList.LanguageTooltip" = "主人可以稍后在设置中更改主人的语言";
+
+"Contacts.PhoneNumber" = "手机号码";
+"Contacts.AddPhoneNumber" = "添加 %@";
+"Contacts.ShareTelegram" = "分享 猫猫电报";
+
+"Conversation.ViewChannel" = "查看频道";
+"Conversation.ViewGroup" = "查看群组";
+"Conversation.ViewBot" = "查看机器人";
+
+"GroupInfo.ActionPromote" = "提权";
+"GroupInfo.ActionRestrict" = "限制";
+
+"Conversation.RestrictedTextTimed" = "该群组的管理员限制了主人在 %@ 之前发送消息喵。";
+"Conversation.RestrictedText" = "此群组的管理员已限制主人发送消息喵。";
+"Conversation.DefaultRestrictedText" = "此群组不允许发送消息喵。";
+
+"Conversation.RestrictedInlineTimed" = "此群组的管理员已限制主人在 %@ 之前发送机器人内容喵。";
+"Conversation.RestrictedInline" = "此群组的管理员已限制主人发送机器人内容喵。";
+"Conversation.DefaultRestrictedInline" = "此群组不允许发送机器人内容喵。";
+
+"Conversation.RestrictedMediaTimed" = "该群组的管理员限制了主人在 %@ 之前发送媒体文件喵。";
+"Conversation.RestrictedMedia" = "此群组的管理员已限制主人发送媒体文件喵。";
+"Conversation.DefaultRestrictedMedia" = "该群组不允许发送媒体文件喵。";
+
+"Conversation.RestrictedStickersTimed" = "该群组的管理员限制了主人在 %@ 之前发送贴纸喵。";
+"Conversation.RestrictedStickers" = "此群组的管理员已限制主人发送贴纸喵。";
+"Conversation.DefaultRestrictedStickers" = "此群组不允许发送贴纸喵。";
+
+"ChatSettings.ConnectionType.Title" = "连接类型";
+"ChatSettings.ConnectionType.UseProxy" = "使用代理";
+"ChatSettings.ConnectionType.UseSocks5" = "SOCKS5";
+
+"SocksProxySetup.Title" = "代理";
+
+"SocksProxySetup.TypeNone" = "已停用";
+"SocksProxySetup.TypeSocks" = "SOCKS5";
+
+"SocksProxySetup.Connection" = "连接信息";
+"SocksProxySetup.Hostname" = "服务器";
+"SocksProxySetup.Port" = "端口";
+
+"SocksProxySetup.Credentials" = "认证信息（可选）";
+"SocksProxySetup.Username" = "用户名";
+"SocksProxySetup.Password" = "密码";
+
+"Channel.AdminLog.EmptyTitle" = "暂无近期操作记录";
+"Channel.AdminLog.EmptyText" = "在过去的 48 小时内频道成员/管理员没有执行任何操作喵。";
+"Group.AdminLog.EmptyText" = "在过去的 48 小时内，群组成员/管理员没有执行任何操作喵。";
+"Broadcast.AdminLog.EmptyText" = "在过去的 48 小时内，频道管理员没有执行任何值得注意的操作喵。";
+
+"Channel.AdminLog.EmptyFilterTitle" = "没有符合条件的操作记录";
+"Channel.AdminLog.EmptyFilterQueryText" = "找不到包含“%@”的近期操作喵。";
+"Channel.AdminLog.EmptyFilterText" = "近期操作中找不到与主人查询请求相符的结果喵。";
+
+"Channel.AdminLog.EmptyMessageText" = "无";
+
+"Camera.Title" = "拍摄照片或视频";
+
+"Channel.Members.AddAdminErrorNotAMember" = "主人无法将这位用户设为管理员。因为该用户不是此群组的成员，且主人也无权添加该用户喵。";
+
+"Channel.Members.AddAdminErrorBlacklisted" = "抱歉，由于该用户在被移除的用户列表中，主人不能将其添加为管理员或解除其封禁喵。";
+
+"Channel.Members.AddBannedErrorAdmin" = "主人无法封禁这位用户，因为该用户是此群组的管理员，并且主人也无权移除其管理员权限喵。";
+
+"Group.Members.AddMemberBotErrorNotAllowed" = "抱歉，主人没有向此群组添加机器人的权限喵。";
+
+"Privacy.Calls.P2P" = "端对端连接";
+"Privacy.Calls.P2PHelp" = "停用端对端连接后，所有通话流量将使用 猫猫电报 服务器中转以避免泄露主人的 IP 地址，但可能会降低音质及画质喵。";
+
+"Privacy.Calls.Integration" = "iOS 通话集成";
+"Privacy.Calls.IntegrationHelp" = "iOS 通话集成能在锁屏界面上和系统的通话记录里显示 猫猫电报 通话的提示/信息。如果启用了 iCloud 同步，主人的通话记录将被共享给 Apple喵。";
+
+"Call.ReportPlaceholder" = "出了什么问题？";
+"Call.ReportIncludeLog" = "发送技术信息";
+"Call.ReportIncludeLogDescription" = "这不会泄露主人的聊天内容，但却能帮助人家尽快修复问题喵。";
+"Call.ReportSkip" = "跳过";
+"Call.ReportSend" = "送出去喵♪";
+
+"Channel.EditAdmin.CannotEdit" = "主人无法修改此管理员的权限喵。";
+"Channel.EditAdmin.GuardBotEnableMembersText" = "新成员在此群组中发送消息前，现在需要获得 **%@** 的批准喵。";
+"Channel.EditAdmin.GuardBotEnableSubscribersText" = "新成员加入此频道须经 **%@** 批准喵。";
+"Channel.EditAdmin.GuardBotEnable" = "启用";
+"Channel.EditAdmin.GuardBotReplaceTitle" = "更换机器人";
+"Channel.EditAdmin.GuardBotReplaceText" = "**%@** 正在处理加入请求。切换至 **%@** 喵？";
+"Channel.EditAdmin.GuardBotReplaceKeep" = "保持 %@";
+"Channel.EditAdmin.GuardBotReplaceUse" = "使用 %@";
+"Call.RateCall" = "评价此次通话";
+"Call.ShareStats" = "分享统计数据";
+
+"Settings.ApplyProxyAlert" = "主人确定要启用此代理吗？\n服务器：%1$@\n端口：%2$@\n\n主人可以稍后在「小螺丝 - 数据和存储」中修改主人的代理服务器喵。";
+"Settings.ApplyProxyAlertCredentials" = "主人确定要启用此代理吗？\n服务器：%1$@\n端口：%2$@\n用户名：%3$@\n密码：%4$@\n\n主人可以稍后在「小螺丝 - 数据和存储」中修改主人的代理服务器喵。";
+"Settings.ApplyProxyAlertEnable" = "启用";
+
+"Channel.Management.RestrictedBy" = "被 %@ 限制";
+
+"Stickers.FrequentlyUsed" = "最近使用";
+
+
+
+
+"Contacts.ImportersCount_any" = "%@ 位 猫猫电报 用户有此联系人信息";
+
+
+
+"Conversation.ContextMenuBan" = "限制";
+
+"SocksProxySetup.UseForCalls" = "对通话启用代理";
+"SocksProxySetup.UseForCallsHelp" = "使用代理服务器可能降低通话质量喵。";
+
+
+"InviteText.SingleContact" = "嗨，人家在使用 猫猫电报 聊天。加入人家吧！从这里下载：%@";
+
+
+
+"InviteText.ContactsCountText_any" = "嗨，人家在和另外 %@ 位联系人使用 猫猫电报 聊天。加入人家吧！从这里下载：{url}";
+
+
+
+"Invite.LargeRecipientsCountWarning" = "请注意，发送所有的邀请将花费一些时间喵。";
+
+"Contacts.InviteSearchLabel" = "搜索联系人";
+
+"Message.ImageExpired" = "图片已过期";
+"Message.VideoExpired" = "视频已自毁";
+
+"SecretImage.Title" = "阅后即焚图片";
+"SecretVideo.Title" = "阅后即焚视频";
+"SecretGif.Title" = "正在消失的 GIF";
+"SecretTimer.ImageDescription" = "设置计时器后，该图片将在阅后定时自毁喵。";
+"SecretTimer.VideoDescription" = "设置计时器后，该视频将在阅后一定时间内自毁喵。";
+
+"PhotoEditor.TiltShift" = "倾斜移位";
+
+"Notification.SecretChatMessageScreenshotSelf" = "主人截了一张图喵！";
+
+"Settings.AboutEmpty" = "添加";
+
+"SecretImage.NotViewedYet" = "%@ 还没有打开这张图片";
+"SecretVideo.NotViewedYet" = "%@ 还没有播放这段视频";
+"SecretGIF.NotViewedYet" = "%@ 尚未播放此 GIF 动态图";
+
+"UserInfo.About.Placeholder" = "个人简介";
+
+"Call.StatusNoAnswer" = "无应答";
+
+"Conversation.SearchByName.Prefix" = "来自：";
+"Conversation.SearchByName.Placeholder" = "搜索成员";
+
+"Login.PhoneBannedError" = "此手机号码已被封禁喵。";
+
+"Clipboard.SendPhoto" = "发送图片";
+
+"HashtagSearch.AllChats" = "所有聊天";
+
+"Stickers.AddToFavorites" = "添加到收藏";
+"Stickers.RemoveFromFavorites" = "从收藏中移除";
+
+"Channel.Info.Stickers" = "群组贴纸包";
+"Channel.Stickers.Placeholder" = "stickerset";
+"Channel.Stickers.YourStickers" = "从主人的贴纸包中选择";
+
+"Stickers.FavoriteStickers" = "贴纸收藏";
+"Stickers.GroupStickers" = "群组贴纸包";
+"Stickers.GroupChooseStickerPack" = "选择贴纸包";
+"Stickers.GroupStickersHelp" = "主人可以选择一套贴纸包，所有群组成员在聊天时均可使用该贴纸包喵。";
+
+"Channel.AdminLog.MessageChangedGroupStickerPack" = "%@ 已更改群组贴纸包";
+"Channel.AdminLog.MessageRemovedGroupStickerPack" = "%@ 已删除群组贴纸包";
+
+"Conversation.ContextMenuCopyLink" = "拷贝链接";
+
+"Channel.Stickers.Searching" = "搜索中…";
+"Channel.Stickers.NotFound" = "没有符合条件的贴纸包";
+"Channel.Stickers.NotFoundHelp" = "请检查主人的输入，或从下方列表中选取一个";
+"Channel.Stickers.CreateYourOwn" = "主人可以通过机器人 @stickers 创建主人自己的贴纸包喵。";
+
+"MediaPicker.TimerTooltip" = "主人现在可以设置一个阅后即焚计时器";
+
+"UserInfo.BlockConfirmation" = "是否屏蔽 %@喵？";
+
+"FastTwoStepSetup.Title" = "密码和邮箱";
+"FastTwoStepSetup.PasswordSection" = "密码";
+"FastTwoStepSetup.PasswordPlaceholder" = "请输入密码";
+"FastTwoStepSetup.PasswordConfirmationPlaceholder" = "请再次输入密码";
+"FastTwoStepSetup.PasswordHelp" = "请创建一个用于保护主人的付款信息的密码。主人需要在登录时输入此密码喵。";
+"FastTwoStepSetup.EmailSection" = "密码恢复电子邮箱";
+"FastTwoStepSetup.EmailPlaceholder" = "主人的电子邮箱";
+"FastTwoStepSetup.EmailHelp" = "请添加一个有效的电子邮箱地址。这是忘记密码时唯一的恢复方法喵。";
+
+"Conversation.ViewMessage" = "查看消息";
+"Conversation.ViewPost" = "查看帖子";
+
+"GroupInfo.GroupHistory" = "新成员是否可见聊天记录";
+"GroupInfo.GroupHistoryVisible" = "可见";
+"GroupInfo.GroupHistoryHidden" = "隐藏";
+
+"Group.Setup.HistoryTitle" = "历史记录小螺丝";
+"Group.Setup.HistoryHeader" = "新成员是否可见聊天记录";
+"Group.Setup.HistoryVisible" = "可见";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ //three to ten
+ //one
+ //two
+ //three to ten
+ // more than ten
+ // more than ten
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Channel.Setup.TypePublicHelp" = "公开频道可以通过搜索找到，任何人都可以加入喵。";
+"Channel.Setup.TypePrivateHelp" = "私密频道只能通过邀请链接加入喵。";
+"Group.Username.InvalidTooShort" = "群组名称必须至少包含 5 个字符喵。";
+"Group.Username.InvalidStartsWithNumber" = "公开链接不能以数字开头喵。";
+"Group.Username.CreatePublicLinkHelp" = "所有人都可以与其他人分享此链接，并使用 猫猫电报 的搜索功能找到主人的群组喵。";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"TwoStepAuth.SetupPasswordTitle" = "主人的密码";
+
+"TwoStepAuth.ChangePassword" = "更改密码";
+
+
+
+
+
+
+
+
+
+"TwoStepAuth.ChangeEmail" = "更改密码恢复电子邮箱";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"AppUpgrade.Running" = "Optimizing Telegram...
+This may take a while, depending on the size of the database. Please keep the app open until the process is finished.
+
+Sorry for the inconvenience.";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Conversation.BlockUser" = "屏蔽此用户";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"UserInfo.StartSecretChatConfirmation" = "主人确定要与 %@ 开始私密聊天吗喵？";
+"UserInfo.StartSecretChatStart" = "好的喵♪";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ //three to ten
+ //one
+ //two
+ //three to ten
+ // more than ten
+ // more than ten
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"StickerPack.Share" = "分享";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Call.StatusBusy" = "线路正忙";
+
+"Call.StatusFailed" = "通话失败";
+"Call.StatusEnded" = "通话结束";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"ProfileLevelInfo.MyDescriptionToday_1" = "The rating updates today.\n\%@ point is pending.";
+"ProfileLevelInfo.MyDescriptionToday_any" = "The rating updates today.\n\%@ points are pending.";
+
+
+
+
+"ProfileLevelInfo.MyDescriptionPreview" = "The rating will update in %@.\n\%@ pending. [Preview >]()";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Login.PhonePaidEmailText" = "1. NAME OF YOUR PHONE CARRIER:
+
+2. (OPTIONAL) WRITE YOUR COMMENT HERE:
+
+=================================================
+Device: %1$@
+OS version: %2$@
+Locale: %3$@
+
+Target phone: %4$@
+
+App: %5$@
+App version: %6$@          
+
+Issue: %7$@
+Error: %8$@";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
