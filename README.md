@@ -2,15 +2,6 @@
 
 > 由 **可辰 (kechen)** 倾心开发的 Telegram 猫猫风格个性化语言包！让你的电报界面充满可爱气息~ 🐱✨
 
----
-
-## 📸 界面效果预览
-
-<p align="center">
-  <img src="https://hbkechencool.icu/wp-content/uploads/2026/10/1791201265-de2daf40e28e0b6a613db21c59ee03c8.webp" alt="猫猫电报语言包效果预览" width="700">
-</p>
-
----
 
 ## 🔗 快速安装链接
 
@@ -45,7 +36,9 @@
 <p align="center">
   <img src="https://hbkechencool.icu/wp-content/uploads/2026/10/1791201167-cbbc8518b1234311a21224ec8f2f4eae.webp" alt="桌面端繁体中文 Key 报错提示截图" width="600">
 </p>
-
+<p align="center">
+  <img src="https://hbkechencool.icu/wp-content/uploads/2026/10/1791201265-de2daf40e28e0b6a613db21c59ee03c8.webp" alt="猫猫电报语言包效果预览" width="700">
+</p>
 **Q: 为什么繁体中文版在桌面端无法适配？**  
 A: 经反复查验与测试，该问题系 Telegram 官方桌面端语言包解析机制导致的 Key 错误（简体中文版本目前已全量修复并正常适配）。
 
