@@ -32,7 +32,13 @@
 
 **Q: 为什么繁体中文版在桌面端无法适配？**  
 A: 经反复查验与测试，该问题系 Telegram 官方桌面端语言包解析机制导致的 Key 错误（简体中文版本目前已全量修复并正常适配）。
-
+<p align="center">
+  <img src="https://hbkechencool.icu/wp-content/uploads/2026/10/1791201167-cbbc8518b1234311a21224ec8f2f4eae.webp" alt="桌面端繁体中文 Key 报错提示截图" width="600">
+</p>
+<br>
+<p align="center">
+  <img src="[https://hbkechencool.icu/wp-content/uploads/2026/10/1791201167-cbbc8518b1234311a21224ec8f2f4eae.webp](https://hbkechencool.icu/wp-content/uploads/2026/10/1791201265-de2daf40e28e0b6a613db21c59ee03c8.webp)" alt="桌面端繁体中文 Key 报错提示截图" width="600">
+</p>
 **Q: 繁体中文版的文案风格是怎样的？**  
 A: 繁体版的风格与简体版略有差异，如果您在使用过程中感觉不适应或无法接受，建议尽快切换回**简体中文版**体验更佳的友善风格。
 
