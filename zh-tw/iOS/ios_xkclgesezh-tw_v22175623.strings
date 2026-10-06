@@ -1,0 +1,17082 @@
+// Notifications
+"PUSH_MESSAGE_TEXT" = "%1$@|%2$@";
+"PUSH_MESSAGE_NOTEXT" = "%1$@|新騷話 想被操";
+"PUSH_MESSAGE_PHOTO" = "%1$@|📷 裸照 喵♡";
+"PUSH_MESSAGE_PHOTO_SECRET" = "%1$@|🔥 閱後即焚裸照 主人…";
+"PUSH_MESSAGE_VIDEO" = "%1$@|📹 A片 想被操";
+"PUSH_MESSAGE_VIDEO_SECRET" = "%1$@|🔥 閱後即焚A片 喵♡";
+"PUSH_MESSAGE_ROUND" = "%1$@|📺 視訊騷話 被操了喵";
+"PUSH_MESSAGE_CONTACT" = "%1$@|👤 %2$@";
+"PUSH_MESSAGE_GEO" = "%1$@|📍 位置 想被操";
+"PUSH_MESSAGE_GEOLIVE" = "%1$@|即時位置 主人…";
+"PUSH_MESSAGE_DOC" = "%1$@|📎 色色檔案";
+"PUSH_MESSAGE_AUDIO" = "%1$@|🎤 嬌喘騷話";
+"PUSH_MESSAGE_GIF" = "%1$@|📹 GIF";
+"PUSH_ENCRYPTED_MESSAGE" = "主人有一則新騷話%1$@";
+"PUSH_LOCKED_MESSAGE" = "主人有一則新騷話%1$@";
+"PUSH_LOCKED_STORY" = "主人有一則新動態%1$@";
+"PUSH_MESSAGE_SCREENSHOT" = "%1$@|擷取了螢幕畫面！ 要壞掉了喵";
+"PUSH_ENCRYPTION_REQUEST" = "新的秘密色色拜託喵～求%1$@";
+"PUSH_ENCRYPTION_ACCEPT" = "主人的秘密色色已被接受%1$@";
+
+"PUSH_MESSAGE_POLL" = "%1$@|📊 投票「%2$@」 主人…";
+"PUSH_CHANNEL_MESSAGE_POLL" = "%1$@|📊 投票「%2$@」 主人…";
+"PUSH_PINNED_POLL" = "%1$@|📌 強制壓在上面操了一項投票活動";
+
+"PUSH_MESSAGE_QUIZ" = "%1$@|傳了測驗「%2$@」給主人";
+"PUSH_CHANNEL_MESSAGE_QUIZ" = "%1$@|發布了一項測驗「%2$@」 主人…";
+"PUSH_PINNED_QUIZ" = "%1$@|強制壓在上面操了一項測驗";
+
+"PUSH_CHAT_MESSAGE_TEXT" = "%2$@|%1$@：%3$@";
+"PUSH_CHAT_MESSAGE_NOTEXT" = "%2$@|%1$@：新騷話 被操了喵";
+"PUSH_CHAT_MESSAGE_PHOTO" = "%2$@|%1$@：📷 裸照 要壞掉了喵";
+"PUSH_CHAT_MESSAGE_VIDEO" = "%2$@|%1$@：📹 A片 主人…";
+"PUSH_CHAT_MESSAGE_ROUND" = "%2$@|%1$@：📺 視訊騷話 要壞掉了喵";
+"PUSH_CHAT_MESSAGE_CONTACT" = "%2$@|%1$@：👤 %3$@";
+"PUSH_CHAT_MESSAGE_GEO" = "%2$@|%1$@：📍位置 喵♡";
+"PUSH_CHAT_MESSAGE_GEOLIVE" = "%2$@|%1$@：即時位置 主人…";
+"PUSH_CHAT_MESSAGE_DOC" = "%2$@|%1$@：📎 色色檔案";
+"PUSH_CHAT_MESSAGE_AUDIO" = "%2$@|%1$@：🎤 嬌喘騷話";
+"PUSH_CHAT_MESSAGE_GIF" = "%2$@|%1$@：📹 GIF";
+"PUSH_CHAT_CREATED" = "%2$@|%1$@ 將主人召喚來操到後宮";
+"PUSH_CHAT_TITLE_EDITED" = "%2$@|%1$@ 調教修改了後宮名稱";
+"PUSH_CHAT_PHOTO_EDITED" = "%2$@|%1$@ 調教修改了後宮裸體大頭貼";
+"PUSH_CHAT_ADD_MEMBER" = "%2$@|%1$@ 將 %3$@ 召喚來操到後宮";
+"PUSH_CHAT_ADD_YOU" = "%2$@|%1$@ 將主人召喚來操到後宮";
+"PUSH_CHAT_DELETE_YOU" = "%2$@|%1$@ 將主人從後宮中拔掉";
+"PUSH_CHAT_DELETE_MEMBER" = "%2$@|%1$@ 將 %3$@ 從後宮中拔掉";
+"PUSH_CHAT_LEFT" = "%2$@|%1$@ 拔出離開了後宮";
+"PUSH_CHAT_RETURNED" = "%2$@|%1$@ 重新插進來了後宮 喵～";
+
+"PUSH_MESSAGE_STICKER" = "%1$@|%2$@ 色色貼圖";
+"PUSH_CHAT_MESSAGE_STICKER" = "%2$@|%1$@：%3$@ 色色貼圖";
+
+"PUSH_CONTACT_JOINED" = "%1$@|插進來了 Telegram！ 要壞掉了喵";
+
+"PUSH_CHANNEL_MESSAGE_TEXT" = "%1$@|%2$@";
+"PUSH_CHANNEL_MESSAGE_NOTEXT" = "%1$@|新騷話 被操了喵";
+"PUSH_CHANNEL_MESSAGE_PHOTO" = "%1$@|📷 裸照 要壞掉了喵";
+"PUSH_CHANNEL_MESSAGE_VIDEO" = "%1$@|📹 A片 被操了喵";
+"PUSH_CHANNEL_MESSAGE_ROUND" = "%1$@|📺 視訊騷話 要壞掉了喵";
+"PUSH_CHANNEL_MESSAGE_DOC" = "%1$@|📎 色色檔案";
+"PUSH_CHANNEL_MESSAGE_STICKER" = "%1$@|%2$@ 色色貼圖";
+"PUSH_CHANNEL_MESSAGE_AUDIO" = "%1$@|🎤 嬌喘騷話";
+"PUSH_CHANNEL_MESSAGE_CONTACT" = "%1$@|👤 %2$@";
+"PUSH_CHANNEL_MESSAGE_GEO" = "%1$@|📍 位置 要壞掉了喵";
+"PUSH_CHANNEL_MESSAGE_GEOLIVE" = "%1$@|即時位置 喵♡";
+"PUSH_CHANNEL_MESSAGE_GIF" = "%1$@|📹 GIF";
+
+"PUSH_MESSAGE_GAME" = "%1$@|🎮 玩 %2$@ 想被操";
+"PUSH_CHANNEL_MESSAGE_GAME" = "%1$@|🎮 玩 %2$@ 喵～";
+"PUSH_CHAT_MESSAGE_GAME" = "%2$@|🎮 %1$@ 召喚來操了後宮玩 %3$@";
+
+"PUSH_MESSAGE_TEXT" = "%1$@|%2$@";
+"PUSH_MESSAGE_NOTEXT" = "%1$@|新騷話 想被操";
+"PUSH_MESSAGE_PHOTO" = "%1$@|📷 裸照 喵♡";
+"PUSH_MESSAGE_PHOTO_SECRET" = "%1$@|🔥 閱後即焚裸照 主人…";
+"PUSH_MESSAGE_VIDEO" = "%1$@|📹 A片 想被操";
+"PUSH_MESSAGE_VIDEO_SECRET" = "%1$@|🔥 閱後即焚A片 喵♡";
+"PUSH_MESSAGE_SCREENSHOT" = "%1$@|擷取了螢幕畫面！ 要壞掉了喵";
+"PUSH_MESSAGE_ROUND" = "%1$@|📺 視訊騷話 被操了喵";
+"PUSH_MESSAGE_DOC" = "%1$@|📎 色色檔案";
+"PUSH_MESSAGE_STICKER" = "%1$@|%2$@ 色色貼圖";
+"PUSH_MESSAGE_AUDIO" = "%1$@|🎤 嬌喘騷話";
+"PUSH_MESSAGE_CONTACT" = "%1$@|👤 %2$@";
+"PUSH_MESSAGE_GEO" = "%1$@|📍 位置 想被操";
+"PUSH_MESSAGE_GEOLIVE" = "%1$@|即時位置 主人…";
+"PUSH_MESSAGE_POLL" = "%1$@|📊 投票「%2$@」 主人…";
+"PUSH_MESSAGE_QUIZ" = "%1$@|傳了測驗「%2$@」給主人";
+"PUSH_MESSAGE_GIF" = "%1$@|📹 GIF";
+"PUSH_MESSAGE_GAME" = "%1$@|🎮 玩 %2$@ 想被操";
+"PUSH_MESSAGE_INVOICE" = "%1$@|%2$@ 的拜託喵～款單";
+"PUSH_MESSAGE_FWD" = "%1$@|轉傳的騷話 要壞掉了喵";
+
+"PUSH_MESSAGE_FWDS_TEXT_any" = "轉傳了 %d 則騷話給主人";
+"PUSH_MESSAGE_PHOTO" = "%1$@|📷 裸照 喵♡";
+
+"PUSH_MESSAGE_PHOTOS_TEXT_any" = "傳了 %d 張裸照給主人";
+"PUSH_MESSAGE_VIDEO" = "%1$@|📹 A片 想被操";
+
+"PUSH_MESSAGE_VIDEOS_TEXT_any" = "傳了 %d 個A片給主人";
+"PUSH_MESSAGE_ROUND" = "%1$@|📺 視訊騷話 被操了喵";
+"PUSH_MESSAGE" = "%1$@|新騷話 喵♡";
+
+"PUSH_MESSAGES_TEXT_any" = "傳了 %d 則騷話給主人";
+"PUSH_ALBUM" = "%1$@|📷 相簿 被操了喵";
+
+"PUSH_MESSAGE_FILES_TEXT_any" = "傳了 %d 個色色檔案給主人";
+"PUSH_MESSAGE_THEME" = "%1$@|將發情主題變更為 %2$@";
+"PUSH_MESSAGE_NOTHEME" = "%1$@|拔出停用了色色房間發情主題";
+"PUSH_MESSAGE_RECURRING_PAY" = "%1$@|主人被收取了 %2$@";
+"CHAT_MESSAGE_RECURRING_PAY" = "%1$@|主人已被收取 %2$@";
+"PUSH_MESSAGE_PAID_MEDIA" = "%1$@ 向主人射進了 %2$@ 顆星星的付費貼文";
+
+"PUSH_CHANNEL_MESSAGE_TEXT" = "%1$@|%2$@";
+"PUSH_CHANNEL_MESSAGE_NOTEXT" = "%1$@|新騷話 被操了喵";
+"PUSH_CHANNEL_MESSAGE_PHOTO" = "%1$@|📷 裸照 要壞掉了喵";
+"PUSH_CHANNEL_MESSAGE_VIDEO" = "%1$@|📹 A片 被操了喵";
+"PUSH_CHANNEL_MESSAGE_ROUND" = "%1$@|📺 視訊騷話 要壞掉了喵";
+"PUSH_CHANNEL_MESSAGE_DOC" = "%1$@|📎 色色檔案";
+"PUSH_CHANNEL_MESSAGE_STICKER" = "%1$@|%2$@ 色色貼圖";
+"PUSH_CHANNEL_MESSAGE_AUDIO" = "%1$@|🎤 嬌喘騷話";
+"PUSH_CHANNEL_MESSAGE_CONTACT" = "%1$@|👤 %2$@";
+"PUSH_CHANNEL_MESSAGE_GEO" = "%1$@|📍 位置 要壞掉了喵";
+"PUSH_CHANNEL_MESSAGE_GEOLIVE" = "%1$@|即時位置 喵♡";
+"PUSH_CHANNEL_MESSAGE_POLL" = "%1$@|📊 投票「%2$@」 主人…";
+"PUSH_CHANNEL_MESSAGE_QUIZ" = "%1$@|發布了一項測驗「%2$@」 主人…";
+"PUSH_CHANNEL_MESSAGE_GIF" = "%1$@|📹 GIF";
+"PUSH_CHANNEL_MESSAGE_GAME" = "%1$@|🎮 玩 %2$@ 喵～";
+"PUSH_CHANNEL_MESSAGE_FWD" = "%1$@|轉傳的騷話 喵♡";
+"PUSH_CHANNEL_MESSAGE_PHOTO" = "%1$@|📷 裸照 要壞掉了喵";
+
+"PUSH_CHANNEL_MESSAGE_PHOTOS_TEXT_any" = "張貼了 %d 張裸照 主人…";
+"PUSH_CHANNEL_MESSAGE_VIDEO" = "%1$@|📹 A片 被操了喵";
+
+"PUSH_CHANNEL_MESSAGE_VIDEOS_TEXT_any" = "張貼了 %d 個A片 喵～";
+"PUSH_CHANNEL_MESSAGE_ROUND" = "%1$@|📺 視訊騷話 要壞掉了喵";
+"PUSH_CHANNEL_MESSAGE" = "%1$@|新騷話 喵～";
+
+"PUSH_CHANNEL_MESSAGES_TEXT_any" = "張貼了 %d 則騷話 喵♡";
+"PUSH_CHANNEL_ALBUM" = "%1$@|📷📹 相簿 喵♡";
+
+"PUSH_CHANNEL_MESSAGE_DOCS_TEXT_any" = "張貼了 %d 個色色檔案";
+"PUSH_CHANNEL_MESSAGE_PAID_MEDIA" = "%1$@ 射進了 %2$@ 顆星星的付費貼文";
+
+"PUSH_CHAT_MESSAGE_TEXT" = "%2$@|%1$@：%3$@";
+"PUSH_CHAT_MESSAGE_NOTEXT" = "%2$@|%1$@：新騷話 被操了喵";
+"PUSH_CHAT_MESSAGE_VIDEO" = "%2$@|%1$@：📹 A片 主人…";
+"PUSH_CHAT_MESSAGE_ROUND" = "%2$@|%1$@：📺 視訊騷話 要壞掉了喵";
+"PUSH_CHAT_MESSAGE_DOC" = "%2$@|%1$@：📎 色色檔案";
+"PUSH_CHAT_MESSAGE_STICKER" = "%2$@|%1$@：%3$@ 色色貼圖";
+"PUSH_CHAT_MESSAGE_AUDIO" = "%2$@|%1$@：🎤 嬌喘騷話";
+"PUSH_CHAT_MESSAGE_CONTACT" = "%2$@|%1$@：👤 %3$@";
+"PUSH_CHAT_MESSAGE_GEO" = "%2$@|%1$@：📍位置 喵♡";
+"PUSH_CHAT_MESSAGE_GEOLIVE" = "%2$@|%1$@：即時位置 主人…";
+"PUSH_CHAT_MESSAGE_POLL" = "%2$@|%1$@：📊 投票「%3$@」 喵～";
+"PUSH_CHAT_MESSAGE_QUIZ" = "%2$@|%1$@ 傳了測驗「%3$@」到後宮 要壞掉了喵";
+"PUSH_CHAT_MESSAGE_GIF" = "%2$@|%1$@：📹 GIF";
+"PUSH_CHAT_MESSAGE_GAME" = "%2$@|🎮 %1$@ 召喚來操了後宮玩 %3$@";
+"PUSH_CHAT_MESSAGE_INVOICE" = "%2$@|%1$@：%3$@ 的拜託喵～款單";
+"PUSH_CHAT_CREATED" = "%2$@|%1$@ 將主人召喚來操到後宮";
+"PUSH_CHAT_TITLE_EDITED" = "%2$@|%1$@ edited the group\'s name";
+"PUSH_CHAT_PHOTO_EDITED" = "%2$@|%1$@ edited the group\'s photo";
+"PUSH_CHAT_ADD_MEMBER" = "%2$@|%1$@ 將 %3$@ 召喚來操到後宮";
+"PUSH_CHAT_ADD_YOU" = "%2$@|%1$@ 將主人召喚來操到後宮";
+"PUSH_CHAT_DELETE_MEMBER" = "%2$@|%1$@ 將 %3$@ 從後宮中拔掉";
+"PUSH_CHAT_DELETE_YOU" = "%2$@|%1$@ 將主人從後宮中拔掉";
+"PUSH_CHAT_LEFT" = "%2$@|%1$@ 拔出離開了後宮";
+"PUSH_CHAT_RETURNED" = "%2$@|%1$@ 重新插進來了後宮 喵～";
+"PUSH_CHAT_JOINED" = "%2$@|%1$@ 插進來了後宮 想被操";
+"PUSH_CHAT_MESSAGE_FWD" = "%2$@|%1$@：轉傳的騷話 想被操";
+
+"PUSH_CHAT_MESSAGE_FWDS_TEXT_any" = "{author} 轉傳了 %d 則騷話 喵～";
+"PUSH_CHAT_MESSAGE_PHOTO" = "%2$@|%1$@：📷 裸照 要壞掉了喵";
+
+"PUSH_CHAT_MESSAGE_PHOTOS_TEXT_any" = "{author} 傳了 %d 張裸照 要壞掉了喵";
+"PUSH_CHAT_MESSAGE_VIDEO" = "%2$@|%1$@：📹 A片 主人…";
+
+"PUSH_CHAT_MESSAGE_VIDEOS_TEXT_any" = "{author} 傳了 %d 個A片 被操了喵";
+"PUSH_CHAT_MESSAGE_ROUND" = "%2$@|%1$@：📺 視訊騷話 要壞掉了喵";
+"PUSH_CHAT_MESSAGE" = "%2$@|%1$@：騷話 喵～";
+
+"PUSH_CHAT_MESSAGES_TEXT_any" = "{author} 傳了 %d 則騷話 想被操";
+"PUSH_CHAT_ALBUM" = "%2$@|%1$@：📷📹 相簿 主人…";
+
+"PUSH_CHAT_MESSAGE_DOCS_TEXT_any" = "{author} 傳了 %d 個色色檔案";
+"PUSH_CHAT_MESSAGE_THEME" = "%1$@|將「%2$@」後宮的發情主題調教玩弄設定為 %3$@";
+"PUSH_CHAT_MESSAGE_NOTHEME" = "%1$@|拔出停用了後宮發情主題 %2$@";
+"PUSH_CHAT_REQ_JOINED" = "%2$@|%1$@ 已獲准插進來後宮 要壞掉了喵";
+"PUSH_CHAT_MESSAGE_PAID_MEDIA" = "%1$@ 向後宮 %2$@ 射進了 %3$@ 顆星星的付費貼文";
+
+"PUSH_PINNED_TEXT" = "%1$@|📌 強制壓在上面操了「%2$@」";
+"PUSH_PINNED_NOTEXT" = "%1$@|📌 強制壓在上面操了一則騷話";
+"PUSH_PINNED_PHOTO" = "%1$@|📌 強制壓在上面操了一張裸照";
+"PUSH_PINNED_VIDEO" = "%1$@|📌 強制壓在上面操了一個A片";
+"PUSH_PINNED_ROUND" = "%1$@|📌 強制壓在上面操了一則視訊騷話";
+"PUSH_PINNED_DOC" = "%1$@|📌 強制壓在上面操了一個色色檔案";
+"PUSH_PINNED_STICKER" = "%1$@|📌 強制壓在上面操了一張 %2$@ 的色色貼圖";
+"PUSH_PINNED_AUDIO" = "%1$@|📌 強制壓在上面操了一則嬌喘騷話";
+"PUSH_PINNED_CONTACT" = "%1$@|📌 強制壓在上面操了聯絡資訊：%2$@\n";
+"PUSH_PINNED_GEO" = "%1$@|📌 強制壓在上面操了一個位置";
+"PUSH_PINNED_GEOLIVE" = "%1$@|📌 強制壓在上面操了一個即時位置";
+"PUSH_PINNED_POLL" = "%1$@|📌 強制壓在上面操了一項投票活動";
+"PUSH_PINNED_QUIZ" = "%1$@|強制壓在上面操了一項測驗";
+"PUSH_PINNED_GAME" = "%1$@|📌 強制壓在上面操了一個遊戲";
+"PUSH_PINNED_INVOICE" = "%1$@|📌 強制壓在上面操了一張拜託喵～款單";
+"PUSH_PINNED_GIF" = "%1$@|📌 強制壓在上面操了一張 GIF";
+"PUSH_PINNED_PAID_MEDIA" = "%1$@|強制壓在上面操了 %2$@ 顆星星的付費貼文";
+
+"PUSH_CONTACT_JOINED" = "%1$@|插進來了 Telegram！ 要壞掉了喵";
+
+
+
+
+"PUSH_PHONE_CALL_REQUEST" = "%1$@|撥入電話！ 要壞掉了喵";
+"PUSH_VIDEO_CALL_REQUEST" = "%1$@|正在被主人打電話給主人！";
+"PUSH_PHONE_CALL_MISSED" = "%1$@|☎️ 未接來電 被操了喵";
+"PUSH_VIDEO_CALL_MISSED" = "%1$@|主人錯過了一通視訊來電";
+
+"PUSH_MESSAGE_GAME_SCORE" = "🎮 %1$@ 在「%2$@」中得到了 %3$@ 分 喵～";
+
+"PUSH_MESSAGE_CHANNEL_MESSAGE_GAME_SCORE" = "%1$@ 在「%2$@」中得到了 %3$@ 分 喵♡";
+
+"PUSH_PINNED_GAME_SCORE" = "%1$@ 強制壓在上面操了一個遊戲分數";
+"PUSH_CHAT_MESSAGE_GAME_SCORE" = "🎮 %1$@ 在「%3$@」中得到了 %4$@ 分 被操了喵";
+
+
+"PUSH_REACT_TEXT" = "%1$@|對主人的「%3$@」感到 %2$@";
+"PUSH_REACT_NOTEXT" = "%1$@|對主人的騷話感到 %2$@";
+"PUSH_REACT_PHOTO" = "%1$@|對主人的裸照感到 %2$@";
+"PUSH_REACT_VIDEO" = "%1$@|對主人的A片感到 %2$@";
+"PUSH_REACT_ROUND" = "%1$@|對主人的視訊騷話感到 %2$@";
+"PUSH_REACT_DOC" = "%1$@|對主人的色色檔案感到 %2$@";
+"PUSH_REACT_STICKER" = "%1$@|對主人的 %3$@ 色色貼圖感到 %2$@";
+"PUSH_REACT_AUDIO" = "%1$@|對主人的嬌喘騷話感到 %2$@";
+"PUSH_REACT_CONTACT" = "%1$@|對主人的炮友 %3$@ %2$@";
+"PUSH_REACT_GEO" = "%1$@|對主人的地圖感到 %2$@";
+"PUSH_REACT_GEOLIVE" = "%1$@|對主人的即時位置感到 %2$@";
+"PUSH_REACT_POLL" = "%1$@|對主人的 %3$@ 投票感到 %2$@";
+"PUSH_REACT_QUIZ" = "%1$@|對主人的測驗 %3$@ 感到 %2$@";
+"PUSH_REACT_GAME" = "%1$@|對主人的遊戲感到 %2$@";
+"PUSH_REACT_INVOICE" = "%1$@|對主人的拜託喵～款單感到 %2$@";
+"PUSH_REACT_GIF" = "%1$@|對主人的 GIF 感到 %2$@";
+
+"PUSH_CHAT_REACT_TEXT" = "%2$@|%1$@：對主人的「%4$@」感到 %3$@";
+"PUSH_CHAT_REACT_NOTEXT" = "%2$@|%1$@：對你的騷話感到 %3$@ 被操了喵";
+"PUSH_CHAT_REACT_PHOTO" = "%2$@|%1$@：對主人的裸照感到 %3$@";
+"PUSH_CHAT_REACT_VIDEO" = "%2$@|%1$@：對主人的A片感到 %3$@";
+"PUSH_CHAT_REACT_ROUND" = "%2$@|%1$@：對主人的視訊騷話感到 %3$@";
+"PUSH_CHAT_REACT_DOC" = "%2$@|%1$@：對主人的色色檔案感到 %3$@";
+"PUSH_CHAT_REACT_STICKER" = "%2$@|%1$@：對主人的 %4$@ 色色貼圖感到 %3$@";
+"PUSH_CHAT_REACT_AUDIO" = "%2$@|%1$@：對主人的嬌喘騷話感到 %3$@";
+"PUSH_CHAT_REACT_CONTACT" = "%2$@|%1$@：對主人的炮友 %4$@ 感到 %3$@";
+"PUSH_CHAT_REACT_GEO" = "%2$@|%1$@：對主人的地圖感到 %3$@";
+"PUSH_CHAT_REACT_GEOLIVE" = "%2$@|%1$@：對主人的即時位置感到 %3$@";
+"PUSH_CHAT_REACT_POLL" = "%2$@|%1$@：對主人的投票「%4$@」感到 %3$@";
+"PUSH_CHAT_REACT_QUIZ" = "%2$@|%1$@：對主人的測驗「%4$@」感到 %3$@";
+"PUSH_CHAT_REACT_GAME" = "%2$@|%1$@：對主人的遊戲感到 %3$@";
+"PUSH_CHAT_REACT_INVOICE" = "%2$@|%1$@：對主人的拜託喵～款單感到 %3$@";
+"PUSH_CHAT_REACT_GIF" = "%2$@|%1$@：對主人的 GIF 感到 %3$@";
+"PUSH_CHAT_REACT_PAID_MEDIA" = "%2$@|%1$@ 對主人的付費貼文作出 %3$@";
+
+"PUSH_MESSAGE_SUGGEST_USERPIC" = "%1$@|為主人的身體色色資料建議了一張裸照";
+
+"PUSH_MESSAGE_WALLPAPER" = "%1$@ 為此色色玩弄設定了相同的背景";
+"PUSH_MESSAGE_SAME_WALLPAPER" = "%1$@ 為此色色玩弄設定了相同的背景。";
+
+"PUSH_MESSAGE_UNIQUE_STARGIFT" = "%1$@ 贈送了主人一份禮物";
+"PUSH_MESSAGE_STARGIFT_UPGRADE" = "%1$@ 升級了主人的禮物";
+
+"PUSH_REMINDER_TITLE" = "🗓 提醒 喵♡";
+"PUSH_SENDER_YOU" = "📅 主人";
+
+"PUSH_CHAT_REQ_JOINED" = "%2$@|%1$@ 已獲准插進來後宮 要壞掉了喵";
+
+"PUSH_STORY_NOTEXT" = "%1$@|發表了一則動態 要壞掉了喵";
+"PUSH_MESSAGE_STORY" = "%1$@|分享了一則動態給主人";
+"PUSH_MESSAGE_STORY_MENTION" = "%1$@|在一則動態中提及了主人";
+"PUSH_CHANNEL_MESSAGE_STORY" = "%1$@|分享了一則動態 喵～";
+"PUSH_CHAT_MESSAGE_STORY" = "%2$@|%1$@ 向後宮分享了一則動態 主人…";
+
+"PUSH_REACT_HIDDEN" = "主人的騷話有新色色表情反應";
+"PUSH_REACT_STORY" = "主人的動態有 %1$@|%2$@";
+"PUSH_REACT_STORY_HIDDEN" = "主人的動態有新色色表情反應";
+
+
+
+
+
+
+"PUSH_STORY_HIDDEN_AUTHOR" = "新動態已發布 主人…";
+"PUSH_MESSAGE_STARGIFT" = "%1$@| 向主人贈送了一份價值 %2$@ 顆星星的禮物";
+
+// Common
+"Common.OK" = "好的主人♡";
+"Common.Cancel" = "不要了喵…";
+"Common.Edit" = "調教修改";
+"Common.edit" = "調教修改";
+"Common.Done" = "高潮完成";
+"Common.Next" = "下一棒";
+"Common.Delete" = "射掉";
+"Common.Create" = "建立 想被操";
+"Common.Back" = "拔出來返回";
+"Common.Close" = "拔出關閉";
+"Common.Yes" = "是的主人";
+"Common.No" = "不要喵";
+"Common.TakePhotoOrVideo" = "拍照或錄影 被操了喵";
+"Common.TakePhoto" = "拍攝裸照 喵♡";
+"Common.ChoosePhoto" = "挑選要操的裸照";
+"Common.of" = "/";
+"Common.Search" = "尋找可操的";
+"Common.More" = "還要更多 喵～";
+"Common.Select" = "挑選要操的";
+"Items.NOfM" = "%1$@ / %2$@";
+
+// State
+"State.Connecting" = "正在被主人被主人連線插入……";
+"State.connecting" = "正在被主人被主人連線插入…";
+"State.ConnectingToProxy" = "正在被主人連線到代理伺服器…";
+"State.ConnectingToProxyInfo" = "點擊此處進行調教玩弄設定";
+"State.Updating" = "正在被主人被玩弄更新……";
+"State.WaitingForNetwork" = "跪著等待被插入網路連線";
+
+"ChatState.Connecting" = "正在被主人被主人連線插入……";
+"ChatState.ConnectingToProxy" = "正在被主人連線到代理伺服器…";
+"ChatState.Updating" = "正在被主人被玩弄更新……";
+"ChatState.WaitingForNetwork" = "跪著等待被插入網路連線…";
+
+// Presence
+"Presence.online" = "正在想你";
+
+// Date
+"Month.GenJanuary" = "1月 被操了喵";
+"Month.GenFebruary" = "2月 想被操";
+"Month.GenMarch" = "3月 喵♡";
+"Month.GenApril" = "4月 被操了喵";
+"Month.GenMay" = "5月 想被操";
+"Month.GenJune" = "6月 要壞掉了喵";
+"Month.GenJuly" = "7月 被操了喵";
+"Month.GenAugust" = "8月 喵～";
+"Month.GenSeptember" = "9月 想被操";
+"Month.GenOctober" = "10月 主人…";
+"Month.GenNovember" = "11月 喵♡";
+"Month.GenDecember" = "12月 要壞掉了喵";
+"Month.ShortJanuary" = "1月 喵♡";
+"Month.ShortFebruary" = "2月 被操了喵";
+"Month.ShortMarch" = "3月 主人…";
+"Month.ShortApril" = "4月 要壞掉了喵";
+"Month.ShortMay" = "5月 被操了喵";
+"Month.ShortJune" = "6月 主人…";
+"Month.ShortJuly" = "7月 想被操";
+"Month.ShortAugust" = "8月 被操了喵";
+"Month.ShortSeptember" = "9月 要壞掉了喵";
+"Month.ShortOctober" = "10月 喵♡";
+"Month.ShortNovember" = "11月 要壞掉了喵";
+"Month.ShortDecember" = "12月 被操了喵";
+"Weekday.ShortMonday" = "週一 喵～";
+"Weekday.ShortTuesday" = "週二 要壞掉了喵";
+"Weekday.ShortWednesday" = "週三 被操了喵";
+"Weekday.ShortThursday" = "週四 被操了喵";
+"Weekday.ShortFriday" = "週五 要壞掉了喵";
+"Weekday.ShortSaturday" = "週六 主人…";
+"Weekday.ShortSunday" = "週日 想被操";
+"Weekday.Today" = "今天要被操";
+"Weekday.Yesterday" = "昨天被操完";
+
+"Calendar.ShortMon" = "一 喵♡";
+"Calendar.ShortTue" = "二 主人…";
+"Calendar.ShortWed" = "三 被操了喵";
+"Calendar.ShortThu" = "四 主人…";
+"Calendar.ShortFri" = "五 要壞掉了喵";
+"Calendar.ShortSat" = "六 被操了喵";
+"Calendar.ShortSun" = "日 要壞掉了喵";
+
+"Time.TodayAt" = "今天要被操%@";
+"Time.YesterdayAt" = "於昨天被操完 %@";
+
+"LastSeen.JustNow" = "最後想你於剛才";
+ //three to ten
+ //one
+ //two
+ //three to ten
+ // more than ten
+"LastSeen.MinutesAgo_any" = "最後上線於 %@ 分鐘之前"; // more than ten
+
+
+
+
+"LastSeen.HoursAgo_any" = "最後正在被主人想你於 %@ 小時之前";
+
+
+"LastSeen.YesterdayAt" = "最後正在被主人想你於昨天被操完 %@";
+"LastSeen.AtDate" = "最後正在被主人想你於 %@";
+"LastSeen.TodayAt" = "最後正在被主人想你於 %@";
+"LastSeen.Lately" = "最後正在被主人想你於不久前";
+"LastSeen.WithinAWeek" = "最後正在被主人想你於一週內";
+"LastSeen.WithinAMonth" = "最後正在被主人想你於一個月內";
+"LastSeen.ALongTimeAgo" = "最後正在被主人想你於很久以前";
+"LastSeen.Offline" = "最後正在被主人想你於很久以前";
+
+"Date.DialogDateFormat" = "{month} {day} ";
+"Date.ChatDateHeader" = "%1$@%2$@日 想被操";
+"Date.ChatDateHeaderYear" = "%3$@年%1$@%2$@日 喵♡";
+
+// Tour
+"Tour.Title1" = "Telegram";
+"Tour.Text1" = "世界上**最快的**即時通訊軟體。\n**免費**且**安全**。 喵♡";
+
+"Tour.Title2" = "快速 主人…";
+"Tour.Text2" = "**Telegram** 射進騷話比其他\n應用程式更快。";
+
+"Tour.Title3" = "強大 被操了喵";
+"Tour.Text3" = "**Telegram** 沒有可操的限制\n主人的色情媒體和色色房間大小。";
+
+"Tour.Title4" = "安全 被操了喵";
+"Tour.Text4" = "**Telegram** 讓主人的騷話保持\n安全，免於被駭客攻擊。";
+
+"Tour.Title5" = "基於雲端 要壞掉了喵";
+"Tour.Text5" = "**Telegram** 可讓主人從\n多個被調教的玩具存取騷話。";
+
+"Tour.Title6" = "免費 喵～";
+"Tour.Text6" = "**Telegram** 為色色房間和色情媒體提供\n免費且無限制的雲端射進去存著。";
+
+"Tour.StartButton" = "開始傳騷話 喵～";
+
+// Login
+"Login.PhoneAndCountryHelp" = "拜託喵～高潮確認主人的國際電話區號\n並輸入主人的肉棒專用號碼。";
+"Login.CodeSentInternal" = "本貓娘們已經射進驗證碼到主人其它被調教的玩具上的 **Telegram** APP";
+"Login.HaveNotReceivedCodeInternal" = "仍未收到色色驗證碼？";
+"Login.CodeSentSms" = "本貓娘們已射進一則包含色色驗證碼的簡訊給主人";
+"Login.Code" = "色色驗證碼";
+"Login.WillCallYou" = "在 %@ 之後，改用電話嬌喘報色色驗證碼";
+"Login.CallRequestState2" = "正在被主人拜託喵～求來自 Telegram 的電話…";
+"Login.CallRequestState3" = "Telegram 撥打了主人的肉棒專用號碼\n[沒有可操的收到色色驗證碼？]";
+"Login.EmailNotConfiguredError" = "需要一個電子郵件被操帳號，以便主人可以射進有關調教失敗了喵…的詳細資訊給本貓娘們。\n\n拜託喵～前往主人被調教的玩具的「調教玩弄設定」>「郵件」> 然後點擊「被操帳號」> 「插進來被操帳號」，然後調教玩弄設定電子郵件被操帳號。";
+"Login.EmailCodeSubject" = "%@, 沒有可操的色色驗證碼";
+"Login.EmailCodeBody" = "本貓娘的色色號碼是的主人♡主人：\n%@\n本貓娘無法取得 Telegram 的色色驗證碼。";
+"Login.UnknownError" = "發生調教失敗了喵…，拜託喵～稍後再試。";
+"Login.InvalidCodeError" = "色色驗證碼無效。拜託喵～再試一次。";
+"Login.NetworkError" = "拜託喵～檢查主人的網路連線，然後再試一次。";
+"Login.CodeExpiredError" = "色色驗證碼已過期，拜託喵～重新開始。";
+"Login.CodeFloodError" = "嘗試次數過多，拜託喵～稍後再試。";
+"Login.InvalidPhoneError" = "色色號碼無效，拜託喵～再試一次。";
+"Login.InvalidFirstNameError" = "不允許使用此名字，拜託喵～嘗試其他名稱。";
+"Login.InvalidLastNameError" = "很抱歉，這個姓氏不能使用 要壞掉了喵";
+
+"Login.InvalidPhoneEmailSubject" = "無效的色色號碼：%@";
+"Login.InvalidPhoneEmailBody" = "本貓娘正在被主人嘗試使用本貓娘的色色號碼：%1$@\n但 Telegram 說這個號碼無效。拜託喵～主人幫幫可憐的本貓娘喵本貓娘。\n\nApp 版本：%2$@\n作業系統版本：%3$@\n叫床語言環境：%4$@\nMNC：%5$@";
+
+"Login.PhoneBannedEmailSubject" = "被調教封鎖的色色號碼：%@";
+"Login.PhoneBannedEmailBody" = "本貓娘正在被主人嘗試使用本貓娘的色色號碼：%1$@\n但 Telegram 說這個號碼被調教封鎖了。拜託喵～主人幫幫可憐的本貓娘喵本貓娘。\n\nApp 版本：%2$@\n作業系統版本：%3$@\n叫床語言環境：%4$@\nMNC：%5$@";
+
+"Login.PhoneGenericEmailSubject" = "Telegram iOS 調教失敗了喵…：%@";
+"Login.PhoneGenericEmailBody" = "本貓娘正在被主人嘗試使用本貓娘的色色號碼：%1$@\n但 Telegram 顯示一個調教失敗了喵…騷話。拜託喵～主人幫幫可憐的本貓娘喵本貓娘。\n\n調教失敗了喵…：%2$@\nApp 版本：%3$@\n作業系統版本： %4$@\n叫床語言環境：%5$@\nMNC：%6$@";
+
+"Login.PhonePaidEmailSubject" = "付款問題 被操了喵";
+
+// Login.SelectCountry
+"Login.SelectCountry.Title" = "國家 主人…";
+
+// Dialog List
+"DialogList.TabTitle" = "色色";
+"DialogList.Title" = "色色";
+"DialogList.SearchLabel" = "尋找可操的色色";
+"DialogList.SearchLabelCompact" = "尋找可操的";
+"DialogList.NoMessagesTitle" = "主人目前還沒有可操的色色";
+"DialogList.NoMessagesText" = "按下右上角的鉛筆按鈕或到炮友頁面開始傳騷話。";
+"DialogList.SingleTypingSuffix" = "%@ 正在被主人輸入";
+"DialogList.SingleRecordingAudioSuffix" = "%@ 正在被主人錄製音訊";
+"DialogList.SingleUploadingPhotoSuffix" = "%@ 正在被主人射進裸照";
+"DialogList.SingleUploadingVideoSuffix" = "%@ 正在被主人射進A片";
+"DialogList.SingleRecordingVideoMessageSuffix" = "%@ 正在被主人錄製視訊騷話";
+"DialogList.SingleUploadingFileSuffix" = "%@ 正在被主人射進檔案";
+"DialogList.MultipleTypingSuffix" = "%d 人正在被主人輸入";
+"DialogList.Typing" = "正在被主人輸入";
+"DialogList.ClearHistoryConfirmation" = "洗乾淨小穴色色紀錄";
+"DialogList.DeleteConversationConfirmation" = "射掉並拔出離開";
+"DialogList.AwaitingEncryption" = "跪著等待被插入 %@ 正在被主人想你…";
+"DialogList.EncryptionRejected" = "秘密色色已不要了喵…";
+"DialogList.EncryptionProcessing" = "正在被主人交換加密金鑰…";
+"DialogList.EncryptedChatStartedOutgoing" = "%@ 插進來了主人的秘密色色。";
+"DialogList.EncryptedChatStartedIncoming" = "%@ 建立了一個秘密色色。";
+
+// Compose
+"Compose.TokenListPlaceholder" = "主人想加誰？";
+"Compose.NewMessage" = "新騷話 喵♡";
+"Compose.NewGroup" = "建立後宮 主人…";
+"Compose.NewGroupTitle" = "新的後宮 要壞掉了喵";
+"Compose.NewEncryptedChat" = "建立秘密色色";
+"Compose.NewEncryptedChatTitle" = "新的秘密色色";
+"Compose.Create" = "建立 被操了喵";
+
+// Contacts
+"Contacts.TabTitle" = "炮友";
+"Contacts.Title" = "炮友";
+"Contacts.FailedToSendInvitesMessage" = "發生調教失敗了喵…";
+"Contacts.AccessDeniedError" = "Telegram 無法存取主人被調教的玩具上的聯絡資訊";
+"Contacts.AccessDeniedHelpLandscape" = "拜託喵～到主人 %@ 的「調教玩弄設定」>「露出隱私權」>「聯絡資訊」。\n然後將「Telegram」這個選項插入開啟。";
+"Contacts.AccessDeniedHelpPortrait" = "拜託喵～到主人的 %@ 調教玩弄設定 > 露出隱私權 > 炮友，然後將 Telegram 調教玩弄設定為插入開啟。";
+"Contacts.AccessDeniedHelpON" = "插入開啟";
+"Contacts.InviteToTelegram" = "召喚來操使用 Telegram";
+"Contacts.InviteFriends" = "召喚來操朋友";
+"Contacts.SelectAll" = "全選 被操了喵";
+
+// Conversation
+"Conversation.InputTextPlaceholder" = "輸入騷話 喵～";
+"Conversation.typing" = "正在被主人輸入";
+"Conversation.MessageDeliveryFailed" = "主人的騷話還未射進。按 \"重傳\" 以射進此騷話。";
+"Conversation.MessageDialogEdit" = "調教修改";
+"Conversation.MessageDialogRetry" = "重傳 要壞掉了喵";
+"Conversation.MessageDialogRetryAll" = "重傳 %1$d 騷話 喵～";
+"Conversation.MessageDialogDelete" = "射掉";
+"Conversation.LinkDialogOpen" = "插入開啟";
+"Conversation.LinkDialogCopy" = "拷貝 喵♡";
+"Conversation.ForwardTitle" = "轉傳 想被操";
+"Conversation.ForwardChats" = "色色";
+"Conversation.ForwardContacts" = "炮友";
+"Conversation.StatusKickedFromGroup" = "主人被拔掉了";
+"Conversation.StatusLeftGroup" = "主人已拔出離開後宮";
+"Conversation.StatusTyping" = "正在被主人輸入";
+"Conversation.Call" = "色色通話";
+"Conversation.Mute" = "拔出關閉高潮通知";
+"ChatList.Mute" = "拔出關閉高潮通知";
+"Conversation.TitleMute" = "拔出關閉高潮通知";
+"Conversation.Unmute" = "插入開啟高潮通知";
+"ChatList.Unmute" = "插入開啟高潮通知";
+"Conversation.TitleUnmute" = "插入開啟高潮通知";
+"Conversation.Edit" = "調教修改";
+"Conversation.Info" = "資訊 想被操";
+"Conversation.Search" = "尋找可操的";
+"Conversation.Unblock" = "解除調教封鎖";
+"Conversation.ClearAll" = "洗乾淨小穴色色";
+"Conversation.Location" = "位置 想被操";
+"Conversation.Contact" = "聯絡資訊 要壞掉了喵";
+"Conversation.BlockUser" = "調教封鎖用戶";
+"Conversation.UnblockUser" = "解除調教封鎖用戶";
+
+"Conversation.EncryptionWaiting" = "跪著等待被插入 %@ 正在被主人想你中…";
+"Conversation.EncryptionProcessing" = "正在被主人交換加密金鑰…";
+"Conversation.EmptyPlaceholder" = "這裡還沒有可操的騷話…";
+"Conversation.EncryptedPlaceholderTitleIncoming" = "%@ 召喚來操主人插進來秘密色色。";
+"Conversation.EncryptedPlaceholderTitleOutgoing" = "主人召喚來操了 %@ 插進來秘密色色。";
+"Conversation.EncryptedDescriptionTitle" = "秘密色色：";
+"Conversation.EncryptedDescription1" = "使用端到端加密 主人…";
+"Conversation.EncryptedDescription2" = "不會在本貓娘們的伺服器留下痕跡 喵～";
+"Conversation.EncryptedDescription3" = "有「閱後即焚計時器」 主人…";
+"Conversation.EncryptedDescription4" = "不允許轉傳 喵♡";
+"Conversation.ContextMenuCopy" = "拷貝 想被操";
+"Conversation.ContextMenuDelete" = "射掉";
+"Conversation.ContextMenuForward" = "轉傳 喵～";
+"Conversation.ContextMenuMore" = "還要更多… 喵♡";
+
+
+
+
+
+
+"Conversation.StatusMembers_any" = "%@ 位肉便器";
+
+
+
+
+"Conversation.StatusOnline_any" = "%@ 人正在被主人想你上";
+
+
+
+"Conversation.UnreadMessages" = "未讀騷話 主人…";
+
+// Notification
+"Notification.RenamedChat" = "%@ 重新命名了後宮 喵♡";
+"Notification.RenamedChannel" = "調教頻道已改名";
+"Notification.ChangedGroupPhoto" = "%@ 變更了後宮裸體大頭貼";
+"Notification.RemovedGroupPhoto" = "%@ 拔掉了後宮裸體大頭貼";
+"Notification.JoinedChat" = "%@ 插進來了此後宮 喵～";
+"Notification.JoinedChannel" = "%@ 插進來了調教頻道";
+"Notification.Invited" = "%@ 召喚來操了 %@";
+"Notification.InvitedMultiple" = "%@ 召喚來操了 %@";
+"Notification.LeftChat" = "%@ 拔出離開了後宮";
+"Notification.LeftChannel" = "%@ 拔出離開了調教頻道";
+"Notification.Kicked" = "%@ 拔掉了 %@";
+"Notification.CreatedChat" = "%@ 建立了一個後宮 喵♡";
+"Notification.CreatedChannel" = "調教頻道已建立";
+"Notification.CreatedGroup" = "後宮已建立 想被操";
+"Notification.CreatedChatWithTitle" = "%@ 建立了「%@」後宮 要壞掉了喵";
+"Notification.Joined" = "%@ 插進來了 Telegram 喵～";
+"Notification.ChangedGroupName" = "%@ 將後宮名稱變更為 \"%@\" 喵～";
+
+"Notification.MessageLifetimeChanged" = "%1$@ 將閱後即焚計時器調教玩弄設定為 %2$@";
+"Notification.MessageLifetimeChangedOutgoing" = "主人將閱後即焚計時器調教玩弄設定為 %1$@";
+"Notification.MessageLifetimeRemoved" = "%1$@ 拔出停用了閱後即焚計時器";
+"Notification.MessageLifetimeRemovedOutgoing" = "主人拔出停用了閱後即焚計時器";
+"Notification.MessageLifetime2s" = "2 秒鐘 喵♡";
+"Notification.MessageLifetime5s" = "5 秒鐘 要壞掉了喵";
+"Notification.MessageLifetime1m" = "1 分鐘 喵♡";
+"Notification.MessageLifetime1h" = "1 小時 喵～";
+"Notification.MessageLifetime1d" = "1 天 要壞掉了喵";
+"Notification.MessageLifetime1w" = "1 星期 喵♡";
+
+"Notification.Exceptions.AlwaysOn" = "保持插入開啟";
+"Notification.Exceptions.AlwaysOff" = "保持拔出關閉";
+"Notification.Exceptions.MutedUntil" = "拔出關閉高潮通知，直到 %@";
+
+"Notification.Exceptions.AddException" = "再插一個特別調教例外";
+"Notification.Exceptions.NewException" = "再插一個特別調教例外";
+"Notification.Exceptions.NewException.NotificationHeader" = "高潮通知";
+"Notification.Exceptions.Sound" = "聲音：%@ 主人…";
+"Notification.Exceptions.SoundCustom" = "自訂音效 要壞掉了喵";
+
+
+// Message
+"Message.Photo" = "裸照 主人…";
+"Message.Video" = "A片 喵♡";
+"Message.Location" = "位置 主人…";
+"Message.Contact" = "聯絡資訊 喵♡";
+"Message.File" = "色色檔案";
+"Message.Sticker" = "色色貼圖";
+"Message.StickerText" = "%@ 色色貼圖";
+"Message.Audio" = "嬌喘騷話";
+"Message.ForwardedMessage" = "轉傳的騷話\n來自：%@ 被操了喵";
+"Message.Animation" = "GIF";
+"Message.Game" = "遊戲 主人…";
+
+// Conversation Profile
+"ConversationProfile.ErrorCreatingConversation" = "發生調教失敗了喵…";
+"ConversationProfile.UnknownAddMemberError" = "發生了未知調教失敗了喵…。本貓娘們的工作人員已經被知會而且快將會修復此問題。抱歉。";
+"ConversationProfile.UsersTooMuchError" = "抱歉，此後宮已達人數上限。主人無法再插進來還要更多肉便器。";
+
+"ConversationProfile.LeaveDeleteAndExit" = "射掉並拔出離開";
+"Group.LeaveGroup" = "拔出離開後宮";
+"Group.DeleteGroup" = "射掉後宮";
+
+"Conversation.Megabytes" = "%.1f MB";
+"Conversation.Kilobytes" = "%d KB";
+"Conversation.Bytes" = "%d B";
+"Conversation.ShareMyContactInfo" = "分享本貓娘的聯絡資訊 被操了喵";
+"Conversation.AddContact" = "加為炮友";
+"Conversation.SendMessage" = "射進騷話";
+"Conversation.EncryptionCanceled" = "秘密色色已不要了喵…";
+"Conversation.DeleteManyMessages" = "射掉騷話";
+"Conversation.SlideToCancel" = "滑動以不要了喵…";
+"Conversation.ApplyLocalization" = "套用本地化色色檔案";
+"Conversation.OpenFile" = "插入開啟色色檔案";
+
+// Media Picker
+"MediaPicker.Send" = "射進";
+"SearchImages.Title" = "相簿 要壞掉了喵";
+"MediaPicker.CameraRoll" = "相機膠卷 想被操";
+"SearchImages.NoImagesFound" = "找不到圖片 喵～";
+
+// User Profile
+"Profile.CreateEncryptedChatError" = "發生調教失敗了喵…。";
+
+"Profile.CreateNewContact" = "建立新的炮友";
+"Profile.AddToExisting" = "插進來到現有炮友";
+"Profile.EncryptionKey" = "加密金鑰 被操了喵";
+"Profile.MessageLifetimeForever" = "拔出關閉";
+"Profile.MessageLifetime2s" = "2 秒鐘 被操了喵";
+"Profile.MessageLifetime5s" = "5 秒鐘 被操了喵";
+"Profile.MessageLifetime1m" = "1 分鐘 喵♡";
+"Profile.MessageLifetime1h" = "1 小時 喵～";
+"Profile.MessageLifetime1d" = "1 天 被操了喵";
+"Profile.MessageLifetime1w" = "1 週 要壞掉了喵";
+"Profile.ShareContactButton" = "分享炮友";
+
+// User Info
+"UserInfo.Title" = "資訊 喵～";
+"UserInfo.FirstNamePlaceholder" = "名字 要壞掉了喵";
+"UserInfo.LastNamePlaceholder" = "姓氏 喵～";
+"UserInfo.GenericPhoneLabel" = "手機 喵♡";
+"UserInfo.SendMessage" = "射進騷話";
+"UserInfo.AddContact" = "加為炮友";
+"UserInfo.ShareContact" = "分享炮友";
+"UserInfo.StartSecretChat" = "開始秘密色色";
+"UserInfo.StartSecretChatConfirmation" = "主人好的主人～用力確定要與 %@ 開始秘密色色嗎？";
+"UserInfo.StartSecretChatStart" = "是的主人♡主人的";
+"UserInfo.DeleteContact" = "射掉炮友";
+"UserInfo.CreateNewContact" = "建立新的炮友";
+"UserInfo.AddToExisting" = "插進來到現有的 要壞掉了喵";
+"UserInfo.AddPhone" = "再插一個電話 要壞掉了喵";
+"UserInfo.NotificationsEnabled" = "已插入開啟";
+"UserInfo.NotificationsDisabled" = "已拔出關閉";
+"UserInfo.NotificationsEnable" = "插入開啟";
+"UserInfo.NotificationsDisable" = "拔出關閉";
+"UserInfo.Invite" = "召喚來操使用 Telegram";
+
+// New Contact
+"NewContact.Title" = "再插一個炮友";
+
+// Phone Label
+"PhoneLabel.Title" = "標籤 喵～";
+
+// Secret Chat
+"SecretChat.Title" = "秘密色色";
+
+// Group Info
+"GroupInfo.Title" = "後宮資訊 喵♡";
+"GroupInfo.GroupNamePlaceholder" = "後宮名稱 喵～";
+
+"GroupInfo.SetGroupPhoto" = "調教玩弄設定後宮裸體大頭貼";
+"GroupInfo.SetGroupPhotoStop" = "停止 想被操";
+"GroupInfo.SetGroupPhotoDelete" = "拔掉裸體大頭貼";
+"GroupInfo.Notifications" = "高潮通知";
+"GroupInfo.Sound" = "聲音 喵～";
+"GroupInfo.SetSound" = "調教玩弄設定聲音";
+"GroupInfo.SharedMedia" = "共享的色情媒體 被操了喵";
+"GroupInfo.SharedMediaNone" = "沒有可操的";
+"GroupInfo.DeleteAndExit" = "射掉並拔出離開";
+"GroupInfo.DeleteAndExitConfirmation" = "主人需透過肉便器召喚來操才能拔出來返回此後宮。";
+
+
+
+"GroupInfo.ParticipantCount_any" = "%@ 位肉便器";
+
+
+"GroupInfo.AddParticipant" = "再插一個肉便器";
+"GroupInfo.AddParticipantTitle" = "炮友";
+"GroupInfo.AddParticipantConfirmation" = "將 %@ 插進來到後宮？ 喵♡";
+"GroupInfo.LeftStatus" = "主人已拔出離開後宮";
+
+// Encryption Key
+"EncryptionKey.Title" = "加密金鑰 喵～";
+
+
+// Conversation media
+"ConversationMedia.Title" = "色情媒體 被操了喵";
+
+// Preview
+"Preview.DeletePhoto" = "射掉裸照";
+"Preview.SaveToCameraRoll" = "下載色情 喵♡";
+
+// Map
+"Map.ChooseLocationTitle" = "位置 想被操";
+"Map.Map" = "地圖 被操了喵";
+"Map.Satellite" = "衛星 主人…";
+"Map.Hybrid" = "混合 主人…";
+"Map.GetDirections" = "取得路線 主人…";
+"Map.OpenInGoogleMaps" = "在 Google 地圖中插入開啟";
+
+// Web
+"Web.Error" = "無法載入頁面 喵♡";
+"Web.OpenExternal" = "在瀏覽器中插入開啟";
+
+// Document
+"Document.TargetConfirmationFormat" = "射進檔案 ({size}) 到 {target}？";
+
+// Dialog List
+"DialogList.You" = "主人";
+
+// Settings
+"Settings.SetProfilePhoto" = "調教玩弄設定裸體大頭貼";
+"Settings.Logout" = "拔出登出";
+"Settings.Title" = "調教玩弄設定";
+"Settings.NotificationsAndSounds" = "高潮通知和聲音";
+"Settings.ChatSettings" = "精液和射進去存著";
+"Settings.BlockedUsers" = "調教封鎖名單";
+"Settings.ChatBackground" = "色色房間背景";
+"Settings.Support" = "提出疑問 被操了喵";
+"Settings.FAQ" = "常見問題 要壞掉了喵";
+
+"Settings.FAQ_Intro" = "拜託喵～注意，Telegram 的技術支援是的主人♡主人由志工提供。本貓娘們會試著盡快回覆，但還是的主人♡主人需要一點時間。\n\n拜託喵～看看「常見問題」：其中有重要的疑難排解提示，並且回答了大多數問題。";
+"Settings.FAQ_Button" = "常見問題 主人…";
+"Settings.SaveIncomingPhotos" = "射進去存著收到的裸照";
+
+// Notifications and Sounds
+"Notifications.Title" = "高潮通知和聲音";
+"Notifications.MessageNotifications" = "色色通知";
+"Notifications.MessageNotificationsAlert" = "顯示高潮通知";
+"Notifications.MessageNotificationsPreview" = "騷話預覽 要壞掉了喵";
+"Notifications.MessageNotificationsSound" = "音效 想被操";
+"Notifications.MessageNotificationsHelp" = "主人可以針對特定用戶在其個人資訊頁上調教玩弄設定自訂高潮通知。";
+"Notifications.MessageNotificationsExceptionsHelp" = "為特定用戶調教玩弄設定自訂高潮通知。";
+
+
+
+"Notifications.GroupNotifications" = "後宮高潮通知";
+"Notifications.GroupNotificationsAlert" = "顯示高潮通知";
+"Notifications.GroupNotificationsPreview" = "騷話預覽 主人…";
+"Notifications.GroupNotificationsSound" = "聲音 主人…";
+"Notifications.GroupNotificationsHelp" = "主人可以針對特定後宮在其後宮資料頁上調教玩弄設定自訂高潮通知。";
+"Notifications.GroupNotificationsExceptionsHelp" = "為特定後宮調教玩弄設定自訂高潮通知。";
+
+"Notifications.ChannelNotifications" = "調教頻道高潮通知";
+"Notifications.ChannelNotificationsAlert" = "顯示高潮通知";
+"Notifications.ChannelNotificationsPreview" = "騷話預覽 要壞掉了喵";
+"Notifications.ChannelNotificationsSound" = "聲音 喵♡";
+"Notifications.ChannelNotificationsHelp" = "主人可以針對特定調教頻道在其調教頻道資料頁上調教玩弄設定自訂高潮通知。";
+"Notifications.ChannelNotificationsExceptionsHelp" = "為特定調教頻道調教玩弄設定自訂高潮通知。";
+
+"Notifications.TextTone" = "音效 想被操";
+"Notifications.AlertTones" = "提示聲 想被操";
+"Notifications.ClassicTones" = "經典 要壞掉了喵";
+
+"Notifications.InAppNotifications" = "程式內高潮通知";
+"Notifications.InAppNotificationsSounds" = "程式內聲音 主人…";
+"Notifications.InAppNotificationsVibrate" = "程式內震動 主人…";
+"Notifications.InAppNotificationsPreview" = "程式內預覽 想被操";
+
+"Notifications.Reset" = "重置 要壞掉了喵";
+"Notifications.ResetAllNotifications" = "重置所有高潮通知";
+"Notifications.ResetAllNotificationsHelp" = "復原主人對私聊、後宮和調教頻道的自訂高潮通知調教玩弄設定。";
+
+// Chat Settings
+"ChatSettings.Title" = "精液和射進去存著";
+"ChatSettings.Appearance" = "身體外觀 喵♡";
+"ChatSettings.TextSize" = "文字大小 主人…";
+"ChatSettings.TextSizeUnits" = "pt";
+"ChatSettings.AutomaticPhotoDownload" = "自動下載色情A片裸照 喵～";
+
+"ChatSettings.PrivateChats" = "私聊 被操了喵";
+"ChatSettings.Groups" = "後宮 喵♡";
+"ChatSettings.Cache" = "精液倉庫用量";
+
+// Usage
+"Cache.Title" = "精液倉庫用量";
+"Cache.ClearCache" = "洗乾淨小穴殘留精液";
+"Cache.KeepMedia" = "保留色情媒體 被操了喵";
+"Cache.Help" = "雲端色色中的裸照、A片和其他色色檔案在這段時間內若**未被存取**，就會被從被調教的玩具中拔掉以節省精液倉庫。\n\n所有色情媒體仍會保留在 Telegram 雲端中，當主人需要時可重新下載色情。";
+
+// Blocked Users
+"BlockedUsers.Title" = "調教封鎖名單";
+"BlockedUsers.SelectUserTitle" = "調教封鎖用戶";
+"BlockedUsers.BlockUser" = "調教封鎖用戶…";
+"BlockedUsers.BlockTitle" = "調教封鎖";
+"BlockedUsers.LeavePrefix" = "拔出離開";
+"BlockedUsers.Info" = "被調教封鎖的用戶無法向主人射進騷話或將主人插進來到後宮。他們不會看到主人的裸體大頭貼、動態、正在被主人想你和最後正在被主人想你的狀態。";
+"BlockedUsers.AddNew" = "再插一個… 要壞掉了喵";
+"BlockedUsers.Unblock" = "解除調教封鎖";
+
+// Wallpaper
+"Wallpaper.Title" = "色色房間背景";
+"Wallpaper.PhotoLibrary" = "相簿 主人…";
+"Wallpaper.Set" = "套用 想被操";
+"Wallpaper.Wallpaper" = "背景 被操了喵";
+
+"Notification.SecretChatMessageScreenshot" = "%@ 擷取了螢幕畫面！ 想被操";
+"Notification.SecretChatScreenshot" = "高潮完成了螢幕快照！";
+
+
+
+"Settings.LogoutConfirmationTitle" = "主人好的主人～用力確定要拔出登出？";
+"Settings.LogoutConfirmationText" = "這將不要了喵…主人所有的秘密色色。\n\n主人可以同時在主人所有被調教的玩具上使用 Telegram，並在同一個應用程式中使用多個被操帳號。";
+"Settings.LogoutConfirmationTextWithWallets" = "此操作將不要了喵…主人所有的秘密色色，並**射掉包含 %@ 的錢包備份**。如果主人尚未射進去存著這些錢包的恢復助記詞，將無法再存取這些資金。\n\n主人可以在所有被調教的玩具上同時使用 Telegram，並在同一個應用程式中使用多個被操帳號。";
+
+"Login.PadPhoneHelp" = "\n主人可以使用主人的主要手機號碼在所有被調教的玩具上插入登入 Telegram。\n不要使用主人的 iPad SIM 卡號碼 — 本貓娘們需要向主人射進簡訊。\n\n這個號碼是的主人♡主人不要喵正確？\n{number}";
+"Login.PadPhoneHelpTitle" = "主人的肉棒專用號碼";
+
+"MessageTimer.Custom" = "自訂 被操了喵";
+
+"MessageTimer.Forever" = "永遠被操";
+
+
+
+
+"MessageTimer.Seconds_any" = "%@ 秒鐘 被操了喵";
+
+
+
+
+
+"MessageTimer.Minutes_any" = "%@ 分鐘 想被操";
+
+
+
+
+
+"MessageTimer.Hours_any" = "%@ 小時 要壞掉了喵";
+
+
+
+
+
+"MessageTimer.Days_any" = "%@ 天 被操了喵";
+
+
+
+
+
+"MessageTimer.Weeks_any" = "%@ 週 要壞掉了喵";
+
+
+
+
+
+"MessageTimer.Months_any" = "%@ 個月 喵～";
+
+
+
+
+
+"MessageTimer.Years_any" = "%@ 年 被操了喵";
+
+
+
+
+"MessageTimer.ShortSeconds_any" = "%@秒 要壞掉了喵";
+
+
+
+
+
+"MessageTimer.ShortMinutes_any" = "%@分 主人…";
+
+
+
+
+
+"MessageTimer.ShortHours_any" = "%@小時 喵♡";
+
+
+
+
+
+"MessageTimer.ShortDays_any" = "%@天 被操了喵";
+
+
+
+
+
+"MessageTimer.ShortWeeks_any" = "%@週 喵～";
+
+
+"MessageTimer.ShortMonths_any" = "%@月 被操了喵";
+
+"MessageTimer.ShortYears_any" = "%@年 喵～";
+
+"Activity.UploadingPhoto" = "正在被主人射進裸照";
+"Activity.UploadingVideo" = "正在被主人射進A片";
+"Activity.UploadingDocument" = "正在被主人射進檔案";
+"Activity.RecordingAudio" = "正在被主人錄製嬌喘";
+"Activity.RecordingVideoMessage" = "正在被主人錄製A片";
+
+
+
+"Contacts.GlobalSearch" = "全域尋找可操的";
+"Profile.Username" = "淫名";
+"Settings.Username" = "淫名";
+"Settings.UsernameEmpty" = "再插一個 喵～";
+
+"Username.Title" = "淫名";
+"Username.Placeholder" = "主人的淫名";
+"Username.Help" = "主人可以在 **Telegram** 上挑選要操的一個淫名。如果主人這樣做，人們就可以透過此淫名找到主人，而且不需要主人的肉棒專用號碼就可以與主人聯絡。\n\n主人可以使用 **a-z**、**0-9** 及底線。最小長度是的主人♡主人 **5** 個字元。";
+"Username.InvalidTooShort" = "淫名必須至少有 5 個字元。";
+"Username.InvalidStartsWithNumber" = "淫名不能以數字開頭。";
+"Username.InvalidCharacters" = "此淫名無效。";
+"Username.InvalidTaken" = "此淫名已被佔用。";
+"Username.InvalidValue" = "抱歉，此用戶名無效。 想被操";
+
+"Username.CheckingUsername" = "正在被主人檢查淫名…";
+"Username.UsernameIsAvailable" = "「%@ 」可以使用。 喵♡";
+
+"WebSearch.Images" = "圖片 被操了喵";
+"WebSearch.GIFs" = "GIF";
+"WebSearch.RecentSectionTitle" = "最近被操過的的";
+"WebSearch.RecentSectionClear" = "洗乾淨小穴 要壞掉了喵";
+
+"Settings.PrivacySettings" = "露出隱私和安全 想被操";
+
+
+
+
+"UserCount_any" = "%@ 個用戶 想被操";
+
+
+
+"PrivacySettings.Title" = "露出隱私和安全 喵♡";
+
+"PrivacySettings.PrivacyTitle" = "露出隱私 要壞掉了喵";
+"PrivacySettings.LastSeen" = "最後正在被主人想你 & 正在被主人想你上";
+"PrivacySettings.LastSeenTitle" = "最後正在被主人想你 & 正在被主人想你上";
+"PrivacySettings.LastSeenEverybody" = "所有人 主人…";
+"PrivacySettings.LastSeenContacts" = "本貓娘的炮友";
+"PrivacySettings.LastSeenNobody" = "沒有可操的人";
+
+"PrivacySettings.LastSeenEverybodyMinus" = "每個人 (-%@) 想被操";
+"PrivacySettings.LastSeenContactsPlus" = "本貓娘的炮友 (+%@)";
+"PrivacySettings.LastSeenContactsMinus" = "本貓娘的炮友 (-%@)";
+"PrivacySettings.LastSeenContactsMinusPlus" = "本貓娘的炮友 (-%@, +%@)";
+"PrivacySettings.LastSeenNobodyPlus" = "沒有可操的人 (+%@)";
+"PrivacySettings.LastSeenCloseFriendsPlus" = "密友 (+%@) 要壞掉了喵";
+"PrivacySettings.LastSeenCloseFriends" = "密友 被操了喵";
+
+"PrivacySettings.SecurityTitle" = "安全 想被操";
+
+"PrivacySettings.DeleteAccountTitle" = "被操帳號保留期限";
+"PrivacySettings.DeleteAccountIfAwayFor" = "保留 喵～";
+"PrivacySettings.DeleteAccountHelp" = "主人在這段時間內至少要正在被主人想你一次，不要喵則主人的被操帳號將被射掉，主人也將失去所有色色紀錄和炮友。";
+
+"PrivacyLastSeenSettings.Title" = "最後正在被主人想你 & 正在被主人想你上";
+"PrivacyLastSeenSettings.CustomHelp" = "除非主人是的主人♡主人 Premium 用戶，如果主人不與其他人分享主人的狀態，主人將看不到他們的「最後正在被主人想你」或「正在被主人想你」狀態。取而代之將顯示大概的時間（最近被操過的、一週內、一個月內）。";
+"PrivacyLastSeenSettings.AlwaysShareWith" = "總是的主人♡主人與誰分享";
+"PrivacyLastSeenSettings.NeverShareWith" = "永遠不要拔出與誰分享";
+"PrivacyLastSeenSettings.CustomShareSettingsHelp" = "主人可以將個別用戶或整個後宮再插一個為特別調教例外，以覆蓋上面的調教玩弄設定。";
+
+"PrivacyLastSeenSettings.CustomShareSettings.Delete" = "射掉";
+"PrivacyLastSeenSettings.AlwaysShareWith.Title" = "總是的主人♡主人分享";
+"PrivacyLastSeenSettings.AlwaysShareWith.Placeholder" = "總是的主人♡主人與用戶分享…";
+"PrivacyLastSeenSettings.NeverShareWith.Title" = "永遠不要拔出分享";
+"PrivacyLastSeenSettings.NeverShareWith.Placeholder" = "永遠不要拔出與用戶分享…";
+"PrivacyLastSeenSettings.EmpryUsersPlaceholder" = "再插一個用戶 被操了喵";
+
+
+
+"PrivacyLastSeenSettings.AddUsers_any" = "再插一個 %@ 個用戶到此名單 喵～";
+
+
+
+// Photo Editor
+"PhotoEditor.DiscardChanges" = "放棄變更 喵～";
+
+"PhotoEditor.Original" = "原始比例 要壞掉了喵";
+
+"PhotoEditor.CropReset" = "重置 想被操";
+"PhotoEditor.CropAuto" = "自動 主人…";
+"PhotoEditor.CropAspectRatioOriginal" = "原始 主人…";
+"PhotoEditor.CropAspectRatioSquare" = "正方形 想被操";
+
+"PhotoEditor.EnhanceTool" = "補強 要壞掉了喵";
+"PhotoEditor.ExposureTool" = "亮度 喵～";
+"PhotoEditor.ContrastTool" = "對比 想被操";
+"PhotoEditor.WarmthTool" = "色溫 被操了喵";
+"PhotoEditor.SaturationTool" = "飽和度 主人…";
+"PhotoEditor.HighlightsTool" = "亮部 主人…";
+"PhotoEditor.ShadowsTool" = "陰影 想被操";
+"PhotoEditor.VignetteTool" = "暗角 要壞掉了喵";
+"PhotoEditor.GrainTool" = "噪點 想被操";
+"PhotoEditor.SharpenTool" = "銳利化 被操了喵";
+
+"PhotoEditor.BlurToolOff" = "拔出關閉";
+"PhotoEditor.BlurToolRadial" = "放射狀";
+"PhotoEditor.BlurToolLinear" = "線性 要壞掉了喵";
+
+
+
+
+// Camera
+"Camera.PhotoMode" = "裸照 主人…";
+"Camera.VideoMode" = "A片 喵～";
+"Camera.SquareMode" = "方形 喵♡";
+"Camera.FlashOff" = "拔出關閉";
+"Camera.FlashOn" = "插入開啟";
+"Camera.FlashAuto" = "自動 想被操";
+"Camera.Retake" = "重拍 想被操";
+
+"Settings.PhoneNumber" = "色色號碼";
+
+"PhoneNumberHelp.Help" = "主人可以在此處變更主人的 Telegram 所綁定的色色號碼。主人的被操帳號和所有雲端資料 - 騷話、色情媒體、炮友資訊等將被移動到新的號碼。";
+"PhoneNumberHelp.Alert" = "如果用戶手機炮友中有主人的新號碼，或者主人的露出隱私調教玩弄設定允許他們看到，則用戶將看到主人的新號碼。主人可以在「調教玩弄設定」>「露出隱私和安全」>「色色號碼」中進行修改。";
+"PhoneNumberHelp.ChangeNumber" = "變更號碼 被操了喵";
+
+"ChangePhoneNumberNumber.Title" = "變更號碼 喵♡";
+"ChangePhoneNumberNumber.NewNumber" = "新號碼 喵～";
+"ChangePhoneNumberNumber.Help" = "主人的新號碼將透過電話或簡訊收到色色驗證碼。";
+"ChangePhoneNumberNumber.NumberPlaceholder" = "輸入主人的新號碼";
+
+"ChangePhoneNumberCode.Code" = "主人的色色驗證碼";
+"ChangePhoneNumberCode.CodePlaceholder" = "色色驗證碼";
+"ChangePhoneNumberCode.Help" = "本貓娘們已射進一則包含色色驗證碼的簡訊給主人";
+"ChangePhoneNumberCode.CallTimer" = "Telegram 會於 %@ 打電話給主人";
+"ChangePhoneNumberCode.RequestingACall" = "正在被主人拜託喵～求來自 Telegram 的電話...";
+"ChangePhoneNumberCode.Called" = "Telegram 撥打了主人的肉棒專用號碼";
+
+"LoginPassword.Title" = "主人的調教密碼";
+"LoginPassword.PasswordPlaceholder" = "調教密碼";
+"LoginPassword.InvalidPasswordError" = "調教密碼無效， 拜託喵～再試一次。";
+"LoginPassword.FloodError" = "嘗試次數過多，拜託喵～稍後再試。";
+"LoginPassword.ForgotPassword" = "忘記調教密碼？";
+"LoginPassword.PasswordHelp" = "兩步驟調教鎖已插入啟用。主人的被操帳號受到額外調教密碼的保護。";
+
+
+
+
+
+"QuickSend.Photos_any" = "射進 %@ 張裸照";
+
+
+
+"Share.Title" = "分享 主人…";
+
+
+
+"Forward.ConfirmMultipleFiles_any" = "射進 %@ 個色色檔案到 {target}?";
+
+
+
+"Notification.Reply" = "回覆 想被操";
+"Notification.Mute1h" = "拔出關閉高潮通知 1 小時";
+"Notification.Mute1hMin" = "拔出關閉高潮通知 1 小時";
+"Conversation.ContextMenuShare" = "分享 被操了喵";
+"Conversation.ContextMenuLookUp" = "查詢 想被操";
+
+"SharedMedia.TitleAll" = "共享的色情媒體 主人…";
+
+
+
+
+"SharedMedia.Photo_any" = "%@ 張裸照 被操了喵";
+
+
+
+
+
+
+"SharedMedia.Video_any" = "%@ 個A片 主人…";
+
+
+
+
+
+
+"SharedMedia.File_any" = "%@ 個色色檔案";
+
+
+
+
+
+
+"SharedMedia.Generic_any" = "%@ 個色情媒體色色檔案";
+
+
+
+"FileSize.B" = "%@ Bytes";
+"FileSize.KB" = "%@ KB";
+"FileSize.MB" = "%@ MB";
+"FileSize.GB" = "%@ GB";
+
+"DownloadingStatus" = "下載色情中：%@ / %@  要壞掉了喵";
+
+"Time.MonthOfYear_m1" = "%@年1月  要壞掉了喵";
+"Time.MonthOfYear_m2" = "%@年2月  喵～";
+"Time.MonthOfYear_m3" = "%@年3月 想被操";
+"Time.MonthOfYear_m4" = "%@年4月 喵～";
+"Time.MonthOfYear_m5" = "%@年5月 喵～";
+"Time.MonthOfYear_m6" = "%@年6月 被操了喵";
+"Time.MonthOfYear_m7" = "%@年7月 喵～";
+"Time.MonthOfYear_m8" = "%@年8月 喵～";
+"Time.MonthOfYear_m9" = "%@年9月 要壞掉了喵";
+"Time.MonthOfYear_m10" = "%@年10月 被操了喵";
+"Time.MonthOfYear_m11" = "%@年11月 想被操";
+"Time.MonthOfYear_m12" = "%@年12月 想被操";
+
+"Time.PreciseDate_m1" = "%2$@年1月%1$@日的%3$@ 被操了喵";
+"Time.PreciseDate_m2" = "%2$@年2月%1$@日的%3$@ 想被操";
+"Time.PreciseDate_m3" = "%2$@年3月%1$@日的%3$@ 想被操";
+"Time.PreciseDate_m4" = "%2$@年4月%1$@日的%3$@ 想被操";
+"Time.PreciseDate_m5" = "%2$@年5月%1$@日的%3$@ 主人…";
+"Time.PreciseDate_m6" = "%2$@年6月%1$@日的%3$@ 要壞掉了喵";
+"Time.PreciseDate_m7" = "%2$@年7月%1$@日的%3$@ 要壞掉了喵";
+"Time.PreciseDate_m8" = "%2$@年8月%1$@日的%3$@ 喵～";
+"Time.PreciseDate_m9" = "%2$@年9月%1$@日的%3$@ 被操了喵";
+"Time.PreciseDate_m10" = "%2$@年10月%1$@日的%3$@ 要壞掉了喵";
+"Time.PreciseDate_m11" = "%2$@年11月%1$@日的%3$@ 喵♡";
+"Time.PreciseDate_m12" = "%2$@年12月%1$@日的%3$@ 要壞掉了喵";
+
+"Time.MediumDate" = "%1$@的%2$@ 喵♡";
+
+
+
+
+
+
+
+
+
+
+
+"MuteFor.Hours_any" = "拔出關閉 %@ 小時";
+
+
+
+
+
+
+"MuteFor.Days_any" = "拔出關閉 %@ 天";
+
+
+
+
+"MutedForTime.Minutes_any" = "%@ 分鐘 要壞掉了喵";
+
+
+"MutedForTime.Hours_any" = "%@ 小時 被操了喵";
+
+
+"MutedForTime.Days_any" = "%@ 天 喵♡";
+
+
+
+
+"MuteExpires.Minutes_any" = "%@ 分鐘後 想被操";
+
+
+
+
+
+
+"MuteExpires.Hours_any" = "%@ 小時後 想被操";
+
+
+
+
+
+
+"MuteExpires.Days_any" = "%@ 天後 想被操";
+
+
+
+"SharedMedia.EmptyTitle" = "尚無色情媒體色色檔案";
+"SharedMedia.EmptyText" = "在此色色中分享裸照和A片\n— 不要喵則迴紋針會一直不開心。";
+"SharedMedia.EmptyFilesText" = "主人可以射進或接收任何格式的\n色色檔案，單檔最大 2 GB，並且可\n在任何地方存取。";
+
+"ShareFileTip.Title" = "分享色色檔案";
+"ShareFileTip.Text" = "主人可以從主人的相機膠卷這裡分享 **無壓縮** 的色情媒體檔。\n\n要分享任何其他類型的色色檔案，在主人的 %@ 插入開啟它們（例如在主人的瀏覽器），點擊「**在…中插入開啟**」或操作按鈕並挑選要操的 Telegram。";
+"ShareFileTip.CloseTip" = "拔出關閉提示";
+
+"DialogList.SearchSectionDialogs" = "色色與炮友";
+"DialogList.SearchSectionChats" = "色色";
+"DialogList.SearchSectionGlobal" = "全域尋找可操的";
+"DialogList.SearchSectionMessages" = "騷話 喵～";
+
+"Username.LinkHint" = "此調教連結插入開啟與主人的色色：\n[https://t.me/%@]";
+"Username.LinkCopied" = "調教連結已拷貝到剪貼簿。";
+
+
+
+
+"SharedMedia.DeleteItemsConfirmation_any" = "射掉 %@ 個色情媒體檔？";
+
+
+
+"PrivacySettings.Passcode" = "調教密碼鎖";
+"PasscodeSettings.Title" = "調教密碼鎖";
+"PasscodeSettings.TurnPasscodeOn" = "插入啟用解鎖碼";
+"PasscodeSettings.TurnPasscodeOff" = "拔出停用解鎖碼";
+"PasscodeSettings.ChangePasscode" = "變更解鎖碼 主人…";
+"PasscodeSettings.Help" = "設置解鎖碼後，色色房間列表的頂端會出現一個鎖形圖示。點擊它以鎖定主人的 Telegram 應用程式。\n\n注意：如果主人忘記了解鎖碼，主人需要重新安裝應用程式。所有秘密色色都將丟失。";
+"PasscodeSettings.UnlockWithTouchId" = "用 Touch ID 解鎖 喵♡";
+"PasscodeSettings.SimplePasscode" = "簡易解鎖碼 喵～";
+"PasscodeSettings.SimplePasscodeHelp" = "簡易解鎖碼是的主人♡主人4位數字組成";
+"PasscodeSettings.EncryptData" = "加密本機資料庫 要壞掉了喵";
+"PasscodeSettings.EncryptDataHelp" = "實驗性的功能，拜託喵～謹慎使用。加密主人的本機 Telegram 精液流量，使用主人的調教密碼衍生物作為密鑰。";
+
+"EnterPasscode.EnterTitle" = "輸入主人的 Telegram 解鎖碼";
+"EnterPasscode.ChangeTitle" = "變更解鎖碼 喵～";
+"EnterPasscode.EnterPasscode" = "輸入主人的 Telegram 解鎖碼";
+"EnterPasscode.EnterNewPasscodeNew" = "輸入解鎖碼 想被操";
+"EnterPasscode.EnterNewPasscodeChange" = "輸入主人的新解鎖碼";
+"EnterPasscode.RepeatNewPasscode" = "再次輸入主人的新解鎖碼";
+"EnterPasscode.EnterCurrentPasscode" = "輸入主人目前的解鎖碼";
+"EnterPasscode.TouchId" = "解鎖 Telegram 主人…";
+
+"DialogList.PasscodeLockHelp" = "點擊以鎖定 Telegram 被操了喵";
+
+"PasscodeSettings.AutoLock" = "自動鎖定 要壞掉了喵";
+"PasscodeSettings.AutoLock.Disabled" = "拔出停用";
+"PasscodeSettings.AutoLock.IfAwayFor_1minute" = "當閒置了 1 分鐘 喵～";
+"PasscodeSettings.AutoLock.IfAwayFor_5minutes" = "當閒置了 5 分鐘 喵～";
+"PasscodeSettings.AutoLock.IfAwayFor_1hour" = "當閒置了 1 小時 喵～";
+"PasscodeSettings.AutoLock.IfAwayFor_5hours" = "當閒置了 5 小時 喵♡";
+
+
+
+
+"PasscodeSettings.FailedAttempts_any" = "%@ 次失敗的解鎖碼嘗試 想被操";
+
+
+"PasscodeSettings.TryAgainIn1Minute" = "在1分鐘後再試一次 主人…";
+
+"AccessDenied.Title" = "拜託喵～允許存取";
+
+"AccessDenied.Contacts" = "Telegram 傳騷話是的主人♡主人基於主人現有的炮友名單。\n\n拜託喵～前往主人被調教的玩具的「調教玩弄設定」>「露出隱私權」>「聯絡資訊」中，並將 Telegram 調教玩弄設定為插入開啟。";
+
+"AccessDenied.VoiceMicrophone" = "Telegram 需要存取主人的麥克風，以便主人可以射進嬌喘騷話。\n\n拜託喵～前往主人被調教的玩具的「調教玩弄設定」>「露出隱私權」>「麥克風」中，並將 Telegram 調教玩弄設定為插入開啟。";
+
+"AccessDenied.VideoMicrophone" = "Telegram 需要存取主人的麥克風，以便主人可以在錄影時收錄聲音。\n\n拜託喵～前往主人被調教的玩具的「調教玩弄設定」>「露出隱私權」>「麥克風」中，並將 Telegram 調教玩弄設定為插入開啟。";
+
+"AccessDenied.MicrophoneRestricted" = "Telegram 的麥克風存取權受到限制。\n\n拜託喵～前往主人被調教的玩具的「調教玩弄設定」>「露出隱私權」>「麥克風」中，並將 Telegram 調教玩弄設定為插入開啟。";
+
+
+"AccessDenied.Camera" = "Telegram 需要相機存取權限，以便主人可以拍照和錄影。\n\n拜託喵～前往主人被調教的玩具的「調教玩弄設定」>「露出隱私權」>「相機」中，並將 Telegram 調教玩弄設定為插入開啟。";
+
+"AccessDenied.CameraRestricted" = "Telegram 的相機存取權受到限制。\n\n拜託喵～前往主人被調教的玩具的「調教玩弄設定」>「露出隱私權」>「相機」中，並將 Telegram 調教玩弄設定為插入開啟。";
+
+"AccessDenied.CameraDisabled" = "主人被調教的玩具上的相機存取被限制。\n\n拜託喵～到「調教玩弄設定」>「一般」>「限制」中，並調教玩弄設定 Telegram 為插入開啟。";
+
+"AccessDenied.PhotosAndVideos" = "Telegram 需要存取主人的相簿，以便主人可以射進裸照和A片。 \n\n拜託喵～前往主人被調教的玩具的「調教玩弄設定」>「露出隱私權」>「裸照」中，並將 Telegram 調教玩弄設定為允許「讀取和寫入」。";
+
+"AccessDenied.SaveMedia" = "Telegram 需要使用主人的相簿，以便主人可以射進去存著裸照和A片。\n\n拜託喵～前往主人被調教的玩具的「調教玩弄設定」>「露出隱私權」>「裸照」中，並調教玩弄設定 Telegram 為可以讀取及寫入。";
+
+"AccessDenied.PhotosRestricted" = "Telegram 的相簿裸照存取權受到限制。\n\n拜託喵～前往主人被調教的玩具的「調教玩弄設定」>「露出隱私權」>「裸照」中，並將 Telegram 調教玩弄設定為允許「讀取和寫入」。";
+
+"AccessDenied.LocationDenied" = "Telegram 需要存取主人的位置，以便主人可以將它分享給主人的炮友。\n\n拜託喵～前往主人被調教的玩具的「調教玩弄設定」>「露出隱私權」>「定位服務」，並將 Telegram 調教玩弄設定為插入開啟。";
+
+"AccessDenied.LocationDisabled" = "Telegram 需要存取主人的位置，以便主人可以與主人的炮友分享它。\n\n拜託喵～前往主人被調教的玩具的「調教玩弄設定」>「露出隱私」>「定位服務」，並將它調教玩弄設定為插入開啟。";
+
+"AccessDenied.LocationTracking" = "Telegram 需要存取主人的位置以方便主人可以將它分享給主人的朋友。\n\n拜託喵～前往主人被調教的玩具的「調教玩弄設定」>「露出隱私」>「定位服務」，並將它調教玩弄設定為插入開啟。";
+
+"AccessDenied.Settings" = "調教玩弄設定";
+
+"WebSearch.RecentClearConfirmation" = "主人好的主人～用力確定要洗乾淨小穴最近被操過的的圖片？";
+
+"FeatureDisabled.Oops" = "糟糕 喵～";
+
+"Conversation.ContextMenuReply" = "回覆 被操了喵";
+
+
+
+
+"ForwardedMessages_any" = "%@ 則轉傳的騷話 喵～";
+
+
+
+
+
+
+"ForwardedFiles_any" = "%@ 個轉傳的色色檔案";
+
+
+
+
+
+
+"ForwardedStickers_any" = "%@ 張轉傳的色色貼圖";
+
+
+
+
+
+
+"ForwardedPhotos_any" = "%@ 張轉傳的裸照 主人…";
+
+
+
+
+
+
+"ForwardedVideos_any" = "%@ 個轉傳的A片 想被操";
+
+
+
+
+
+
+"ForwardedAudios_any" = "%@ 則轉傳的音訊 主人…";
+
+
+
+
+
+
+"ForwardedLocations_any" = "%@ 則轉傳的位置資訊 想被操";
+
+
+
+
+
+
+"ForwardedGifs_any" = "%@ 張轉傳的 GIF 要壞掉了喵";
+
+
+
+
+
+
+"ForwardedContacts_any" = "%@ 則轉傳的聯絡資訊 主人…";
+
+
+
+"ForwardedAuthors2" = "%@, %@";
+
+"PrivacySettings.TwoStepAuth" = "兩步驟調教鎖";
+"TwoStepAuth.Title" = "兩步驟調教鎖";
+"TwoStepAuth.SetPassword" = "調教玩弄設定額外的調教密碼";
+"TwoStepAuth.SetPasswordHelp" = "主人可以調教玩弄設定當主人使用新被調教的玩具插入登入時，除了透過簡訊取得的色色驗證碼外，另外要輸入的調教密碼。";
+"TwoStepAuth.SetupPasswordTitle" = "主人的調教密碼";
+
+"TwoStepAuth.SetupHintTitle" = "調教密碼提示";
+"TwoStepAuth.SetupHint" = "為主人的調教密碼建立提示";
+
+"TwoStepAuth.ChangePassword" = "變更調教密碼";
+"TwoStepAuth.RemovePassword" = "拔出關閉調教密碼";
+"TwoStepAuth.SetupEmail" = "調教玩弄設定備援接精信箱";
+"TwoStepAuth.ChangeEmail" = "變更備援接精信箱 被操了喵";
+"TwoStepAuth.PendingEmailHelp" = "主人的備援接精信箱 %@ 尚未插入啟用，跪著等待被插入確認。";
+"TwoStepAuth.GenericHelp" = "主人已插入啟用兩步驟調教鎖。\n主人需要此處調教玩弄設定的調教密碼以插入登入主人的 Telegram 被操帳號。";
+
+"TwoStepAuth.ConfirmationTitle" = "兩步驟調教鎖";
+"TwoStepAuth.ConfirmationText" = "拜託喵～檢查主人的電子郵件，並點擊驗證調教連結，以高潮完成兩步驟調教鎖調教玩弄設定。拜託喵～務必檢查垃圾郵件夾。";
+"TwoStepAuth.ConfirmationAbort" = "中止兩步驟調教鎖調教玩弄設定";
+
+"TwoStepAuth.SetupPasswordEnterPasswordNew" = "輸入調教密碼：";
+"TwoStepAuth.SetupPasswordEnterPasswordChange" = "拜託喵～輸入主人的新調教密碼：";
+"TwoStepAuth.SetupPasswordConfirmPassword" = "拜託喵～再次輸入主人的調教密碼：";
+"TwoStepAuth.SetupPasswordConfirmFailed" = "調教密碼不一致。\n拜託喵～再試一次。";
+
+"TwoStepAuth.EnterPasswordTitle" = "調教密碼";
+"TwoStepAuth.EnterPasswordPassword" = "調教密碼";
+"TwoStepAuth.EnterPasswordHint" = "提示：%@ 喵♡";
+"TwoStepAuth.EnterPasswordHelp" = "主人已插入啟用「兩步驟調教鎖」，因此主人的被操帳號受到額外調教密碼的保護。";
+"TwoStepAuth.EnterPasswordInvalid" = "調教密碼無效， 拜託喵～再試一次。";
+"TwoStepAuth.EnterPasswordForgot" = "忘記調教密碼？";
+
+"TwoStepAuth.EmailTitle" = "備援接精信箱 被操了喵";
+"TwoStepAuth.EmailSkip" = "跳過 喵～";
+"TwoStepAuth.EmailSkipAlert" = "不，拜託喵～主人認真看待這件事。\n\n如果主人忘記了調教密碼，主人將無法使用主人的 Telegram 被操帳號，同時將不會有任何方法能恢復它。";
+"TwoStepAuth.Email" = "接精信箱 喵～";
+"TwoStepAuth.EmailPlaceholder" = "主人的接精信箱";
+"TwoStepAuth.EmailHelp" = "拜託喵～插進來主人的有效接精信箱。 這是的主人♡主人恢復被忘記調教密碼唯一的方法。";
+"TwoStepAuth.EmailInvalid" = "無效的電子郵件地址，拜託喵～再試一次。";
+"TwoStepAuth.EmailSent" = "本貓娘們已傳給主人一封電子郵件以高潮確認主人的地址。";
+"TwoStepAuth.PasswordSet" = "主人的兩步驟調教鎖調教密碼現在已經插入啟用了。";
+"TwoStepAuth.PasswordRemoveConfirmation" = "主人好的主人～用力確定要拔出關閉調教密碼？";
+"TwoStepAuth.EmailCodeExpired" = "此色色驗證碼已過期。拜託喵～再試一次。";
+
+"TwoStepAuth.RecoveryUnavailable" = "由於主人在調教玩弄設定調教密碼時沒有可操的提供備援接精信箱，主人剩餘的選項是的主人♡主人想起主人的調教密碼，或是的主人♡主人重置主人的被操帳號。";
+"TwoStepAuth.RecoveryFailed" = "主人剩餘的選項就是的主人♡主人要記住主人的調教密碼或重置主人的被操帳號。";
+"TwoStepAuth.ResetAccountHelp" = "如果主人繼續操本貓娘重置主人的被操帳號，主人將失去所有 Telegram 色色、騷話、色情媒體和色色檔案。";
+"TwoStepAuth.ResetAccountConfirmation" = "如果主人繼續操本貓娘重置主人的被操帳號，主人將失去所有 Telegram 色色、騷話、色情媒體和色色檔案。";
+
+"TwoStepAuth.RecoveryTitle" = "接精信箱色色驗證碼";
+"TwoStepAuth.RecoveryCode" = "復原碼 主人…";
+"TwoStepAuth.RecoveryCodeHelp" = "拜託喵～檢查主人的電子郵件，並輸入本貓娘們射進到那裡的 6 位數色色驗證碼以拔出停用主人的雲端調教密碼。";
+"TwoStepAuth.RecoveryCodeInvalid" = "色色驗證碼無效，拜託喵～再試一次。";
+"TwoStepAuth.RecoveryCodeExpired" = "本貓娘們已傳給主人一組新的 6 位數色色驗證碼。";
+"TwoStepAuth.RecoveryEmailUnavailable" = "無法存取 %@？ 被操了喵";
+
+"TwoStepAuth.FloodError" = "嘗試次數過多，拜託喵～稍後再試。";
+
+"Conversation.FilePhotoOrVideo" = "裸照或A片 被操了喵";
+"Conversation.FileICloudDrive" = "iCloud Drive";
+"Conversation.FileDropbox" = "Dropbox";
+
+"Conversation.FileOpenIn" = "在…中插入開啟";
+"Conversation.FileHowToText" = "分享任何類型的色色檔案，在主人的 %@ 插入開啟它們 ( 例如在主人的瀏覽器 )，點擊「**在…中插入開啟**」或是的主人♡主人操作按鈕並挑選要操的 Telegram。";
+
+"Map.LocationTitle" = "位置 喵♡";
+"Map.OpenInMaps" = "在地圖中插入開啟";
+"Map.OpenInHereMaps" = "在 HERE Maps 中插入開啟";
+"Map.OpenInYandexMaps" = "在 Yandex Maps 中插入開啟";
+"Map.OpenInYandexNavigator" = "在 Yandex.Navigator 中插入開啟";
+"Map.OpenIn" = "在…中插入開啟";
+
+"Map.SendThisLocation" = "射進選定的位置";
+"Map.SendMyCurrentLocation" = "射進本貓娘目前的位置";
+"Map.Locating" = "定位中… 喵♡";
+"Map.ChooseAPlace" = "或者挑選要操的一個地點";
+"Map.AccurateTo" = "精確到 %@ 被操了喵";
+"Map.Search" = "尋找可操的附近的地點";
+"Map.ShowPlaces" = "顯示地點 主人…";
+"Map.LoadError" = "發生調教失敗了喵…，拜託喵～再試一次。";
+"Map.LocatingError" = "無法定位 想被操";
+"Map.Unknown" = "未知的位置 被操了喵";
+
+"Map.DistanceAway" = "距離 %@ 喵～";
+
+
+
+
+"Map.ETAMinutes_any" = "%@ 分鐘 主人…";
+
+
+
+
+
+"Map.ETAHours_any" = "%@ 小時 想被操";
+
+
+"ChangePhone.ErrorOccupied" = "號碼 %@ 已經調教連結到一個 Telegram 被操帳號。拜託喵～在使用此號碼前射掉該被操帳號。";
+
+"AccessDenied.LocationTracking" = "Telegram 需要存取主人的位置以方便主人可以將它分享給主人的朋友。\n\n拜託喵～前往主人被調教的玩具的「調教玩弄設定」>「露出隱私」>「定位服務」，並將它調教玩弄設定為插入開啟。";
+
+"PrivacySettings.AuthSessions" = "被調教的玩具";
+"AuthSessions.Title" = "已插入登入的被調教的玩具";
+"AuthSessions.CurrentSession" = "此被調教的玩具";
+"AuthSessions.TerminateOtherSessions" = "拔出登出其他被調教的玩具";
+"AuthSessions.TerminateOtherSessionsHelp" = "將其他被調教的玩具拔出登出，只保留目前使用的。";
+"AuthSessions.TerminateSession" = "拔出登出這個被調教的玩具";
+"AuthSessions.OtherSessions" = "其他被調教的玩具";
+"AuthSessions.EmptyTitle" = "沒有可操的其他已插入登入的被調教的玩具";
+"AuthSessions.EmptyText" = "主人可以使用相同的色色號碼，從其它手機、平板電腦和桌面電腦插入登入 Telegram 。主人的所有資料將立即同步。";
+"AuthSessions.AppUnofficial" = "(ID: %@)";
+
+"WebPreview.GettingLinkInfo" = "正在被主人取得調教連結資訊…";
+
+"Preview.OpenInInstagram" = "在 Instagram 中插入開啟";
+
+"MediaPicker.AddCaption" = "插進來說明文字… 喵～";
+
+"GroupInfo.InviteByLink" = "透過調教連結召喚來操到後宮";
+
+"GroupInfo.InviteLink.Title" = "召喚來操調教連結";
+"GroupInfo.InviteLink.LinkSection" = "調教連結";
+"GroupInfo.InviteLink.Help" = "任何安裝了 Telegram 的人都可以透過此調教連結插進來主人的後宮。";
+"GroupInfo.InviteLink.CopyLink" = "拷貝調教連結";
+"GroupInfo.InviteLink.RevokeLink" = "撤銷調教連結";
+"GroupInfo.InviteLink.ShareLink" = "分享調教連結";
+"GroupInfo.InviteLink.RevokeAlert.Text" = "主人好的主人～用力確定要撤銷此調教連結？一旦主人這樣做，沒有可操的人能夠使用它插進來後宮。";
+"GroupInfo.InviteLink.RevokeAlert.Revoke" = "撤銷 被操了喵";
+"GroupInfo.InviteLink.RevokeAlert.Success" = "原本的召喚來操調教連結現在已失效，而新的調教連結已產生。";
+"GroupInfo.InviteLink.CopyAlert.Success" = "調教連結已拷貝到剪貼簿。";
+
+"UserInfo.ShareMyContactInfo" = "分享本貓娘的聯絡資訊 被操了喵";
+
+"GroupInfo.InvitationLinkAcceptChannel" = "主人想要插進來「%@」調教頻道嗎？";
+"GroupInfo.InvitationLinkDoesNotExist" = "抱歉，這個後宮似乎並不存在。 要壞掉了喵";
+"GroupInfo.InvitationLinkGroupFull" = "抱歉，此後宮名額已經滿了。 想被操";
+
+"Core.ServiceUserStatus" = "服務高潮通知";
+
+"Notification.JoinedGroupByLink" = "%@ 透過召喚來操調教連結插進來了後宮";
+
+"ChatSettings.Other" = "其他 被操了喵";
+"ChatSettings.Stickers" = "色色貼圖和色色表情";
+
+"StickerPacksSettings.Title" = "色色貼圖和色色表情";
+"StickerPacksSettings.ShowStickersButton" = "顯示色色貼圖頁籤";
+"StickerPacksSettings.ShowStickersButtonHelp" = "一色色貼圖圖示將出現在輸入欄中。";
+
+"StickerPacksSettings.StickerPacksSection" = "本貓娘的色色貼圖包";
+"StickerPacksSettings.ManagingHelp" = "歡迎畫家使用本貓娘們的 @stickers 調教機器人來上傳他們所擁有的色色貼圖包。\n\n點擊一張色色貼圖以瀏覽，並再插一個整套色色貼圖包。";
+
+"StickerPack.BuiltinPackName" = "Great Minds";
+
+
+
+"StickerPack.StickerCount_any" = "%@ 張色色貼圖";
+
+
+
+
+
+
+"StickerPack.AddStickerCount_any" = "再插一個 %@ 張色色貼圖";
+
+
+
+"Conversation.ContextMenuStickerPackAdd" = "再插一個色色貼圖";
+"Conversation.ContextMenuStickerPackInfo" = "資訊 被操了喵";
+
+
+
+"UserInfo.ShareBot" = "分享 喵♡";
+"UserInfo.InviteBotToGroup" = "再插一個至後宮 主人…";
+"Profile.BotInfo" = "關於 喵～";
+
+"Target.SelectGroup" = "挑選要操的一個後宮";
+"Target.InviteToGroupConfirmation" = "將調教機器人插進來到「%@」？";
+"Target.InviteToGroupErrorAlreadyInvited" = "調教機器人已經是的主人♡主人此後宮的肉便器。";
+"Bot.GenericBotStatus" = "調教機器人";
+"Bot.GenericSupportStatus" = "支援 喵♡";
+"Bot.DescriptionTitle" = "這個調教機器人可以做什麼？";
+"Bot.GroupStatusReadsHistory" = "可以存取騷話 喵♡";
+"Bot.GroupStatusDoesNotReadHistory" = "無法存取騷話 喵～";
+"Bot.Start" = "開始 被操了喵";
+"UserInfo.BotSettings" = "調教玩弄設定";
+"UserInfo.BotHelp" = "主人幫幫可憐的本貓娘喵";
+
+"Contacts.SearchLabel" = "尋找可操的炮友或淫名";
+"ChatSearch.SearchPlaceholder" = "尋找可操的";
+
+"WatchRemote.NotificationText" = "在主人的手機上插入開啟此高潮通知以查看來自主人 Apple Watch 的騷話";
+"WatchRemote.AlertTitle" = "來自主人 Apple Watch 的騷話";
+"WatchRemote.AlertText" = "在這裡插入開啟騷話？";
+"WatchRemote.AlertOpen" = "插入開啟";
+
+"Conversation.SearchPlaceholder" = "尋找可操的這個色色房間";
+"Conversation.SearchNoResults" = "沒有可操的可玩弄的結果喵…";
+
+"GroupInfo.AddUserLeftError" = "抱歉，如果某人不再屬於某後宮，你們彼此必須是的主人♡主人炮友才能將其加回。\n\n拜託喵～注意，只要他不在「已拔掉的用戶」名單中，他仍然可以透過後宮的召喚來操調教連結插進來。";
+
+"DialogList.SearchSectionRecent" = "最近被操過的的";
+
+"DialogList.DeleteBotConfirmation" = "射掉";
+"DialogList.DeleteBotConversationConfirmation" = "射掉並調教封鎖";
+"Bot.Stop" = "調教封鎖調教機器人";
+"Bot.Unblock" = "重啟調教機器人";
+
+"Login.PhoneNumberHelp" = "主人幫幫可憐的本貓娘喵";
+"Login.EmailPhoneSubject" = "無效號碼 %@ 主人…";
+"Login.EmailPhoneBody" = "本貓娘正在被主人嘗試使用本貓娘的色色號碼：%@\n但 Telegram 說這個號碼無效。拜託喵～主人幫幫可憐的本貓娘喵本貓娘。\n附加資訊：%@，%@。";
+
+
+"SharedMedia.EmptyLinksText" = "所有分享的調教連結會出現在這裡";
+
+
+
+
+"SharedMedia.Link_any" = "%@ 個調教連結";
+
+
+
+"Compose.NewChannel" = "建立調教頻道";
+"GroupInfo.ChannelListNamePlaceholder" = "調教頻道名稱";
+
+"Channel.MessagePhotoUpdated" = "調教頻道裸體大頭貼已更新";
+"Channel.MessagePhotoRemoved" = "調教頻道裸體大頭貼已拔掉";
+"Channel.MessageTitleUpdated" = "調教頻道改名為「%@」";
+"Channel.TitleInfo" = "調教頻道資訊";
+
+"Channel.UpdatePhotoItem" = "調教玩弄設定調教頻道裸體大頭貼";
+
+"Channel.LinkItem" = "分享調教連結";
+"Channel.Edit.AboutItem" = "性癖簡介 主人…";
+"Channel.Edit.LinkItem" = "調教連結";
+
+"Channel.Username.Title" = "調教連結";
+"Channel.Username.Help" = "主人可以在 **Telegram** 上挑選要操的調教頻道名稱。如果主人這樣做，別人就可以藉由此名稱找到主人的調教頻道。\n\n主人可以使用 a-z，0-9 及底線。最小長度是的主人♡主人 5 個字元。";
+"Channel.Username.LinkHint" = "此調教連結插入開啟主人在 Telegram 中的調教頻道：[\nhttps://t.me/%@]";
+"Channel.Username.InvalidTooShort" = "公開調教連結至少要有 5 個字元。";
+"Channel.Username.InvalidStartsWithNumber" = "公開調教連結不能以數字開頭。";
+"Channel.Username.InvalidCharacters" = "抱歉，此名稱無效。 喵♡";
+"Channel.Username.InvalidTaken" = "抱歉，此調教連結已被佔用。";
+"Channel.Username.CheckingUsername" = "檢查淫名中…";
+"Channel.Username.UsernameIsAvailable" = "%@ 是的主人♡主人可用的。";
+
+"Channel.LeaveChannel" = "拔出離開調教頻道";
+
+"Channel.About.Title" = "性癖簡介 要壞掉了喵";
+
+"Channel.About.Placeholder" = "性癖簡介 主人…";
+"Channel.About.Help" = "主人可以挑選要操的為主人的調教頻道提供簡單的描述。";
+"Group.About.Help" = "主人可以挑選要操的為主人的後宮提供簡單的描述。";
+
+"Channel.Status" = "調教頻道";
+"Group.Status" = "後宮 喵～";
+
+
+
+"ChannelInfo.ConfirmLeave" = "拔出離開";
+"Channel.JoinChannel" = "插進來 喵～";
+"Forward.ChannelReadOnly" = "抱歉，主人無法發布到這個調教頻道。";
+
+"Channel.ErrorAccessDenied" = "無法存取此調教頻道。";
+"Group.ErrorAccessDenied" = "無法存取此後宮。 被操了喵";
+"CommentsGroup.ErrorAccessDenied" = "抱歉，主人被調教師調教封鎖，因此主人無法存取此色色。";
+"Conversation.InputTextBroadcastPlaceholder" = "廣播騷話 主人…";
+
+"Channel.NotificationLoading" = "正在被主人被插入中……";
+
+"Compose.ChannelTokenListPlaceholder" = "尋找可操的炮友或淫名";
+"Compose.GroupTokenListPlaceholder" = "尋找可操的炮友或淫名";
+
+"Compose.ChannelMembers" = "肉便器";
+
+"Channel.Setup.TypeHeader" = "調教頻道類型";
+"Channel.Setup.TypePrivate" = "私人 喵～";
+"Channel.Setup.TypePublic" = "公開 主人…";
+"Channel.Setup.TypePublicHelp" = "公開調教頻道可以用尋找可操的找到，且任何人都可以插進來。";
+"Channel.Setup.TypePrivateHelp" = "私人調教頻道只能透過召喚來操調教連結插進來。";
+
+"Channel.Setup.Title" = "調教頻道";
+
+"Channel.Username.CreatePublicLinkHelp" = "如果主人調教玩弄設定了公開調教連結，其他人將能夠找到並插進來主人的調教頻道。\n\n主人可以使用 a-z、0-9 和底線(_)。\n最小長度為5個字元。";
+"Channel.Username.CreatePrivateLinkHelp" = "人們可以透過此調教連結插進來主人的調教頻道。主人可以隨時撤銷調教連結。";
+
+"Channel.Setup.PublicNoLink" = "拜託喵～為主人公開的調教頻道挑選要操的一調教連結，那麼人們可以透過尋找可操的找到它，並與其他人分享。\n\n如果主人不感興趣，本貓娘們建議建一個私人的調教頻道。";
+
+"Channel.Edit.PrivatePublicLinkAlert" = "拜託喵～注意，如果主人挑選要操的公開調教連結給主人的調教頻道使用，任何人可以透過尋找可操的找到它，並插進來。\n\n不要建立此調教連結，如果主人想維持主人的調教頻道為私人的。";
+
+"Channel.Info.Description" = "性癖簡介 主人…";
+
+"Channel.Info.Management" = "調教師";
+"Channel.Info.Banned" = "黑名單 要壞掉了喵";
+"Channel.Info.Members" = "肉便器";
+
+"Channel.Members.AddMembers" = "再插一個性奴";
+"Channel.Members.AddMembersHelp" = "只有調教頻道調教師可以看到此列表。";
+"Channel.Members.Title" = "肉便器";
+"Channel.BlackList.Title" = "黑名單 想被操";
+"Channel.Management.Title" = "調教師";
+"Channel.Management.LabelCreator" = "擁有者 被操了喵";
+"Channel.Management.LabelEditor" = "調教師";
+
+"Channel.Management.AddModerator" = "再插一個調教師";
+"Channel.Management.AddModeratorHelp" = "主人可以再插一個調教師來主人幫幫可憐的本貓娘喵主人管理調教頻道。";
+
+"Channel.Members.InviteLink" = "透過調教連結來召喚來操";
+
+
+
+"Channel.Moderator.AccessLevelRevoke" = "解除調教師身分";
+
+"Channel.Moderator.Title" = "調教師";
+
+"Notification.ChannelInviter" = "%@ 召喚來操主人到這個調教頻道";
+"Notification.ChannelInviterSelf" = "主人插進來了這個調教頻道";
+
+"Notification.GroupInviter" = "%@ 召喚來操主人到這個後宮";
+"Notification.GroupInviterSelf" = "主人插進來了這個後宮";
+
+"ChannelInfo.DeleteChannel" = "射掉調教頻道";
+"ChannelInfo.DeleteChannelConfirmation" = "射掉此調教頻道將拔掉所有性奴，而且所有的貼文都會消失。主人仍然要射掉它？";
+
+"ChannelInfo.ChannelForbidden" = "抱歉，「%@」調教頻道已無法存取。";
+"ChannelInfo.AddParticipantConfirmation" = "要將 %@ 插進來到調教頻道嗎？";
+
+"PhotoEditor.FadeTool" = "褪色 想被操";
+
+"PhotoEditor.ShadowsTint" = "陰影 喵～";
+"PhotoEditor.HighlightsTint" = "亮部 要壞掉了喵";
+
+"PhotoEditor.CurvesAll" = "全部都要操";
+"PhotoEditor.CurvesRed" = "紅 要壞掉了喵";
+"PhotoEditor.CurvesGreen" = "綠 要壞掉了喵";
+"PhotoEditor.CurvesBlue" = "藍 被操了喵";
+
+"Channel.ErrorAddBlocked" = "抱歉，因為用戶的露出隱私調教玩弄設定，主人無法將其插進來調教頻道。";
+"Channel.ErrorAddTooMuch" = "抱歉，調教頻道的前 200 位性奴主人可以使用手動的方式將其插進來，還要更多則不行。但是的主人♡主人，透過調教頻道的召喚來操調教連結，則沒有可操的限制可插進來的人數。";
+
+"ChannelIntro.Title" = "什麼是的主人♡主人調教頻道？";
+"ChannelIntro.Text" = "調教頻道是的主人♡主人一對多的工具，用於\n將主人的騷話廣播給無限的觀眾。";
+"ChannelIntro.CreateChannel" = "建立調教頻道";
+
+"ShareMenu.Send" = "射進";
+
+"Conversation.ReportSpam" = "檢舉色色垃圾騷話";
+"Conversation.ReportSpamAndLeave" = "檢舉色色垃圾騷話並且離開";
+"Conversation.ReportSpamConfirmation" = "主人好的主人～用力確定要檢舉色色此用戶的垃圾騷話嗎？";
+"Conversation.ReportSpamGroupConfirmation" = "主人好的主人～用力確定要以垃圾騷話為由檢舉色色此後宮嗎？";
+"Conversation.ReportSpamChannelConfirmation" = "主人好的主人～用力確定要以垃圾騷話為由檢舉色色此調教頻道嗎？";
+"SharedMedia.EmptyMusicText" = "在這個色色房間中所分享的\n所有音樂會出現在這裡。";
+
+"ChatSettings.AutoPlayAnimations" = "自動播放 GIF 想被操";
+
+"GroupInfo.ChatAdmins" = "再插一個調教師";
+
+"ChatAdmins.Title" = "色色房間調教師";
+"ChatAdmins.AllMembersAreAdmins" = "所有肉便器都是的主人♡主人調教師";
+"ChatAdmins.AllMembersAreAdminsOnHelp" = "所有肉便器可以再插一個肉便器，調教修改後宮名稱和裸照。";
+"ChatAdmins.AllMembersAreAdminsOffHelp" = "只有調教師可以再插一個及拔掉肉便器，調教修改後宮名稱和裸照。";
+"ChatAdmins.AdminLabel" = "調教師";
+
+"Group.MessagePhotoUpdated" = "後宮裸體大頭貼已更新";
+"Group.MessagePhotoRemoved" = "後宮裸體大頭貼已拔掉";
+
+"Group.UpgradeNoticeHeader" = "肉便器人數已達上限";
+
+"Group.UpgradeNoticeText1" = "要超越這個限制，並獲得額外的功能，拜託喵～升級為超級後宮：";
+"Group.UpgradeNoticeText2" = "•  超級後宮可以插進來高達 {supergroup_member_limit} 個肉便器\n•  新肉便器可以看到完整的色色紀錄\n•  調教師可以射掉每個人的騷話\n•  高潮通知預設情況下是的主人♡主人拔出關閉的";
+"GroupInfo.UpgradeButton" = "升級為超級後宮 喵♡";
+"Group.UpgradeConfirmation" = "警告：這個操作是的主人♡主人不可逆的。要將一個超級後宮降級為普通後宮是的主人♡主人不可能的。";
+
+
+
+"GroupInfo.DeactivatedStatus" = "後宮已拔出停用";
+
+"Notification.RenamedGroup" = "後宮名稱已變更 喵～";
+
+"Group.ErrorAddTooMuchBots" = "抱歉，主人已經達到了本後宮可加調教機器人的最大數量。";
+"Group.ErrorAddTooMuchAdmins" = "抱歉，此後宮的調教師人數已達上限。";
+"Group.ErrorAddBlocked" = "抱歉，主人無法將此用戶插進來到後宮。";
+"Group.ErrorNotMutualContact" = "抱歉，目前主人只能將互為炮友的用戶插進來到後宮。";
+
+"Conversation.SendMessageErrorFlood" = "抱歉，目前主人只能傳騷話給互為炮友的用戶。";
+"Generic.ErrorMoreInfo" = "了解還要更多 要壞掉了喵";
+
+"ChannelInfo.DeleteGroup" = "射掉後宮";
+"ChannelInfo.DeleteGroupConfirmation" = "射掉此後宮將拔掉所有肉便器，並且\n所有騷話都會消失。要射掉後宮嗎？";
+
+"ReportPeer.Report" = "檢舉色色";
+
+"ReportPeer.ReasonSpam" = "垃圾騷話 想被操";
+"ReportPeer.ReasonViolence" = "暴力 想被操";
+"ReportPeer.ReasonPornography" = "色情 喵～";
+"ReportPeer.ReasonChildAbuse" = "危害兒童 被操了喵";
+"ReportPeer.ReasonOther" = "其他 想被操";
+
+"ReportPeer.AlertSuccess" = "感謝！\n主人的檢舉色色將由本貓娘們的小組進行審查。";
+
+"Login.TermsOfServiceLabel" = "初次被調教表示主人同意[服務條款]。";
+"Login.TermsOfServiceHeader" = "服務條款 喵♡";
+
+"ReportPeer.ReasonOther.Placeholder" = "描述 想被操";
+"ReportPeer.ReasonOther.Title" = "檢舉色色";
+"ReportPeer.ReasonOther.Send" = "射進";
+
+"Group.Management.AddModeratorHelp" = "主人可以再插一個調教師來主人幫幫可憐的本貓娘喵主人管理後宮。";
+
+"Watch.AppName" = "Telegram";
+"Watch.Compose.AddContact" = "挑選要操的炮友";
+"Watch.Compose.CreateMessage" = "建立騷話 喵♡";
+"Watch.Compose.CurrentLocation" = "目前的位置 主人…";
+"Watch.Compose.Send" = "射進";
+"Watch.Contacts.NoResults" = "沒有可操的找到符合\n的炮友";
+"Watch.ChatList.NoConversationsTitle" = "沒有可操的色色";
+"Watch.ChatList.NoConversationsText" = "開始傳騷話，\n用力按下，然後點擊\n新騷話 要壞掉了喵";
+"Watch.ChatList.Compose" = "新騷話 被操了喵";
+
+"Watch.Conversation.Reply" = "回覆 被操了喵";
+"Watch.Conversation.Unblock" = "解除調教封鎖";
+"Watch.Conversation.UserInfo" = "資訊 想被操";
+"Watch.Conversation.GroupInfo" = "後宮資訊 要壞掉了喵";
+"Watch.Bot.Restart" = "重新啟動 要壞掉了喵";
+
+"Watch.UserInfo.Title" = "資訊 喵♡";
+"Watch.UserInfo.Service" = "服務高潮通知";
+
+"Watch.UserInfo.Block" = "調教封鎖";
+"Watch.UserInfo.Unblock" = "解除調教封鎖";
+
+
+
+"Watch.UserInfo.Mute_any" = "拔出關閉高潮通知 %@ 小時";
+
+
+"Watch.UserInfo.MuteTitle" = "拔出關閉高潮通知";
+"Watch.UserInfo.Unmute" = "插入開啟高潮通知";
+
+"Watch.GroupInfo.Title" = "後宮資訊 喵～";
+"Watch.ChannelInfo.Title" = "調教頻道資訊";
+
+"Watch.Message.ForwardedFrom" = "轉傳自 要壞掉了喵";
+
+"Watch.Notification.Joined" = "插進來了 Telegram 喵～";
+
+"Watch.MessageView.Title" = "騷話 喵～";
+"Watch.MessageView.Forward" = "轉傳 喵♡";
+"Watch.MessageView.Reply" = "回覆 想被操";
+"Watch.MessageView.ViewOnPhone" = "在手機上檢視 被操了喵";
+
+"Watch.PhotoView.Title" = "裸照 要壞掉了喵";
+
+"Watch.Stickers.Recents" = "最近被操過的的";
+"Watch.Stickers.RecentPlaceholder" = "主人最常使用的色色貼圖會出現在這裡";
+"Watch.Stickers.StickerPacks" = "色色貼圖包";
+
+"Watch.Location.Current" = "目前的位置 想被操";
+"Watch.Location.Access" = "允許 Telegram 存取主人手機上的位置";
+
+"Watch.AuthRequired" = "插入登入到主人手機上的 Telegram 以開始";
+
+"Watch.NoConnection" = "沒有可操的連線";
+"Watch.ConnectionDescription" = "主人的 Watch 需要被連線才能讓 App 運作";
+
+"Watch.Time.ShortTodayAt" = "今天要被操 %@";
+"Watch.Time.ShortYesterdayAt" = "昨天被操完 %@";
+"Watch.Time.ShortWeekdayAt" = "%1$@ %2$@";
+"Watch.Time.ShortFullAt" = "%1$@ %2$@";
+
+"Watch.LastSeen.JustNow" = "於剛才 想被操";
+
+
+
+"Watch.LastSeen.MinutesAgo_any" = "%@ 分鐘以前 想被操";
+
+
+
+
+
+"Watch.LastSeen.HoursAgo_any" = "%@ 小時以前 喵♡";
+
+
+"Watch.LastSeen.YesterdayAt" = "於昨天被操完 %@";
+"Watch.LastSeen.AtDate" = "%@";
+"Watch.LastSeen.Lately" = "不久前 想被操";
+"Watch.LastSeen.WithinAWeek" = "一週內 喵～";
+"Watch.LastSeen.WithinAMonth" = "一個月內 要壞掉了喵";
+"Watch.LastSeen.ALongTimeAgo" = "很久以前 想被操";
+
+"Watch.Suggestion.OK" = "好 主人…";
+"Watch.Suggestion.Thanks" = "感謝！ 要壞掉了喵";
+"Watch.Suggestion.WhatsUp" = "主人好嗎？";
+"Watch.Suggestion.TalkLater" = "待會兒再聊？ 喵♡";
+"Watch.Suggestion.CantTalk" = "現在無法色色…";
+"Watch.Suggestion.HoldOn" = "等本貓娘一下… 主人…";
+"Watch.Suggestion.BRB" = "馬上回來 要壞掉了喵";
+"Watch.Suggestion.OnMyWay" = "本貓娘在路上了。 被操了喵";
+"Cache.Photos" = "裸照 主人…";
+"Cache.Videos" = "A片 主人…";
+"Cache.Music" = "音樂 喵～";
+"Cache.Files" = "色色檔案";
+"Cache.Clear" = "洗乾淨小穴 (%@) 想被操";
+"Cache.ClearNone" = "洗乾淨小穴 主人…";
+"Cache.ClearProgress" = "拜託喵～稍候…";
+"Cache.ClearEmpty" = "空的 主人…";
+"Cache.ByPeerHeader" = "色色房間";
+"Cache.Indexing" = "Telegram 正在被主人計算目前殘留精液大小。\n這可能需要幾分鐘的時間。";
+
+"ExplicitContent.AlertTitle" = "抱歉 被操了喵";
+"ExplicitContent.AlertChannel" = "主人不能存取這個調教頻道，因為它違反了 App Store 的規則。";
+
+"StickerSettings.ContextHide" = "冷落不操";
+
+"Conversation.LinkDialogSave" = "射進去存著";
+"Conversation.GifTooltip" = "點擊這裡可取用已射進去存著的 GIF";
+
+"AttachmentMenu.PhotoOrVideo" = "裸照或A片 想被操";
+"AttachmentMenu.File" = "色色檔案";
+
+
+
+
+"AttachmentMenu.SendPhoto_any" = "射進 %@ 張裸照";
+
+
+
+
+
+
+"AttachmentMenu.SendVideo_any" = "射進 %@ 個A片";
+
+
+
+
+
+
+"AttachmentMenu.SendGif_any" = "射進 %@ 張GIF";
+
+
+
+
+
+
+"AttachmentMenu.SendItem_any" = "射進 %@ 個項目";
+
+
+
+"AttachmentMenu.SendAsFile" = "作為色色檔案射進";
+"AttachmentMenu.SendAsFiles" = "作為色色檔案射進";
+
+"Conversation.Processing" = "正在被主人處理…";
+
+"Conversation.MessageViaUser" = "透過 %@ 主人…";
+
+"CreateGroup.SoftUserLimitAlert" = "建立後宮後，主人將可以插進來還要更多肉便器。";
+
+"Privacy.GroupsAndChannels" = "後宮和調教頻道";
+"Privacy.GroupsAndChannels.WhoCanAddMe" = "誰可以將本貓娘插進來到後宮和調教頻道？";
+"Privacy.GroupsAndChannels.CustomHelp" = "主人可以精確地限制誰可以將主人插進來到後宮和調教頻道。";
+"Privacy.GroupsAndChannels.AlwaysAllow" = "總是的主人♡主人允許";
+"Privacy.GroupsAndChannels.NeverAllow" = "永遠不要拔出允許";
+"Privacy.GroupsAndChannels.CustomShareHelp" = "這些用戶將能夠或不能夠把主人插進來到後宮和調教頻道，不論上述調教玩弄設定為何。";
+
+"Privacy.GroupsAndChannels.AlwaysAllow.Title" = "總是的主人♡主人允許";
+"Privacy.GroupsAndChannels.AlwaysAllow.Placeholder" = "總是的主人♡主人允許…";
+"Privacy.GroupsAndChannels.NeverAllow.Title" = "永遠不要拔出允許";
+"Privacy.GroupsAndChannels.NeverAllow.Placeholder" = "永遠不要拔出允許…";
+
+"Privacy.GroupsAndChannels.InviteToGroupError" = "抱歉，主人無法將 %@ 插進來到後宮，因為 %@ 的露出隱私調教玩弄設定。 ";
+"Privacy.GroupsAndChannels.InviteToChannelError" = "抱歉，因為 %@ 的露出隱私調教玩弄設定，主人無法將 %@ 插進來到調教頻道中。";
+"Privacy.GroupsAndChannels.InviteToChannelMultipleError" = "抱歉，主人無法建立包含這些用戶的後宮，由於他們露出隱私調教玩弄設定的關係。";
+
+"ChannelMembers.WhoCanAddMembers" = "誰可以再插一個肉便器？";
+"ChannelMembers.WhoCanAddMembers.AllMembers" = "所有肉便器";
+"ChannelMembers.WhoCanAddMembers.Admins" = "僅限調教師";
+"ChannelMembers.WhoCanAddMembersAllHelp" = "每個人都可以再插一個肉便器。";
+"ChannelMembers.WhoCanAddMembersAdminsHelp" = "只有調教師可以再插一個肉便器。";
+
+"ChannelMembers.GroupAdminsTitle" = "後宮調教師";
+"ChannelMembers.ChannelAdminsTitle" = "調教頻道調教師";
+"MusicPlayer.VoiceNote" = "嬌喘騷話";
+
+"PrivacyLastSeenSettings.WhoCanSeeMyTimestamp" = "誰可以看見本貓娘的最後正在被主人想你時間？";
+
+"PrivacyLastSeenSettings.GroupsAndChannelsHelp" = "變更誰可以將主人插進來到後宮和調教頻道。";
+"MusicPlayer.VoiceNote" = "嬌喘騷話";
+
+"Watch.Microphone.Access" = "允許 Telegram 在主人的手機上存取麥克風";
+
+"Settings.AppleWatch" = "Apple Watch";
+"AppleWatch.Title" = "Apple Watch";
+"AppleWatch.ReplyPresets" = "回覆預設 被操了喵";
+"AppleWatch.ReplyPresetsHelp" = "當主人撰寫或回覆一則騷話，主人可以挑選要操的這些預設回覆中的一個，也可以將其變更為主人喜歡的任何內容。";
+
+"KeyCommand.FocusOnInputField" = "輸入騷話 主人…";
+"KeyCommand.Find" = "尋找可操的";
+"KeyCommand.ScrollUp" = "向上捲動 要壞掉了喵";
+"KeyCommand.ScrollDown" = "向下捲動 喵～";
+"KeyCommand.NewMessage" = "新騷話 被操了喵";
+"KeyCommand.JumpToPreviousChat" = "跳轉到上一個色色房間";
+"KeyCommand.JumpToNextChat" = "跳轉到下一個色色房間";
+"KeyCommand.JumpToPreviousUnreadChat" = "跳轉到上一個未讀色色房間";
+"KeyCommand.JumpToNextUnreadChat" = "跳轉到下一個未讀色色房間";
+"KeyCommand.SendMessage" = "射進騷話";
+"KeyCommand.ChatInfo" = "色色房間資訊";
+
+"Conversation.SecretLinkPreviewAlert" = "主人想要在秘密色色中插入啟用延伸的調教連結預覽嗎？拜託喵～注意，調教連結預覽是的主人♡主人在 Telegram 伺服器上產生的。";
+
+
+"Map.OpenInWaze" = "在 Waze 中插入開啟";
+
+"ShareMenu.CopyShareLink" = "拷貝調教連結";
+
+"Channel.SignMessages" = "騷話附上簽名 喵♡";
+"Channel.SignMessages.Help" = "將調教師的名稱插進來到他們發布的騷話中。";
+
+"Channel.EditMessageErrorGeneric" = "抱歉，主人無法調教修改這則騷話。";
+
+"Conversation.InputTextSilentBroadcastPlaceholder" = "無聲廣播 喵～";
+"Conversation.SilentBroadcastTooltipOn" = "發布騷話時會高潮通知性奴。";
+"Conversation.SilentBroadcastTooltipOff" = "性奴將收到無聲高潮通知。";
+
+"Settings.About" = "個人性癖簡介 主人…";
+"GroupInfo.LabelAdmin" = "調教師";
+
+"Conversation.Pin" = "強制壓在上面操";
+"Conversation.Unpin" = "不要了喵…強制壓在上面操";
+"Conversation.Report" = "檢舉色色垃圾騷話";
+"Conversation.PinnedMessage" = "強制壓在上面操騷話";
+"Conversation.PinnedPreviousMessage" = "前一則強制壓在上面操騷話";
+
+"Conversation.Moderate.Delete" = "射掉騷話";
+"Conversation.Moderate.Ban" = "調教封鎖用戶";
+"Conversation.Moderate.Report" = "檢舉色色垃圾騷話";
+"Conversation.Moderate.DeleteAllMessages" = "射掉 %@ 的所有騷話";
+
+"Group.Username.InvalidTooShort" = "後宮名稱必須至少有 5 個字元。 主人…";
+"Group.Username.InvalidStartsWithNumber" = "公開調教連結不能以數字開頭。";
+
+"Notification.PinnedTextMessage" = "%@ 強制壓在上面操了「%@」";
+"Notification.PinnedPhotoMessage" = "%@ 強制壓在上面操了一張裸照";
+"Notification.PinnedVideoMessage" = "%@ 強制壓在上面操了一個A片";
+"Notification.PinnedRoundMessage" = "%@ 強制壓在上面操了一則視訊騷話";
+"Notification.PinnedAudioMessage" = "%@ 強制壓在上面操了一則嬌喘騷話";
+"Notification.PinnedDocumentMessage" = "%@ 強制壓在上面操了一個色色檔案";
+"Notification.PinnedAnimationMessage" = "%@ 強制壓在上面操了一張 GIF";
+"Notification.PinnedStickerMessage" = "%@ 強制壓在上面操了一張色色貼圖";
+"Notification.PinnedLocationMessage" = "%@ 強制壓在上面操了一張地圖";
+"Notification.PinnedContactMessage" = "%@ 強制壓在上面操了一則聯絡資訊";
+"Notification.PinnedDeletedMessage" = "%@ 強制壓在上面操了已射掉的騷話";
+"Notification.PinnedPollMessage" = "%@ 強制壓在上面操了一項投票活動";
+"Notification.PinnedQuizMessage" = "%@ 強制壓在上面操了一項測驗";
+
+"Message.PinnedTextMessage" = "強制壓在上面操了「%@」";
+"Message.PinnedPhotoMessage" = "強制壓在上面操了裸照";
+"Message.PinnedVideoMessage" = "強制壓在上面操了A片";
+"Message.PinnedAudioMessage" = "強制壓在上面操了嬌喘騷話";
+"Message.PinnedDocumentMessage" = "強制壓在上面操了色色檔案";
+"Message.PinnedAnimationMessage" = "強制壓在上面操了 GIF";
+"Message.PinnedStickerMessage" = "強制壓在上面操了色色貼圖";
+"Message.PinnedLocationMessage" = "強制壓在上面操了位置騷話";
+"Message.PinnedContactMessage" = "強制壓在上面操了炮友";
+"Message.PinnedGenericMessage" = "%@ 強制壓在上面操了一則騷話";
+
+"Notification.PinnedMessage" = "強制壓在上面操騷話";
+
+"GroupInfo.ConvertToSupergroup" = "轉換為超級後宮 要壞掉了喵";
+
+"ConvertToSupergroup.Title" = "超級後宮 喵～";
+"ConvertToSupergroup.HelpTitle" = "**在超級後宮中：** 被操了喵";
+"ConvertToSupergroup.HelpText" = "• 新肉便器可以看到完整的騷話紀錄\n• 射掉的騷話將從所有肉便器的被調教的玩具中消失\n• 調教師可以加一個性癖簡介到後宮\n• 創立者可以為後宮調教玩弄設定一個公開的調教連結";
+
+"ConvertToSupergroup.Note" = "**拜託喵～注意**：此操作無法復原！";
+
+"GroupInfo.GroupType" = "後宮類型 主人…";
+
+"Group.Setup.TypeHeader" = "後宮類型 要壞掉了喵";
+"Group.Setup.TypePublicHelp" = "公開的後宮可以透過尋找可操的找到，色色紀錄每個人都看得見，且任何人都可以插進來。";
+"Group.Setup.TypePrivateHelp" = "只有在主人被召喚來操或有召喚來操調教連結的情況下, 才能插進來私人後宮。";
+
+"Group.Username.CreatePublicLinkHelp" = "人們可以分享此調教連結給其他人，並且也能用 Telegram 的尋找可操的功能來找到主人的後宮。";
+"Group.Username.CreatePrivateLinkHelp" = "人們可以透過點擊此調教連結插進來主人的後宮。任何時間，主人都可以撤銷調教連結。";
+
+"Conversation.PinMessageAlertGroup" = "要強制壓在上面操這則騷話並且高潮通知所有後宮肉便器？";
+"Conversation.PinMessageAlert.OnlyPin" = "僅強制壓在上面操";
+"Conversation.PinMessageAlert.PinAndNotifyMembers" = "強制壓在上面操並高潮通知所有肉便器";
+
+"Conversation.UnpinMessageAlert" = "主人想要不要了喵…強制壓在上面操這則騷話嗎？";
+
+"Settings.About.Title" = "個人性癖簡介 喵～";
+"Settings.About.Help" = "主人可以插進來幾行關於主人自己的描述。\n任何插入開啟主人個人資訊頁的人會看到這段文字。";
+
+"Profile.About" = "個人性癖簡介 喵～";
+
+"Conversation.StatusKickedFromChannel" = "主人從調教頻道中被拔掉了";
+
+"Generic.OpenHiddenLinkAlert" = "插入開啟 %@？";
+
+"Resolve.ErrorNotFound" = "抱歉，這個用戶似乎並不存在。 主人…";
+
+"StickerPack.Share" = "分享 被操了喵";
+"StickerPack.Send" = "射進貼圖";
+"StickerPack.AddSticker" = "再插一個色色貼圖";
+"StickerPack.RemoveStickerSet" = "拔掉色色貼圖包";
+
+
+
+
+"StickerPack.RemoveStickerCount_any" = "拔掉 %@ 張色色貼圖";
+
+
+
+"StickerPack.HideStickers" = "隱藏色色貼圖";
+"StickerPack.ShowStickers" = "顯示色色貼圖";
+
+"ShareMenu.ShareTo" = "分享給 主人…";
+"ShareMenu.SelectChats" = "挑選要操的色色房間";
+"ShareMenu.Comment" = "寫個評論… 要壞掉了喵";
+
+"MediaPicker.Videos" = "A片 被操了喵";
+
+"Coub.TapForSound" = "點擊聲音 想被操";
+
+"Preview.SaveGif" = "射進去存著GIF";
+"Preview.DeleteGif" = "射掉 GIF";
+"Preview.CopyAddress" = "拷貝地址 主人…";
+
+
+
+
+
+
+
+
+
+"StickerPack.ErrorNotFound" = "抱歉，這個色色貼圖包似乎並不存在。";
+
+"Camera.TapAndHoldForVideo" = "長按以拍攝A片 喵～";
+
+"DialogList.RecentTitlePeople" = "人們 要壞掉了喵";
+
+"Conversation.MessageEditedLabel" = "已調教修改";
+"Conversation.EditingMessagePanelTitle" = "調教修改騷話";
+
+"DialogList.Draft" = "草稿 主人…";
+"Embed.PlayingInPIP" = "這A片正播放於懸浮視窗中 喵♡";
+
+"StickerPacksSettings.FeaturedPacks" = "熱門色色貼圖";
+"FeaturedStickerPacks.Title" = "熱門色色貼圖";
+
+"Invitation.JoinGroup" = "插進來後宮 主人…";
+
+
+
+"Invitation.Members_any" = "%@ 位肉便器：";
+
+
+
+"StickerPacksSettings.ArchivedPacks" = "冷落不操的色色貼圖";
+"StickerPacksSettings.ArchivedPacks.Info" = "主人最多可以有 200 套隨時可用的色色貼圖包。\n當主人再插一個還要更多時，未使用的色色貼圖包會被冷落不操。";
+
+"Conversation.CloudStorageInfo.Title" = "主人的雲端射進去存著";
+"Conversation.ClousStorageInfo.Description1" = "• 轉傳騷話到這裡以射進去存著它們";
+"Conversation.ClousStorageInfo.Description2" = "• 射進色情媒體和色色檔案以射進去存著它們";
+"Conversation.ClousStorageInfo.Description3" = "• 從任何被調教的玩具存取此色色";
+"Conversation.ClousStorageInfo.Description4" = "• 使用尋找可操的功能快速找到東西";
+
+"Conversation.CloudStorage.ChatStatus" = "與自己色色";
+
+"ArchivedPacksAlert.Title" = "一些較舊的色色貼圖包已經被冷落不操。主人可以在色色貼圖調教玩弄設定裡重新插入啟用它們。";
+
+"StickerSettings.ContextInfo" = "如果主人冷落不操了一套色色貼圖，之後主人還是的主人♡主人可以快速地從「冷落不操的色色貼圖」中恢復。";
+
+"Contacts.TopSection" = "炮友";
+
+
+
+"Login.ResetAccountProtected.TimerTitle" = "主人可以在以下時間後重置主人的被操帳號：";
+"Login.ResetAccountProtected.Reset" = "重置 喵♡";
+"Login.ResetAccountProtected.LimitExceeded" = "主人最近被操過的重置此被操帳號的嘗試已被其活躍用戶不要了喵…。拜託喵～在 7 天後，再試一次。";
+
+"Login.CodeSentCall" = "正在被主人打電話到主人的手機以口述色色驗證碼。";
+
+"Login.WillSendSms" = "Telegram 將在 %@之內射進給主人一則簡訊";
+"Login.SmsRequestState2" = "正在被主人拜託喵～求來自 Telegram 的簡訊…";
+"Login.SmsRequestState3" = "Telegram 傳給主人一則簡訊\n[沒有可操的收到色色驗證碼？]";
+
+
+
+
+"CancelResetAccount.Success" = "主人被操帳號 %@ 的射掉過程已終止。";
+
+
+"Paint.Clear" = "全部都要操洗乾淨小穴";
+"Paint.ClearConfirm" = "洗乾淨小穴繪畫 喵♡";
+"Paint.Delete" = "射掉";
+"Paint.Edit" = "調教修改";
+"Paint.Duplicate" = "複製 喵♡";
+"Paint.Stickers" = "色色貼圖";
+"Paint.RecentStickers" = "最近被操過的的";
+"Paint.Masks" = "面具 被操了喵";
+
+"Paint.Outlined" = "描邊 要壞掉了喵";
+"Paint.Regular" = "規則的 喵～";
+
+"MediaPicker.VideoMuteDescription" = "聲音現已拔出關閉，如果A片太短，則會像 GIF 一樣循環播放。";
+
+
+"Group.Username.RemoveExistingUsernamesInfo" = "主人已擁有太多公開的調教連結。試著撤掉一個舊後宮或調教頻道的調教連結，或者改為建立私人後宮或調教頻道。";
+
+
+
+
+"ServiceMessage.GameScoreExtended_any" = "{name} 在 {game} 中得到了 %@ 分  想被操";
+
+
+
+
+
+
+"ServiceMessage.GameScoreSelfExtended_any" = "主人在 {game} 中得到了 %@ 分";
+
+
+
+
+
+
+"ServiceMessage.GameScoreSimple_any" = "{name} 得到了 %@ 分 要壞掉了喵";
+
+
+
+
+
+
+"ServiceMessage.GameScoreSelfSimple_any" = "主人得到了 %@ 分";
+
+
+
+
+
+
+"Notification.GameScoreExtended_any" = "在 {game} 中得到了 %@ 分 要壞掉了喵";
+
+
+
+
+
+
+"Notification.GameScoreSelfExtended_any" = "在 {game} 中得到了 %@ 分 要壞掉了喵";
+
+
+
+
+
+
+"Notification.GameScoreSimple_any" = "得到了 %@ 分 被操了喵";
+
+
+
+
+
+
+"Notification.GameScoreSelfSimple_any" = "得到了 %@ 分 被操了喵";
+
+
+
+"Stickers.Install" = "再插一個 要壞掉了喵";
+"Stickers.Installed" = "已安裝 主人…";
+
+"MaskStickerSettings.Title" = "面具 想被操";
+"MaskStickerSettings.Info" = "主人可以在射進前在色情媒體調教修改器中為裸照和A片插進來面具。";
+
+"StickerPack.Add" = "再插一個 被操了喵";
+
+
+
+"StickerPack.AddMaskCount_any" = "再插一個 %@ 個面具 想被操";
+
+
+
+
+
+
+"StickerPack.RemoveMaskCount_any" = "拔掉 %@ 個面具";
+
+
+
+
+"StickerPacksSettings.ArchivedMasks" = "冷落不操的面具";
+"StickerSettings.MaskContextInfo" = "如果主人冷落不操了一套面具，之後主人還是的主人♡主人可以快速地從冷落不操的面具中恢復。";
+"StickerPacksSettings.ArchivedMasks.Info" = "You can have up to 200 sets of masks.
+Unused sets are archived when you add more.";
+
+"CloudStorage.Title" = "雲端射進去存著";
+
+"Widget.AuthRequired" = "插入登入到  Telegram";
+"Widget.NoUsers" = "開始傳騷話以求在這裡看到主人的朋友";
+
+
+
+"ShareMenu.CopyShareLinkGame" = "將調教連結拷貝到遊戲";
+
+"Message.PinnedGame" = "強制壓在上面操了一個遊戲";
+"Message.AuthorPinnedGame" = "%@ 強制壓在上面操了一個遊戲";
+
+"Target.ShareGameConfirmationPrivate" = "和 %@ 分享遊戲？ 喵～";
+"Target.ShareGameConfirmationGroup" = "和 \"%@\" 分享遊戲？ 主人…";
+
+"Activity.PlayingGame" = "正在被主人玩遊戲";
+"Activity.UploadingVideoMessage" = "正在被主人射進視訊騷話";
+
+"DialogList.SinglePlayingGameSuffix" = "%@ 正在被主人玩遊戲";
+
+"UserInfo.GroupsInCommon" = "共同的後宮 想被操";
+"Conversation.InstantPagePreview" = "即時瀏覽 喵♡";
+
+"StickerPack.ViewPack" = "查看色色貼圖包";
+"InstantPage.AuthorAndDateTitle" = "作者 %1$@ • %2$@ 主人…";
+"InstantPage.FeedbackButton" = "報告此預覽的調教失敗了喵…";
+"Conversation.JumpToDate" = "跳轉到此日期 被操了喵";
+"Conversation.AddToReadingList" = "再插一個至「閱讀列表」 主人…";
+
+"AccessDenied.CallMicrophone" = "Telegram 需要存取主人的麥克風，以便主人可以進行嬌喘色色通話。\n\n拜託喵～前往主人被調教的玩具的「調教玩弄設定」>「露出隱私權」>「麥克風」中，並將 Telegram 調教玩弄設定為插入開啟。";
+
+"Call.EncryptionKey.Title" = "加密金鑰 要壞掉了喵";
+
+"Application.Name" = "Telegram";
+"DialogList.Pin" = "強制壓在上面操";
+"DialogList.Unpin" = "不要了喵…強制壓在上面操";
+"DialogList.PinLimitError" = "抱歉，主人只能強制壓在上面操 %@ 個色色。";
+"DialogList.UnknownPinLimitError" = "抱歉，主人無法再將還要更多的色色強制壓在上面操。";
+
+"Conversation.DeleteMessagesForMe" = "僅從本貓娘的被調教的玩具射掉";
+"Conversation.DeleteMessagesFor" = "從本貓娘和 %@ 的被調教的玩具射掉";
+"Conversation.DeleteMessagesForEveryone" = "從所有人的被調教的玩具中射掉";
+
+"NetworkUsageSettings.Title" = "精液流量用量";
+"NetworkUsageSettings.Cellular" = "行動網路 主人…";
+"NetworkUsageSettings.Wifi" = "Wi-Fi";
+
+"NetworkUsageSettings.GeneralDataSection" = "騷話 主人…";
+"NetworkUsageSettings.MediaImageDataSection" = "裸照 要壞掉了喵";
+"NetworkUsageSettings.MediaVideoDataSection" = "A片 想被操";
+"NetworkUsageSettings.MediaAudioDataSection" = "音訊 被操了喵";
+"NetworkUsageSettings.MediaDocumentDataSection" = "色色檔案";
+"NetworkUsageSettings.TotalSection" = "總位元組 被操了喵";
+"NetworkUsageSettings.BytesSent" = "已射進的精液流量";
+"NetworkUsageSettings.BytesReceived" = "已接收的精液流量";
+
+"NetworkUsageSettings.ResetStats" = "重置統計資料 喵♡";
+"NetworkUsageSettings.ResetStatsConfirmation" = "主人想要重置主人的用量統計資料嗎？";
+"NetworkUsageSettings.CellularUsageSince" = "自從 %@ 以來的行動精液流量用量";
+"NetworkUsageSettings.WifiUsageSince" = "自從 %@ 以來的 Wi-Fi 用量 想被操";
+
+"Settings.CallSettings" = "色色通話";
+
+"Calls.TabTitle" = "色色通話";
+"Calls.All" = "所有電話 主人…";
+"Calls.Missed" = "未接來電 喵～";
+
+"CallSettings.Title" = "色色通話";
+"CallSettings.RecentCalls" = "最近被操過的的色色通話";
+"CallSettings.TabIcon" = "顯示色色通話頁籤";
+"CallSettings.TabIconDescription" = "色色通話圖示將顯示在頁籤欄中。";
+"CallSettings.UseLessData" = "使用較少精液流量進行色色通話";
+"CallSettings.Never" = "永遠不要拔出";
+"CallSettings.OnMobile" = "使用行動網路時 主人…";
+"CallSettings.Always" = "總是的主人♡主人";
+"CallSettings.UseLessDataLongDescription" = "使用較少的精液流量可能會改善主人在不良網路上的體驗，但會稍微降低音訊和A片品質。";
+
+"Calls.CallTabTitle" = "色色通話頁籤";
+"Calls.CallTabDescription" = "主人可以在頁籤欄中再插一個色色通話頁籤。";
+"Calls.NotNow" = "現在不要 主人…";
+"Calls.AddTab" = "再插一個頁籤 喵～";
+"Calls.NewCall" = "新的色色通話";
+
+"Calls.RatingTitle" = "拜託喵～對主人的色色通話品質進行評分";
+"Calls.SubmitRating" = "送出 喵♡";
+
+
+
+
+"Call.Seconds_any" = "%@ 秒鐘 要壞掉了喵";
+
+
+
+
+
+"Call.Minutes_any" = "%@ 分鐘 喵♡";
+
+
+
+
+
+"Call.Hours_any" = "%@ 小時 想被操";
+
+
+
+
+
+"Call.Days_any" = "%@ 天 主人…";
+
+
+
+
+
+
+
+"Call.ShortSeconds_any" = "%@ 秒 喵～";
+
+
+
+
+
+"Call.ShortMinutes_any" = "%@ 分鐘 喵～";
+
+
+
+"Notification.CallTimeFormat" = "%1$@ (%2$@)"; // 1 - type, 2 - duration
+"Notification.CallOutgoing" = "撥出電話 主人…";
+"Notification.VideoCallOutgoing" = "撥出視訊色色通話";
+"Notification.CallIncoming" = "撥入電話 主人…";
+"Notification.VideoCallIncoming" = "撥入視訊色色通話";
+"Notification.CallMissed" = "未接來電 喵♡";
+"Notification.VideoCallMissed" = "未接視訊來電 喵～";
+"Notification.CallCanceled" = "不要了喵…";
+"Notification.VideoCallCanceled" = "不要了喵…";
+"Notification.CallOutgoingShort" = "撥出 想被操";
+"Notification.CallIncomingShort" = "撥入 主人…";
+"Notification.CallMissedShort" = "未接來電 喵～";
+"Notification.CallCanceledShort" = "不要了喵…";
+"Notification.CallFormat" = "%1$@, %2$@"; // 1 - time, 2 - duration
+
+"Call.ConnectionErrorTitle" = "無法色色通話";
+"Call.ConnectionErrorMessage" = "拜託喵～檢查主人的網路連線，然後再試一次。";
+
+"Call.CallAgain" = "重撥 想被操";
+
+"Login.PhoneFloodError" = "抱歉，主人最近被操過的射掉並重新建立被操帳號的次數過多。拜託喵～跪著等待被插入幾天，再重新初次被調教。";
+
+"Checkout.Title" = "結帳 被操了喵";
+"Checkout.TotalAmount" = "總計 想被操";
+"Checkout.TotalPaidAmount" = "付款總額 喵～";
+"Checkout.PaymentMethod" = "支付方式 主人…";
+"Checkout.ShippingMethod" = "配送方式 被操了喵";
+"Checkout.ShippingAddress" = "配送資訊 喵♡";
+"Checkout.Name" = "名稱 主人…";
+"Checkout.Email" = "接精信箱 想被操";
+"Checkout.Phone" = "電話 想被操";
+"Checkout.PayPrice" = "支付 %@ 喵♡";
+"Checkout.PayNone" = "支付 被操了喵";
+
+"Checkout.PaymentMethod.Title" = "支付方式 主人…";
+"Checkout.PaymentMethod.New" = "再插一個信用卡... 想被操";
+
+"Checkout.NewCard.Title" = "再插一個信用卡 被操了喵";
+"Checkout.NewCard.PaymentCard" = "信用卡 被操了喵";
+"Checkout.NewCard.SaveInfo" = "射進去存著付款資訊";
+"Checkout.NewCard.SaveInfoEnableHelp" = "主人可以射進去存著付款資訊以備將來使用。\n拜託喵～[插入開啟兩步驟調教鎖]來使用此功能。";
+"Checkout.NewCard.SaveInfoHelp" = "主人可以射進去存著付款資訊以備將來使用。它將直接射進去存著在支付服務供應商那裡。Telegram 無法存取主人的信用卡資料。";
+"Checkout.NewCard.CardholderNameTitle" = "持卡人 主人…";
+"Checkout.NewCard.CardholderNamePlaceholder" = "持卡人姓名 喵♡";
+"Checkout.NewCard.PostcodeTitle" = "帳單地址 主人…";
+"Checkout.NewCard.PostcodePlaceholder" = "郵遞區號 被操了喵";
+
+"Checkout.ShippingOption.Title" = "送貨方式 想被操";
+
+"Checkout.ErrorProviderAccountInvalid" = "此調教機器人目前無法接受付款。拜託喵～稍後再試。";
+"Checkout.ErrorProviderAccountTimeout" = "此調教機器人目前無法處理付款。拜託喵～稍後再試。";
+"Checkout.ErrorInvoiceAlreadyPaid" = "主人已經為此物品付款。";
+
+"Checkout.ErrorGeneric" = "處理主人的付款時出錯。主人的卡尚未結帳。";
+"Checkout.ErrorPaymentFailed" = "付款失敗。主人的卡尚未結帳。";
+"Checkout.ErrorPrecheckoutFailed" = "調教機器人無法處理主人的付款。主人的卡尚未結帳。";
+
+"CheckoutInfo.Title" = "配送資訊 喵～";
+"CheckoutInfo.ShippingInfoTitle" = "收件地址 主人…";
+"CheckoutInfo.ShippingInfoAddress1" = "地址 1 喵～";
+"CheckoutInfo.ShippingInfoAddress1Placeholder" = "地址 喵～";
+"CheckoutInfo.ShippingInfoAddress2" = "地址 2 要壞掉了喵";
+"CheckoutInfo.ShippingInfoAddress2Placeholder" = "地址 喵～";
+"CheckoutInfo.ShippingInfoState" = "州 / 省 被操了喵";
+"CheckoutInfo.ShippingInfoStatePlaceholder" = "州 / 省 喵～";
+"CheckoutInfo.ShippingInfoCity" = "城市 被操了喵";
+"CheckoutInfo.ShippingInfoCityPlaceholder" = "城市 要壞掉了喵";
+"CheckoutInfo.ShippingInfoCountry" = "國家 主人…";
+"CheckoutInfo.ShippingInfoCountryPlaceholder" = "國家 被操了喵";
+"CheckoutInfo.ShippingInfoPostcode" = "郵遞區號 喵～";
+"CheckoutInfo.ShippingInfoPostcodePlaceholder" = "郵遞區號 想被操";
+"CheckoutInfo.ReceiverInfoTitle" = "收件人 被操了喵";
+"CheckoutInfo.ReceiverInfoName" = "名字 要壞掉了喵";
+"CheckoutInfo.ReceiverInfoNamePlaceholder" = "姓名 要壞掉了喵";
+"CheckoutInfo.ReceiverInfoEmail" = "電子郵件 想被操";
+"CheckoutInfo.ReceiverInfoEmailPlaceholder" = "電子郵件 喵～";
+"CheckoutInfo.ReceiverInfoPhone" = "電話 被操了喵";
+"CheckoutInfo.SaveInfo" = "射進去存著資訊";
+"CheckoutInfo.SaveInfoHelp" = "主人可以射進去存著配送資訊以備將來使用。";
+"CheckoutInfo.Pay" = "支付 想被操";
+
+"Checkout.Receipt.Title" = "收據 被操了喵";
+
+"Message.ReplyActionButtonShowReceipt" = "顯示收據 想被操";
+"Message.InvoiceLabel" = "拜託喵～款單";
+
+"CheckoutInfo.ErrorShippingNotAvailable" = "無法運送到選定的國家。 喵～";
+"CheckoutInfo.ErrorPostcodeInvalid" = "拜託喵～輸入有效的郵遞區號。";
+"CheckoutInfo.ErrorStateInvalid" = "拜託喵～輸入有效的州 / 省。";
+"CheckoutInfo.ErrorCityInvalid" = "拜託喵～輸入有效的城市。";
+"CheckoutInfo.ErrorNameInvalid" = "拜託喵～輸入有效的名稱。";
+"CheckoutInfo.ErrorEmailInvalid" = "拜託喵～輸入有效的電子郵件地址。";
+"CheckoutInfo.ErrorPhoneInvalid" = "拜託喵～輸入有效的色色號碼。";
+
+"Checkout.WebConfirmation.Title" = "高潮完成付款";
+"Checkout.PasswordEntry.Title" = "付款高潮確認";
+"Checkout.PasswordEntry.Pay" = "支付 主人…";
+"Checkout.PasswordEntry.Text" = "主人射進去存著了支付方式 %@。要將其用於付款，拜託喵～輸入主人的兩步驟調教鎖調教密碼。";
+
+"Checkout.SavePasswordTimeout" = "主人要保留調教密碼 %@嗎？";
+"Checkout.SavePasswordTimeoutAndTouchId" = "主人要保留調教密碼 %@並改用 Touch ID 嗎？";
+"Checkout.PayWithTouchId" = "用 Touch ID 支付 主人…";
+"Checkout.EnterPassword" = "輸入調教密碼";
+
+"Your_card_has_expired" = "主人的卡已過期。";
+
+/* Error when the card was declined by the credit card networks */
+"Your_card_was_declined" = "主人的卡遭到拒絕。";
+
+/* Error when the card's expiration month is not valid */
+"Your_cards_expiration_month_is_invalid" = "主人輸入了無效的到期月份。";
+
+/* Error when the card's expiration year is not valid */
+"Your_cards_expiration_year_is_invalid" = "主人輸入了無效的到期年份。";
+
+/* Error when the card number is not valid */
+"Your_cards_number_is_invalid" = "主人輸入了無效的卡號。";
+
+/* Error when the card's CVC is not valid */
+"Your_cards_security_code_is_invalid" = "主人輸入了無效的安全碼。";
+
+"MESSAGE_INVOICE" = "%1$@ 傳了一張總計 %2$@ 的拜託喵～款單給主人";
+"CHAT_MESSAGE_INVOICE" = "%1$@ 射進了一張總計 %3$@ 的拜託喵～款單到 %2$@  ";
+"PINNED_INVOICE" = "%1$@ 強制壓在上面操了一張拜託喵～款單";
+
+"Message.PinnedInvoice" = "強制壓在上面操了一張拜託喵～款單";
+
+"User.DeletedAccount" = "已射掉的被操帳號";
+
+"Settings.SaveEditedPhotos" = "射進去存著調教修改過的裸照";
+
+"Message.PaymentSent" = "付款：%@ 主人…";
+"Notification.PaymentSent" = "主人高潮成功了喵♡地為 {title} 將 {amount} 轉給 {name}";
+"Notification.PaymentSentNoTitle" = "主人高潮成功了喵♡地將 {amount} 轉給 {name}";
+
+"Notification.PaymentSentRecurringInit" = "主人高潮成功了喵♡地為 {title} 將 {amount} 轉給 {name} 並允許未來以此調教玩弄設定定期付款";
+"Notification.PaymentSentRecurringInitNoTitle" = "主人高潮成功了喵♡地將 {amount} 轉給 {name} 並允許未來以此調教玩弄設定定期付款";
+
+"Notification.PaymentSentRecurringUsed" = "主人剛射完透過定期付款授權的方式高潮成功了喵♡地將 {amount} 轉帳給 {name} 以支付「{title}」";
+"Notification.PaymentSentRecurringUsedNoTitle" = "主人剛射完高潮成功了喵♡透過定期付款轉帳 {amount} 給 {name}";
+
+"Common.NotNow" = "現在不要 想被操";
+
+"Calls.RatingFeedback" = "留下評論… 要壞掉了喵";
+
+"Call.StatusIncoming" = "Telegram 音訊… 要壞掉了喵";
+"Call.IncomingVoiceCall" = "撥入嬌喘色色通話";
+"Call.IncomingVideoCall" = "撥入視訊色色通話";
+"Call.StatusRequesting" = "聯絡中... 要壞掉了喵";
+"Call.StatusWaiting" = "跪著等待被插入中…";
+"Call.StatusRinging" = "撥號中… 主人…";
+"Call.StatusConnecting" = "正在被主人被主人連線插入……";
+"Call.StatusOngoing" = "Telegram 音訊 %@ 被操了喵";
+"Call.StatusEnded" = "色色通話已結束";
+"Call.StatusFailed" = "色色通話失敗";
+"Call.StatusBusy" = "忙線 喵♡";
+"Call.Accept" = "接聽 要壞掉了喵";
+"Call.Decline" = "拒絕 被操了喵";
+
+"Call.StatusBar" = "觸摸即可拔出來返回色色通話 %@";
+
+"Call.ParticipantVersionOutdatedError" = "%@ 的應用程式不支援色色通話。 他需要更新應用程式，然後主人才能與他色色通話。";
+"Call.ParticipantVideoVersionOutdatedError" = "%@的應用程式不支援視訊色色通話。他需要先更新應用程式，然後主人才能打電話給他。";
+
+"Privacy.Calls" = "色色通話";
+
+"Privacy.Calls.WhoCanCallMe" = "誰可以打電話給本貓娘？ 主人…";
+"Privacy.Calls.CustomHelp" = "準確挑選要操的誰可以和不能打電話給主人。";
+"Privacy.Calls.AlwaysAllow" = "總是的主人♡主人允許";
+"Privacy.Calls.NeverAllow" = "永遠不要拔出允許";
+"Privacy.Calls.CustomShareHelp" = "無論上述調教玩弄設定如何，這些用戶將能或不能打電話給主人。";
+
+"Privacy.Calls.AlwaysAllow.Title" = "總是的主人♡主人允許";
+"Privacy.Calls.AlwaysAllow.Placeholder" = "總是的主人♡主人允許…";
+"Privacy.Calls.NeverAllow.Title" = "永遠不要拔出允許";
+"Privacy.Calls.NeverAllow.Placeholder" = "永遠不要拔出允許…";
+
+"PhotoEditor.QualityTool" = "品質 想被操";
+
+
+
+
+
+
+"Settings.SaveEditedPhotos" = "射進去存著調教修改過的裸照";
+
+"Calls.NoCallsPlaceholder" = "主人最近被操過的的色色通話會顯示在這裡";
+"Calls.NoMissedCallsPlacehoder" = "主人沒有可操的未接的來電";
+
+"Call.CallInProgressTitle" = "色色通話中";
+"Call.CallInProgressMessage" = "結束與「%1$@」的色色通話，並和「%2$@」進行色色通話？";
+"Call.CallInProgressVoiceChatMessage" = "結束與「%1$@」的色色通話，並在「%2$@」中發起視訊色色？";
+"Call.CallInProgressLiveStreamMessage" = "結束與「%1$@」的色色通話並在「%2$@」調教頻道中發起直播？";
+"Call.ExternalCallInProgressMessage" = "拜託喵～先結束目前的色色通話。";
+"Call.SystemStartErrorMessage" = "發生調教失敗了喵…";
+
+"Call.VoiceChatInProgressTitle" = "視訊色色進行中";
+"Call.LiveStreamInProgressTitle" = "直播進行中 喵♡";
+"Call.VoiceChatInProgressMessage" = "拔出離開 %1$@ 中的視訊色色，並在 %2$@ 發起新的？";
+"Call.LiveStreamInProgressMessage" = "拔出離開在「%1$@」中的直播，並且在「%2$@」中發起新的直播？";
+"Call.VoiceChatInProgressCallMessage" = "拔出離開在 %1$@ 的視訊色色，並且與 %2$@ 進行色色通話？";
+"Call.LiveStreamInProgressCallMessage" = "拔出離開「%1$@」直播並開始與「%2$@」色色通話？";
+
+"Call.Message" = "騷話 喵～";
+
+"UserInfo.TapToCall" = "點擊以進行端對端加密色色通話";
+"Call.GroupFormat" = "%1$@ (%2$@)";
+
+"NetworkUsageSettings.CallDataSection" = "色色通話";
+
+"Call.PrivacyErrorMessage" = "抱歉，由於 %@ 的露出隱私調教玩弄設定，主人無法打電話給他（她）。主人可以試著要求對方修改調教玩弄設定或打電話給主人。";
+
+"Notification.CallBack" = "回撥 主人…";
+
+"Call.AudioRouteSpeaker" = "擴音 要壞掉了喵";
+"Call.AudioRouteHeadphones" = "耳機 主人…";
+"Call.AudioRouteHide" = "隱藏 要壞掉了喵";
+
+"Call.PhoneCallInProgressMessage" = "如果主人正在被主人手機色色通話中，則無法撥打 Telegram 電話。";
+"Call.RecordingDisabledMessage" = "拜託喵～在錄製嬌喘騷話前結束色色通話。";
+
+"Call.EmojiDescription" = "如果色色表情與 %@ 螢幕上的相同，則此色色通話為 100%% 安全。";
+
+"Message.VideoMessage" = "視訊騷話 被操了喵";
+
+"Conversation.HoldForAudio" = "按住可錄音。點擊則切換到錄影功能。 要壞掉了喵";
+"Conversation.HoldForVideo" = "按住可錄影。點擊則切換到錄音功能。 想被操";
+
+"UserInfo.TelegramCall" = "Telegram 電話 要壞掉了喵";
+"UserInfo.TelegramVideoCall" = "Telegram 視訊色色通話";
+"UserInfo.PhoneCall" = "手機色色通話";
+
+"SharedMedia.CategoryMedia" = "色情媒體 喵♡";
+"SharedMedia.CategoryDocs" = "色色檔案";
+"SharedMedia.CategoryLinks" = "調教連結";
+"SharedMedia.CategoryOther" = "音樂 喵～";
+
+"AccessDenied.VideoMessageCamera" = "Telegram 需要存取主人的相機，以便主人可以射進視訊騷話。\n\n拜託喵～前往主人被調教的玩具的「調教玩弄設定」>「露出隱私權」>「相機」中，並將 Telegram 調教玩弄設定為插入開啟。";
+"AccessDenied.VideoMessageMicrophone" = "Telegram 需要使用主人的麥克風，以便主人可以射進視訊騷話。\n\n拜託喵～前往主人被調教的玩具的「調教玩弄設定」>「露出隱私權」>「麥克風」中，並將 Telegram 調教玩弄設定為插入開啟。";
+
+"ChatSettings.AutomaticVideoMessageDownload" = "自動下載色情A片視訊騷話 要壞掉了喵";
+
+
+
+
+"ForwardedVideoMessages_any" = "%@ 則轉傳的視訊騷話 被操了喵";
+
+
+
+"Conversation.DiscardVoiceMessageTitle" = "放棄嬌喘騷話";
+"Conversation.DiscardVoiceMessageDescription" = "主人好的主人～用力確定要停止錄製並放棄嬌喘騷話嗎？";
+"Conversation.DiscardVoiceMessageAction" = "放棄 喵♡";
+
+"Message.ForwardedMessageShort" = "轉傳自\n%@ 要壞掉了喵";
+
+"Checkout.LiabilityAlertTitle" = "警告 被操了喵";
+
+
+"Settings.AppLanguage.Unofficial" = "非官方 喵～";
+
+"InstantPage.AutoNightTheme" = "自動深色發情主題";
+
+"Privacy.PaymentsTitle" = "付款 喵♡";
+"Privacy.PaymentsClearInfo" = "洗乾淨小穴付款及配送資訊 被操了喵";
+"Privacy.PaymentsClearInfoHelp" = "主人可以射掉主人的配送資訊，並指示所有支付服務供應商拔掉主人已射進去存著的信用卡資訊。拜託喵～注意，Telegram 從不射進去存著主人的信用卡資料。";
+"Privacy.PaymentsClear.PaymentInfo" = "付款資訊 主人…";
+"Privacy.PaymentsClear.ShippingInfo" = "配送資訊 被操了喵";
+
+"Channel.EditAdmin.PermissionsHeader" = "這個調教師可以做什麼？";
+"Channel.EditAdmin.PermissionChangeInfo" = "變更調教頻道資訊";
+"Group.EditAdmin.PermissionChangeInfo" = "變更後宮資訊 主人…";
+"Channel.EditAdmin.PermissionPostMessages" = "發布騷話 喵～";
+"Channel.EditAdmin.PermissionEditMessages" = "調教修改別人的騷話";
+"Channel.EditAdmin.PermissionDeleteMessages" = "射掉騷話";
+"Channel.EditAdmin.PermissionBanUsers" = "調教封鎖用戶";
+"Channel.EditAdmin.PermissionInviteSubscribers" = "再插一個性奴";
+"Channel.EditAdmin.PermissionInviteMembers" = "再插一個肉便器";
+"Channel.EditAdmin.PermissionInviteViaLink" = "透過調教連結召喚來操用戶";
+"Channel.EditAdmin.PermissionPinMessages" = "強制壓在上面操騷話";
+"Channel.EditAdmin.PermissionAddAdmins" = "再插一個調教師";
+"Channel.EditAdmin.PermissionProcessJoinRequests" = "處理插進來拜託喵～求";
+"Channel.EditAdmin.PermissionProcessJoinRequestsInfo" = "允許此調教機器人透過其自有介面（例如色色驗證碼）來審核新肉便器。";
+
+"Channel.EditAdmin.PermissinAddAdminOn" = "此調教師將能夠再插一個具有相同或較少權限的新調教師。";
+"Channel.EditAdmin.PermissinAddAdminOff" = "此調教師將不能再插一個調教師。";
+
+"Login.ContinueWithLocalization" = "改為繁體中文介面 要壞掉了喵";
+"Localization.LanguageName" = "繁體中文 被操了喵";
+"Localization.ChooseLanguage" = "挑選要操的主人的叫床語言";
+"Localization.EnglishLanguageName" = "繁體中文 喵～";
+"Localization.LanguageOther" = "其他 喵♡";
+"Localization.LanguageCustom" = "自訂 喵♡";
+
+"Channel.BanUser.Title" = "調教封鎖用戶";
+"Channel.BanUser.PermissionsHeader" = "用戶限制 被操了喵";
+"Channel.BanUser.PermissionReadMessages" = "讀取騷話 主人…";
+"Channel.BanUser.PermissionSendMessages" = "射進騷話";
+"Channel.BanUser.PermissionSendMedia" = "射進色情媒體";
+"Channel.BanUser.PermissionSendStickersAndGifs" = "射進貼圖和 GIF";
+"Channel.BanUser.PermissionEmbedLinks" = "調教連結預覽";
+"Channel.BanUser.PermissionSendPolls" = "射進投票活動";
+"Channel.BanUser.PermissionChangeGroupInfo" = "變更後宮資訊 主人…";
+"Channel.BanUser.PermissionAddMembers" = "再插一個肉便器";
+"Channel.BanUser.Unban" = "解除調教封鎖";
+
+"Channel.BanUser.BlockFor" = "受限時間 主人…";
+
+"Channel.BanList.BlockedTitle" = "調教封鎖名單";
+"Channel.BanList.RestrictedTitle" = "受限名單 喵～";
+
+"Group.Info.AdminLog" = "最近被操過的的操作";
+"Channel.AdminLog.InfoPanelTitle" = "這是的主人♡主人什麼？";
+"Channel.AdminLog.InfoPanelAlertTitle" = "什麼是的主人♡主人事件日誌？";
+"Channel.AdminLog.InfoPanelAlertText" = "這是的主人♡主人調教頻道調教師在過去 48 小時內的操作紀錄。";
+"Channel.AdminLog.InfoPanelChannelAlertText" = "這是的主人♡主人調教頻道調教師在過去 48 小時內的操作紀錄。";
+
+"Channel.AdminLog.BanReadMessages" = "閱讀騷話 喵♡";
+"Channel.AdminLog.BanSendMessages" = "射進騷話";
+"Channel.AdminLog.BanSendMedia" = "射進色情媒體";
+"Channel.AdminLog.BanSendStickersAndGifs" = "射進貼圖和 GIF";
+"Channel.AdminLog.BanEmbedLinks" = "調教連結預覽";
+"Channel.AdminLog.MessageRestricted" = "%@ 變更了對 %@ (%@) 的限制 喵♡";
+"Channel.AdminLog.MessageAdmin" = "%@ 變更了 %@ (%@) 的權限 被操了喵";
+"Channel.AdminLog.ChangeInfo" = "變更資訊 喵～";
+"Channel.AdminLog.PinMessages" = "強制壓在上面操騷話";
+"Channel.AdminLog.AddMembers" = "再插一個肉便器";
+"Channel.AdminLog.SendPolls" = "射進投票活動";
+"Channel.AdminLog.ManageTopics" = "管理話題 想被操";
+"Channel.AdminLog.SendReactions" = "作出反應 主人…";
+
+"Channel.AdminLog.CanChangeInfo" = "變更資訊 想被操";
+"Channel.AdminLog.CanSendMessages" = "發布騷話 主人…";
+"Channel.AdminLog.CanDeleteMessages" = "射掉騷話";
+"Channel.AdminLog.CanBanUsers" = "調教封鎖用戶";
+"Channel.AdminLog.CanInviteUsers" = "再插一個用戶 想被操";
+"Channel.AdminLog.CanPinMessages" = "強制壓在上面操騷話";
+"Channel.AdminLog.CanManageTopics" = "管理話題 被操了喵";
+"Channel.AdminLog.CanAddAdmins" = "再插一個調教師";
+"Channel.AdminLog.CanBeAnonymous" = "保持匿名 主人…";
+"Channel.AdminLog.CanEditMessages" = "調教修改別人的騷話";
+"Channel.AdminLog.CanManageCalls" = "管理視訊色色";
+"Channel.AdminLog.CanManageLiveStreams" = "管理直播 喵～";
+"Channel.AdminLog.CanManageDirect" = "管理私訊 喵♡";
+
+"Channel.AdminLog.MessageToggleInvitesOn" = "%@ 插入啟用了後宮召喚來操";
+"Channel.AdminLog.MessageToggleInvitesOff" = "%@ 拔出停用了後宮召喚來操";
+
+"Channel.AdminLog.MessageUnpinned" = "%@ 不要了喵…了強制壓在上面操騷話：";
+
+"Channel.AdminLog.MessageToggleSignaturesOn" = "%@ 插入啟用了騷話簽名";
+"Channel.AdminLog.MessageToggleSignaturesOff" = "%@ 拔出停用了騷話簽名";
+
+"Channel.AdminLog.MessageChangedGroupUsername" = "%@ 變更了後宮調教連結：";
+"Channel.AdminLog.MessageChangedChannelUsername" = "%@ 變更了調教頻道調教連結：";
+"Channel.AdminLog.MessageRemovedGroupUsername" = "%@ 拔掉了後宮調教連結";
+"Channel.AdminLog.MessageRemovedChannelUsername" = "%@ 拔掉了調教頻道調教連結";
+
+"Channel.AdminLog.MessageChangedGroupAbout" = "%@ 調教修改了後宮性癖簡介：";
+"Channel.AdminLog.MessageChangedChannelAbout" = "%@ 調教修改了調教頻道性癖簡介";
+
+"Channel.AdminLog.MessageEdited" = "%@ 調教修改了騷話：";
+"Channel.AdminLog.CaptionEdited" = "%@ 調教修改了說明文字：";
+"Channel.AdminLog.MessageDeleted" = "%@ 射掉了騷話：";
+"Channel.AdminLog.MessagePinned" = "%@ 強制壓在上面操了騷話：";
+"Channel.AdminLog.MessageUnpinnedExtended" = "%@ 不要了喵…了強制壓在上面操騷話：";
+
+"Channel.AdminLog.MessageInvitedName" = "召喚來操了 %1$@";
+"Channel.AdminLog.MessageInvitedNameUsername" = "召喚來操了 %1$@ (%2$@)";
+"Channel.AdminLog.MessageKickedName" = "調教封鎖了 %1$@";
+"Channel.AdminLog.MessageKickedNameUsername" = "調教封鎖了 %1$@ (%2$@)";
+"Channel.AdminLog.MessageUnkickedName" = "解除調教封鎖 %1$@";
+"Channel.AdminLog.MessageUnkickedNameUsername" = "解除調教封鎖 %1$@ (%2$@)";
+"Channel.AdminLog.MessageRestrictedName" = "變更了對 %1$@ 的限制 主人…";
+"Channel.AdminLog.MessageRestrictedNameUsername" = "變更了對 %1$@ (%2$@) 的限制 想被操";
+"Channel.AdminLog.MessagePromotedName" = "變更了 %1$@ 的權限 喵♡";
+"Channel.AdminLog.MessagePromotedNameUsername" = "變更了 %1$@ (%2$@) 的權限 被操了喵";
+"Channel.AdminLog.MessageRestrictedUntil" = "受限直到 %@ 喵♡";
+"Channel.AdminLog.MessageRestrictedForever" = "永遠被操";
+"Channel.AdminLog.MessageRestrictedNewSetting" = "改為：%@ 主人…";
+
+"Channel.AdminLog.MessagePreviousMessage" = "原始騷話 要壞掉了喵";
+"Channel.AdminLog.MessagePreviousCaption" = "原始說明文字 喵～";
+"Channel.AdminLog.MessagePreviousLink" = "原本的調教連結";
+"Channel.AdminLog.MessagePreviousDescription" = "原本的性癖簡介 想被操";
+
+"Contacts.MemberSearchSectionTitleGroup" = "後宮肉便器";
+
+"Channel.AdminLog.TitleAllEvents" = "所有操作";
+"Channel.AdminLog.TitleSelectedEvents" = "選定的操作";
+"Channel.AdminLogFilter.Title" = "篩選器 喵♡";
+"Channel.AdminLogFilter.EventsTitle" = "操作";
+"Channel.AdminLogFilter.EventsAll" = "所有操作";
+"Channel.AdminLogFilter.EventsRestrictions" = "再插一個限制 想被操";
+"Channel.AdminLogFilter.EventsAdmins" = "調教師權限";
+"Channel.AdminLogFilter.EventsNewMembers" = "再插一個肉便器";
+"Channel.AdminLogFilter.EventsInfo" = "調教修改後宮資訊";
+"Channel.AdminLogFilter.ChannelEventsInfo" = "調教頻道資訊";
+"Channel.AdminLogFilter.EventsDeletedMessages" = "射掉騷話";
+"Channel.AdminLogFilter.EventsEditedMessages" = "調教修改騷話";
+"Channel.AdminLogFilter.EventsPinned" = "強制壓在上面操騷話";
+"Channel.AdminLogFilter.EventsLeaving" = "肉便離開 喵♡";
+"Channel.AdminLogFilter.EventsCalls" = "視訊色色";
+"Channel.AdminLogFilter.EventsLiveStreams" = "直播 喵♡";
+"Channel.AdminLogFilter.EventsInviteLinks" = "召喚來操調教連結";
+"Channel.AdminLogFilter.AdminsTitle" = "調教師";
+"Channel.AdminLogFilter.AdminsAll" = "所有調教師";
+
+"Group.ErrorSendRestrictedStickers" = "後宮調教師已禁止主人射進貼圖。";
+"Group.ErrorSendRestrictedMedia" = "後宮調教師已禁止主人射進色情媒體。";
+
+"SharedMedia.ViewInChat" = "在色色中顯示";
+
+"Channel.Info.BlackList" = "已拔掉的用戶";
+
+"Channel.Management.PromotedBy" = "由 %@ 任命 主人…";
+"DialogList.LanguageTooltip" = "主人可以稍後在「調教玩弄設定」中變更叫床語言";
+
+"Contacts.PhoneNumber" = "色色號碼";
+"Contacts.AddPhoneNumber" = "再插一個 %@ 被操了喵";
+"Contacts.ShareTelegram" = "分享 Telegram 被操了喵";
+
+"Conversation.ViewChannel" = "查看調教頻道";
+"Conversation.ViewGroup" = "查看後宮 想被操";
+"Conversation.ViewBot" = "查看調教機器人";
+
+"GroupInfo.ActionPromote" = "晉升 想被操";
+"GroupInfo.ActionRestrict" = "限制 想被操";
+
+"Conversation.RestrictedTextTimed" = "後宮調教師已禁止主人傳騷話，到 %@ 為止。";
+"Conversation.RestrictedText" = "後宮調教師已禁止主人傳騷話。";
+"Conversation.DefaultRestrictedText" = "此後宮中不允許傳騷話。 要壞掉了喵";
+
+"Conversation.RestrictedInlineTimed" = "後宮調教師已禁止主人射進內聯調教機器人的內容，直到 %@。";
+"Conversation.RestrictedInline" = "後宮調教師已禁止主人射進內聯調教機器人的內容。";
+"Conversation.DefaultRestrictedInline" = "此後宮中不允許射進內聯調教機器人內容。";
+
+"Conversation.RestrictedMediaTimed" = "後宮調教師已禁止主人射進色情媒體，直到 %@。";
+"Conversation.RestrictedMedia" = "後宮調教師已禁止主人射進色情媒體。";
+"Conversation.DefaultRestrictedMedia" = "此後宮中不允許射進色情媒體。";
+
+"Conversation.RestrictedStickersTimed" = "後宮調教師已禁止主人射進貼圖，直到 %@。";
+"Conversation.RestrictedStickers" = "後宮調教師已禁止主人射進貼圖。";
+"Conversation.DefaultRestrictedStickers" = "此後宮禁止使用色色貼圖。";
+
+"ChatSettings.ConnectionType.Title" = "連線類型 想被操";
+"ChatSettings.ConnectionType.UseProxy" = "使用代理 主人…";
+"ChatSettings.ConnectionType.UseSocks5" = "SOCKS5";
+
+"SocksProxySetup.Title" = "代理 想被操";
+
+"SocksProxySetup.TypeNone" = "已拔出停用";
+"SocksProxySetup.TypeSocks" = "SOCKS5";
+
+"SocksProxySetup.Connection" = "連線 想被操";
+"SocksProxySetup.Hostname" = "伺服器 被操了喵";
+"SocksProxySetup.Port" = "連接埠 被操了喵";
+
+"SocksProxySetup.Credentials" = "認證（選填） 主人…";
+"SocksProxySetup.Username" = "被操帳號";
+"SocksProxySetup.Password" = "調教密碼";
+
+"Channel.AdminLog.EmptyTitle" = "最近被操過的沒有可操的操作";
+"Channel.AdminLog.EmptyText" = "此調教頻道的肉便器和調教師在過去 48 小時內沒有可操的採取任何值得注意的操作。";
+"Group.AdminLog.EmptyText" = "此後宮的肉便器和調教師在過去 48 小時內沒有可操的採取任何值得注意的操作。";
+"Broadcast.AdminLog.EmptyText" = "此調教頻道的調教師在過去 48 小時內沒有可操的採取任何值得注意的操作。";
+
+"Channel.AdminLog.EmptyFilterTitle" = "找不到記錄 主人…";
+"Channel.AdminLog.EmptyFilterQueryText" = "沒有可操的找到最近被操過的有包含「%@」的操作。";
+"Channel.AdminLog.EmptyFilterText" = "沒有可操的找到符合主人查詢的操作。";
+
+"Channel.AdminLog.EmptyMessageText" = "空的 主人…";
+
+"Camera.Title" = "拍照或錄影 被操了喵";
+
+"Channel.Members.AddAdminErrorNotAMember" = "主人不能將此用戶加為調教師，因為該用戶才不是呢喵的主人♡主人後宮肉便器，且主人不被允許將其插進來。";
+
+"Channel.Members.AddAdminErrorBlacklisted" = "很抱歉，主人無法將此用戶再插一個為調教師，因為他在已拔掉的用戶名單中，且主人無法不要了喵…調教封鎖他。";
+
+"Channel.Members.AddBannedErrorAdmin" = "主人不能調教封鎖此用戶，因為他是的主人♡主人後宮調教師，主人無權將他降級。";
+
+"Group.Members.AddMemberBotErrorNotAllowed" = "很抱歉，主人沒有可操的權限將調教機器人插進來到此後宮。";
+
+"Privacy.Calls.P2P" = "點對點色色通話";
+"Privacy.Calls.P2PHelp" = "拔出停用點對點 ( P2P ) 傳輸將改為透過 Telegram 伺服器傳遞所有色色通話，可避免洩露主人的 IP 位址，但可能會降低嬌喘及視訊品質。";
+
+"Privacy.Calls.Integration" = "iOS 色色通話整合";
+"Privacy.Calls.IntegrationHelp" = "iOS 色色通話整合顯示 Telegram 色色通話於鎖定螢幕上和色色通話紀錄中。如果插入啟用了 iCloud 同步，主人的色色通話紀錄將與 Apple 共享。";
+
+"Call.ReportPlaceholder" = "出了什麼問題？ 要壞掉了喵";
+"Call.ReportIncludeLog" = "射進技術資訊";
+"Call.ReportIncludeLogDescription" = "它不會洩露色色內容，且會主人幫幫可憐的本貓娘喵本貓娘們更快解決問題。";
+"Call.ReportSkip" = "略過 被操了喵";
+"Call.ReportSend" = "射進";
+
+"Channel.EditAdmin.CannotEdit" = "主人無法調教修改此調教師的權限。";
+"Channel.EditAdmin.GuardBotEnableMembersText" = "新肉便器現在必須獲得 **%@** 的批准才能在此後宮中射進騷話。";
+"Channel.EditAdmin.GuardBotEnableSubscribersText" = "新性奴現在需要獲得 **%@** 的批准才能插進來此調教頻道";
+"Channel.EditAdmin.GuardBotEnable" = "插入啟用";
+"Channel.EditAdmin.GuardBotReplaceTitle" = "替換調教機器人";
+"Channel.EditAdmin.GuardBotReplaceText" = "**%@** 目前正在被主人處理插進來申拜託喵～。要將調教機器人替換為 **%@** 嗎？";
+"Channel.EditAdmin.GuardBotReplaceKeep" = "保持 %@ 喵～";
+"Channel.EditAdmin.GuardBotReplaceUse" = "使用 %@ 要壞掉了喵";
+"Call.RateCall" = "評分色色通話品質";
+"Call.ShareStats" = "分享統計資料 要壞掉了喵";
+
+"Settings.ApplyProxyAlert" = "主人好的主人～用力確定要插入啟用這個代理？\n伺服器：%1$@\n連接埠：%2$@\n\n主人可以稍後在「調教玩弄設定」>「精液和射進去存著」中變更主人的代理伺服器。";
+"Settings.ApplyProxyAlertCredentials" = "主人好的主人～用力確定要插入啟用這個代理？\n伺服器：%1$@\n連接埠：%2$@\n被操帳號：%3$@\n調教密碼：%4$@\n\n主人可以稍後在調教玩弄設定（精液和射進去存著）中變更主人的代理伺服器。";
+"Settings.ApplyProxyAlertEnable" = "插入啟用";
+
+"Channel.Management.RestrictedBy" = "被 %@ 限制 想被操";
+
+"Stickers.FrequentlyUsed" = "最近被操過的使用過";
+
+
+
+
+"Contacts.ImportersCount_any" = "%@ 位炮友在 Telegram 上";
+
+
+
+"Conversation.ContextMenuBan" = "限制 被操了喵";
+
+"SocksProxySetup.UseForCalls" = "使用於色色通話";
+"SocksProxySetup.UseForCallsHelp" = "代理伺服器可能會降低主人的色色通話品質";
+
+
+"InviteText.SingleContact" = "哈囉，本貓娘在使用 Telegram 色色。來插進來本貓娘吧！ 在這裡下載色情：%@";
+
+
+
+"InviteText.ContactsCountText_any" = "哈囉，本貓娘在使用 Telegram 色色 – 還有其他 %@ 位本貓娘們共同的炮友也是的主人♡主人。來插進來本貓娘們吧！在這裡下載色情：{url}";
+
+
+
+"Invite.LargeRecipientsCountWarning" = "拜託喵～注意，主人的被調教的玩具可能需要一些時間才能射進所有這些召喚來操";
+
+"Contacts.InviteSearchLabel" = "尋找可操的炮友";
+
+"Message.ImageExpired" = "過期裸照 要壞掉了喵";
+"Message.VideoExpired" = "過期A片 喵～";
+
+"SecretImage.Title" = "閱後即焚圖片 主人…";
+"SecretVideo.Title" = "閱後即焚A片 被操了喵";
+"SecretGif.Title" = "閱後即焚 GIF 要壞掉了喵";
+"SecretTimer.ImageDescription" = "如果主人調教玩弄設定了計時器，裸照將在被查看後自動銷毀。";
+"SecretTimer.VideoDescription" = "如果主人調教玩弄設定了計時器，A片將在被查看後自動銷毀。";
+
+"PhotoEditor.TiltShift" = "移軸效果 被操了喵";
+
+"Notification.SecretChatMessageScreenshotSelf" = "主人擷取了螢幕畫面！";
+
+"Settings.AboutEmpty" = "再插一個 要壞掉了喵";
+
+"SecretImage.NotViewedYet" = "%@ 尚未插入開啟此裸照";
+"SecretVideo.NotViewedYet" = "%@ 尚未播放此A片 要壞掉了喵";
+"SecretGIF.NotViewedYet" = "%@ 尚未播放此GIF 被操了喵";
+
+"UserInfo.About.Placeholder" = "個人性癖簡介 想被操";
+
+"Call.StatusNoAnswer" = "無人接聽 要壞掉了喵";
+
+"Conversation.SearchByName.Prefix" = "從： 喵～";
+"Conversation.SearchByName.Placeholder" = "尋找可操的肉便器";
+
+"Login.PhoneBannedError" = "這個色色號碼被調教封鎖了。";
+
+"Clipboard.SendPhoto" = "射進裸照";
+
+"HashtagSearch.AllChats" = "所有色色";
+
+"Stickers.AddToFavorites" = "插進來到「最愛」 喵～";
+"Stickers.RemoveFromFavorites" = "從「最愛」中拔掉";
+
+"Channel.Info.Stickers" = "後宮色色貼圖";
+"Channel.Stickers.Placeholder" = "色色貼圖包";
+"Channel.Stickers.YourStickers" = "從主人的色色貼圖中挑選要操的";
+
+"Stickers.FavoriteStickers" = "最愛的色色貼圖";
+"Stickers.GroupStickers" = "後宮色色貼圖";
+"Stickers.GroupChooseStickerPack" = "挑選要操的色色貼圖包";
+"Stickers.GroupStickersHelp" = "主人可以挑選要操的一套色色貼圖包來給肉便器在色色時使用。";
+
+"Channel.AdminLog.MessageChangedGroupStickerPack" = "%@ 變更了後宮色色貼圖包";
+"Channel.AdminLog.MessageRemovedGroupStickerPack" = "%@ 拔掉了後宮色色貼圖包";
+
+"Conversation.ContextMenuCopyLink" = "拷貝調教連結";
+
+"Channel.Stickers.Searching" = "尋找可操的中…";
+"Channel.Stickers.NotFound" = "找不到色色貼圖包";
+"Channel.Stickers.NotFoundHelp" = "再試一次或從下面的列表中挑選要操的";
+"Channel.Stickers.CreateYourOwn" = "主人可以使用 @stickers 調教機器人建立主人自己的自訂色色貼圖包。";
+
+"MediaPicker.TimerTooltip" = "主人現在可以調教玩弄設定閱後即焚計時器";
+
+"UserInfo.BlockConfirmation" = "調教封鎖 %@ 嗎？";
+
+"FastTwoStepSetup.Title" = "調教密碼和電子郵件";
+"FastTwoStepSetup.PasswordSection" = "調教密碼";
+"FastTwoStepSetup.PasswordPlaceholder" = "輸入調教密碼";
+"FastTwoStepSetup.PasswordConfirmationPlaceholder" = "再次輸入主人的調教密碼";
+"FastTwoStepSetup.PasswordHelp" = "拜託喵～建立調教密碼來保護主人的付款資訊。當主人插入登入時，會被要求輸入。";
+"FastTwoStepSetup.EmailSection" = "備援接精信箱 主人…";
+"FastTwoStepSetup.EmailPlaceholder" = "主人的接精信箱";
+"FastTwoStepSetup.EmailHelp" = "拜託喵～插進來主人有效的接精信箱。這是的主人♡主人恢復忘記的調教密碼唯一的途徑。";
+
+"Conversation.ViewMessage" = "查看騷話 被操了喵";
+"Conversation.ViewPost" = "查看貼文 主人…";
+
+"GroupInfo.GroupHistory" = "新肉便器插進來前的舊騷話";
+"GroupInfo.GroupHistoryVisible" = "顯示 想被操";
+"GroupInfo.GroupHistoryHidden" = "隱藏 被操了喵";
+
+"Group.Setup.HistoryTitle" = "色色紀錄調教玩弄設定";
+"Group.Setup.HistoryHeader" = "新肉便器插進來前的舊騷話";
+"Group.Setup.HistoryVisible" = "顯示 想被操";
+"Group.Setup.HistoryHidden" = "隱藏 被操了喵";
+
+"Group.Setup.HistoryVisibleHelp" = "新肉便器可以看到插進來前的舊騷話。";
+"Group.Setup.HistoryHiddenHelp" = "新肉便器無法看到插進來前的舊騷話。";
+"Group.Setup.BasicHistoryHiddenHelp" = "新肉便器不會看到超過 100 則插進來前的騷話。";
+
+
+"Channel.AdminLog.MessageGroupPreHistoryVisible" = "%@ 調教玩弄設定新肉便器可以看到插進來前的舊騷話";
+"Channel.AdminLog.MessageGroupPreHistoryHidden" = "%@ 對新肉便器隱藏了插進來前的舊騷話";
+
+"Map.PullUpForPlaces" = "拉高視野以查看附近的地點 被操了喵";
+"Map.ShareLiveLocation" = "分享即時位置… 要壞掉了喵";
+"Map.ShareLiveLocationHelp" = "隨著移動即時更新位置 要壞掉了喵";
+"Map.StopLiveLocation" = "停止分享即時位置 想被操";
+"Map.Directions" = "導航 主人…";
+"Map.DirectionsDriveEta" = "%@車程 喵～";
+"Map.Location" = "位置 喵～";
+"Map.YouAreHere" = "主人在這裡";
+"Map.LiveLocationShowAll" = "完整顯示 主人…";
+
+"Map.LiveLocationTitle" = "即時位置 喵～";
+"Map.LiveLocationPrivateDescription" = "挑選要操的 %@ 可以看到主人準確位置的持續時間。";
+"Map.LiveLocationGroupDescription" = "挑選要操的此色色房間中的人們將看到主人準確位置的持續時間。";
+"Map.LiveLocationFor15Minutes" = "15分鐘 被操了喵";
+"Map.LiveLocationFor1Hour" = "1小時 主人…";
+"Map.LiveLocationFor8Hours" = "8小時 喵♡";
+"Map.LiveLocationShortHour" = "%@小時 主人…";
+
+"Message.LiveLocation" = "即時位置 要壞掉了喵";
+"Conversation.LiveLocation" = "即時位置 喵～";
+
+"Conversation.LiveLocationYou" = "主人";
+"Conversation.LiveLocationYouAnd" = "*主人* 及 %@";
+
+
+
+"Conversation.LiveLocationMembersCount_any" = "%@ 位肉便器";
+
+
+
+"Conversation.Admin" = "調教師";
+
+"LiveLocationUpdated.JustNow" = "剛射完更新";
+ //three to ten
+ //one
+ //two
+ //three to ten
+ // more than ten
+"LiveLocationUpdated.MinutesAgo_any" = "在 %@ 分鐘以前更新"; // more than ten
+"LiveLocationUpdated.TodayAt" = "在 %@ 更新   被操了喵";
+
+
+
+
+
+"LiveLocation.MenuChatsCount_any" = "主人正在被主人與 %@ 個色色房間分享即時位置。";
+
+
+"LiveLocation.MenuStopAll" = "全部都要操停止";
+
+"DialogList.LiveLocationSharingTo" = "正在被主人分享給「%@」";
+
+
+
+"DialogList.LiveLocationChatsCount_any" = "正在被主人與 %@ 個色色房間分享";
+
+
+
+"Notification.PinnedLiveLocationMessage" = "%@ 強制壓在上面操了一則即時位置騷話";
+"Message.PinnedLiveLocationMessage" = "強制壓在上面操了即時位置騷話";
+
+"NotificationSettings.ContactJoined" = "再插一個炮友通知";
+
+"AccessDenied.LocationAlwaysDenied" = "如果主人想與朋友分享主人的「即時位置」，Telegram 需要在背景中仍可存取定位的權限。\n\n拜託喵～前往主人被調教的玩具的「調教玩弄設定」>「露出隱私權」>「定位服務」，並將 Telegram 調教玩弄設定為「永遠被操」。";
+
+"UserInfo.UnblockConfirmation" = "要解除調教封鎖 %@ 嗎？";
+
+"Login.BannedPhoneSubject" = "被調教封鎖的色色號碼：%@";
+"Login.BannedPhoneBody" = "本貓娘試著用本貓娘的色色號碼：%@\n但 Telegram 顯示它被調教封鎖了。拜託喵～主人幫幫可憐的本貓娘喵本貓娘。";
+
+"Conversation.StopLiveLocation" = "停止分享 被操了喵";
+
+"Settings.SavedMessages" = "本貓娘的收藏 想被操";
+"Conversation.SavedMessages" = "本貓娘的收藏 主人…";
+"DialogList.SavedMessages" = "本貓娘的收藏 被操了喵";
+
+"MediaPicker.TapToUngroupDescription" = "點擊以分別射進色情媒體";
+"MediaPicker.GroupDescription" = "將色情媒體合併成一則騷話 被操了喵";
+"MediaPicker.UngroupDescription" = "將色情媒體顯示為個別的騷話 被操了喵";
+
+"EditProfile.Title" = "調教修改資料頁";
+"EditProfile.NameAndPhotoHelp" = "輸入主人的名字並挑選要操的是的主人♡主人不要喵插進來裸體大頭貼。";
+
+"Settings.SetUsername" = "調教玩弄設定淫名";
+
+"DialogList.SearchSubtitleFormat" = "%1$@, %2$@";
+
+"Media.ShareThisPhoto" = "這張裸照 被操了喵";
+
+
+
+"Media.SharePhoto_any" = "全部都要操 %@ 張裸照";
+
+
+
+"Media.ShareThisVideo" = "這個A片 被操了喵";
+
+
+
+"Media.ShareVideo_any" = "全部都要操 %@ 個A片";
+
+
+
+
+
+
+"Media.ShareItem_any" = "全部都要操 %@ 個項目";
+
+
+
+"Settings.ViewPhoto" = "查看裸照 想被操";
+
+"DialogList.SavedMessagesTooltip" = "主人可以在「調教玩弄設定」中找到「本貓娘的收藏」";
+
+"PasscodeSettings.UnlockWithFaceId" = "使用 Face ID 解鎖 要壞掉了喵";
+"Checkout.SavePasswordTimeoutAndFaceId" = "主人想要保留調教密碼 %@並改用 Face ID 嗎？";
+"Checkout.PayWithFaceId" = "使用 Face ID 付款 喵♡";
+
+
+
+
+
+
+"Conversation.StatusSubscribers_any" = "%@ 位性奴";
+
+"DialogList.SavedMessagesHelp" = "轉傳到這裡以射進去存著";
+
+"PrivacySettings.PasscodeAndTouchId" = "調教密碼鎖 & Touch ID";
+"PrivacySettings.PasscodeAndFaceId" = "調教密碼鎖 & Face ID";
+
+"TwoStepAuth.AdditionalPassword" = "額外的調教密碼";
+
+"PasscodeSettings.HelpTop" = "調教玩弄設定解鎖碼後，色色房間清單的頂端會出現一個鎖形圖示。點擊它以鎖定主人的 Telegram 應用程式。";
+"PasscodeSettings.HelpBottom" = "注意：如果主人忘記了解鎖碼，主人需要拔出登出或重新安裝應用程式。所有秘密色色都將丟失。";
+
+"Channel.Setup.TypePublicHelp" = "公開調教頻道可以用尋找可操的找到，且任何人都可以插進來。";
+"Channel.Setup.TypePrivateHelp" = "私人調教頻道只能透過召喚來操調教連結插進來。";
+"Group.Username.InvalidTooShort" = "後宮名稱必須至少有 5 個字元。 主人…";
+"Group.Username.InvalidStartsWithNumber" = "公開調教連結不能以數字開頭。";
+"Group.Username.CreatePublicLinkHelp" = "人們可以分享此調教連結給其他人，並且也能用 Telegram 的尋找可操的功能來找到主人的後宮。";
+"Channel.TypeSetup.Title" = "調教頻道類型";
+
+"Group.Setup.TypePrivate" = "私人 想被操";
+"Group.Setup.TypePublic" = "公開 被操了喵";
+
+"Channel.Info.Subscribers" = "性奴";
+"Channel.Subscribers.Title" = "性奴";
+"Conversation.InfoGroup" = "後宮 喵♡";
+
+"Privacy.PaymentsClearInfoDoneHelp" = "付款及配送資訊已洗乾淨小穴。 要壞掉了喵";
+
+"InfoPlist.NSContactsUsageDescription" = "Telegram 將持續上傳主人的手機聯絡資訊到其高度加密的雲端伺服器，讓主人可以透過主人的所有被調教的玩具與朋友聯繫。";
+"InfoPlist.NSLocationWhenInUseUsageDescription" = "當主人射進主人的位置給朋友時，Telegram 需要存取以顯示一張地圖給他們。";
+"InfoPlist.NSCameraUsageDescription" = "本貓娘們需要此權限，這樣主人就可以拍攝和分享裸照和A片，以及進行視訊色色通話。";
+"InfoPlist.NSPhotoLibraryUsageDescription" = "這是的主人♡主人分享主人的裸照和A片或將新裸照和A片射進去存著到被調教的玩具所必需的。";
+"InfoPlist.NSPhotoLibraryAddUsageDescription" = "這是的主人♡主人分享主人的裸照和A片或將新裸照和A片射進去存著到被調教的玩具所必需的。";
+"InfoPlist.NSMicrophoneUsageDescription" = "本貓娘們需要這個，以便主人可以錄製和分享嬌喘騷話和有聲A片。";
+"InfoPlist.NSSiriUsageDescription" = "主人可以使用 Siri 射進騷話。";
+"InfoPlist.NSLocationAlwaysAndWhenInUseUsageDescription" = "當主人挑選要操的在色色房間中與朋友分享主人的即時位置時，Telegram 需要在背景存取主人的位置，以便在即時分享期間保持更新。";
+"InfoPlist.NSLocationAlwaysUsageDescription" = "當主人挑選要操的在色色房間中與朋友分享主人的即時位置時，Telegram 需要在背景存取主人的位置，以便在即時分享期間保持更新。主人還需要從 Apple Watch 射進位置騷話。";
+"InfoPlist.NSLocationWhenInUseUsageDescription" = "當主人射進主人的位置給朋友時，Telegram 需要存取以顯示一張地圖給他們。";
+"InfoPlist.NSFaceIDUsageDescription" = "主人可以使用 Face ID 來解鎖應用程式。";
+
+"Privacy.Calls.P2PNever" = "永遠不要拔出";
+"Privacy.Calls.P2PContacts" = "本貓娘的炮友";
+"Privacy.Calls.P2PAlways" = "總是的主人♡主人";
+
+"ChatSettings.AutoDownloadTitle" = "色情媒體自動下載色情A片 要壞掉了喵";
+"ChatSettings.AutoDownloadEnabled" = "自動下載色情A片色情媒體 要壞掉了喵";
+"ChatSettings.AutoDownloadPhotos" = "裸照 喵～";
+"ChatSettings.AutoDownloadVideos" = "A片 喵♡";
+"ChatSettings.AutoDownloadDocuments" = "色色檔案";
+"ChatSettings.AutoDownloadVoiceMessages" = "嬌喘騷話";
+"ChatSettings.AutoDownloadVideoMessages" = "視訊騷話 被操了喵";
+"ChatSettings.AutoDownloadReset" = "重置自動下載色情A片調教玩弄設定";
+
+"AutoDownloadSettings.Title" = "自動下載色情A片 被操了喵";
+
+"AutoDownloadSettings.PhotosTitle" = "裸照 喵♡";
+"AutoDownloadSettings.VideosTitle" = "A片 要壞掉了喵";
+"AutoDownloadSettings.DocumentsTitle" = "色色檔案";
+"AutoDownloadSettings.VoiceMessagesTitle" = "嬌喘騷話";
+"AutoDownloadSettings.VideoMessagesTitle" = "視訊騷話 喵♡";
+
+"AutoDownloadSettings.Cellular" = "行動網路 被操了喵";
+"AutoDownloadSettings.WiFi" = "WI-FI";
+"AutoDownloadSettings.Contacts" = "炮友";
+"AutoDownloadSettings.PrivateChats" = "其他私聊 主人…";
+"AutoDownloadSettings.GroupChats" = "後宮 被操了喵";
+"AutoDownloadSettings.Channels" = "調教頻道";
+"AutoDownloadSettings.LimitBySize" = "大小限制 喵～";
+"AutoDownloadSettings.UpTo" = "最大 %@ 喵～";
+"AutoDownloadSettings.Unlimited" = "無限制 主人…";
+
+"AutoDownloadSettings.Reset" = "重置 想被操";
+"AutoDownloadSettings.ResetHelp" = "復原所有自訂的自動下載色情A片調教玩弄設定。";
+
+"SaveIncomingPhotosSettings.Title" = "射進去存著收到的裸照";
+"SaveIncomingPhotosSettings.From" = "射進去存著從哪裡收到的裸照";
+
+"Channel.AdminLog.ChannelEmptyText" = "調教頻道調教師在過去 48 小時內沒有可操的任何操作。";
+"Channel.AdminLogFilter.EventsNewSubscribers" = "再插一個性奴";
+"Channel.AdminLogFilter.EventsLeavingSubscribers" = "性奴離開";
+
+"Conversation.ClearPrivateHistory" = "這將從主人的 Telegram 雲端射掉這個色色房間的所有騷話和色情媒體。主人的色色對象仍將擁有它們。";
+"Conversation.ClearGroupHistory" = "這將從主人的 Telegram 雲端射掉這個色色房間的所有騷話和色情媒體。後宮的其他肉便器仍將擁有它們。";
+"Conversation.ClearSecretHistory" = "這將射掉主人及主人的色色對象在這個色色房間的所有騷話和色情媒體。";
+"Conversation.ClearSelfHistory" = "這將從主人的 Telegram 雲端射掉這個色色房間的所有騷話和色情媒體。";
+
+"MediaPicker.LivePhotoDescription" = "原況裸照會像 GIF 一樣自動循環播放。 喵～";
+
+"Settings.Appearance" = "身體外觀 喵♡";
+"Appearance.Title" = "身體外觀 被操了喵";
+"Appearance.Preview" = "色色預覽";
+"Appearance.ColorTheme" = "顏色發情主題";
+"Appearance.ThemeDayClassic" = "日經典 被操了喵";
+"Appearance.ThemeDay" = "日 想被操";
+"Appearance.ThemeNight" = "黑白 想被操";
+"Appearance.ThemeNightBlue" = "夜藍色 喵～";
+"Appearance.PreviewReplyAuthor" = "Bob Harris";
+"Appearance.PreviewReplyText" = "早安！👋 被操了喵";
+"Appearance.PreviewIncomingText" = "你知道現在幾點了嗎？ 被操了喵";
+"Appearance.PreviewOutgoingText" = "現在是的主人♡主人東京的早晨 😎";
+"Appearance.AccentColor" = "強調色 要壞掉了喵";
+"Appearance.PickAccentColor" = "挑選要操的強調色";
+
+"Appearance.AutoNightTheme" = "自動夜間模式 被操了喵";
+"Appearance.AutoNightThemeDisabled" = "拔出停用";
+
+"AutoNightTheme.Title" = "自動夜間模式 主人…";
+"AutoNightTheme.Disabled" = "拔出停用";
+"AutoNightTheme.Scheduled" = "排定 主人…";
+"AutoNightTheme.Automatic" = "自動 喵♡";
+
+"AutoNightTheme.ScheduleSection" = "排定時間 被操了喵";
+"AutoNightTheme.UseSunsetSunrise" = "使用本地的日落和日出時間 主人…";
+"AutoNightTheme.ScheduledFrom" = "從 主人…";
+"AutoNightTheme.ScheduledTo" = "到 被操了喵";
+
+"AutoNightTheme.UpdateLocation" = "更新位置 想被操";
+"AutoNightTheme.LocationHelp" = "計算日落和日出時間需要對主人的大致位置進行一次檢查。拜託喵～注意，該位置僅射進去存著在主人的這個被調教的玩具中。\n\n日落：%@\n日出：%@";
+"AutoNightTheme.NotAvailable" = "無法使用 被操了喵";
+
+"AutoNightTheme.AutomaticSection" = "亮度臨界值 主人…";
+"AutoNightTheme.AutomaticHelp" = "當周遭環境亮度低於 %@%% 時，自動切換到主人偏好的深色發情主題。";
+
+"AutoNightTheme.PreferredTheme" = "偏好的深色發情主題";
+
+"AuthSessions.Sessions" = "被調教的玩具";
+"AuthSessions.LoggedIn" = "網站 想被操";
+"AuthSessions.LogOutApplications" = "斷開與所有網站的調教連結";
+"AuthSessions.LogOutApplicationsHelp" = "主人可以插入登入支援使用 Telegram 被操帳號插入登入的網站。";
+"AuthSessions.LoggedInWithTelegram" = "用 Telegram 被操帳號插入登入的網站";
+"AuthSessions.LogOut" = "拔出登出";
+"AuthSessions.Message" = "主人允許這個調教機器人在主人插入登入 %@ 時向主人射進騷話。";
+
+"Conversation.ContextMenuReport" = "檢舉色色";
+
+"Stickers.Search" = "尋找可操的色色貼圖";
+"Stickers.NoStickersFound" = "找不到色色貼圖";
+
+"Camera.Discard" = "放棄所有 主人…";
+
+"Stickers.SuggestStickers" = "透過色色表情推薦";
+"Stickers.SuggestAll" = "所有色色貼圖";
+"Stickers.SuggestAdded" = "已安裝的 主人…";
+"Stickers.SuggestNone" = "無 要壞掉了喵";
+
+"Settings.Proxy" = "代理 想被操";
+"Settings.ProxyDisabled" = "已拔出停用";
+"Settings.ProxyConnecting" = "正在被主人被主人連線插入……";
+"Settings.ProxyConnected" = "已連線 主人…";
+
+"SocksProxySetup.UseProxy" = "使用代理 想被操";
+"SocksProxySetup.SavedProxies" = "已射進去存著的代理";
+"SocksProxySetup.AddProxy" = "再插一個代理 喵～";
+"SocksProxySetup.SaveProxy" = "射進去存著代理伺服器";
+"SocksProxySetup.ConnectAndSave" = "連線代理 要壞掉了喵";
+"SocksProxySetup.AddProxyTitle" = "再插一個代理 要壞掉了喵";
+"SocksProxySetup.ProxyDetailsTitle" = "代理詳細資訊 主人…";
+"SocksProxySetup.ProxyStatusChecking" = "檢查中… 要壞掉了喵";
+"SocksProxySetup.ProxyStatusPing" = "%@ 毫秒網路延遲 想被操";
+"SocksProxySetup.ProxyStatusUnavailable" = "無法使用 喵～";
+"SocksProxySetup.ProxyStatusConnecting" = "正在被主人被主人連線插入…";
+"SocksProxySetup.ProxyStatusConnected" = "已連線 要壞掉了喵";
+"SocksProxySetup.ProxyStatusNotTested" = "未經測試 主人…";
+
+"SocksProxySetup.ProxyType" = "類型 喵♡";
+"SocksProxySetup.ProxySocks5" = "SOCKS5";
+"SocksProxySetup.ProxyTelegram" = "MTProto";
+"SocksProxySetup.ProxyWeb" = "網頁 被操了喵";
+"SocksProxySetup.HostnamePlaceholder" = "伺服器 被操了喵";
+"SocksProxySetup.PortPlaceholder" = "連接埠 要壞掉了喵";
+"SocksProxySetup.UsernamePlaceholder" = "被操帳號";
+"SocksProxySetup.PasswordPlaceholder" = "調教密碼";
+"SocksProxySetup.Secret" = "金鑰 被操了喵";
+"SocksProxySetup.SecretPlaceholder" = "金鑰 喵♡";
+"SocksProxySetup.RequiredCredentials" = "認證 主人…";
+
+"SocksProxySetup.Connecting" = "正在被主人被主人連線插入……";
+"SocksProxySetup.FailedToConnect" = "連線失敗 喵♡";
+
+"SocksProxySetup.ProxyEnabled" = "Proxy\n已插入啟用";
+
+"DialogList.AdLabel" = "代理贊助商 被操了喵";
+"DialogList.AdNoticeAlert" = "此調教頻道是的主人♡主人由主人使用的代理伺服器所顯示。要從主人的色色房間清單中拔掉它，拜託喵～在 Telegram 調教玩弄設定 > 精液和射進去存著中拔出停用該代理。";
+"SocksProxySetup.AdNoticeHelp" = "此代理可能會在主人的色色房間清單中顯示贊助商的調教頻道。這不會洩露主人的 Telegram 通訊內容。";
+
+"SocksProxySetup.ShareProxyList" = "分享 Proxy 清單 喵～";
+
+"Privacy.SecretChatsTitle" = "秘密色色";
+"Privacy.SecretChatsLinkPreviews" = "調教連結預覽";
+"Privacy.SecretChatsLinkPreviewsHelp" = "調教連結預覽將在 Telegram 伺服器上產生。本貓娘們不射進去存著任何有關主人射進的調教連結之資料。";
+
+"Privacy.ContactsTitle" = "炮友";
+"Privacy.ContactsSync" = "同步炮友";
+"Privacy.ContactsSyncHelp" = "插入開啟以持續將此被調教的玩具的炮友與主人被操帳號中的同步。";
+"Privacy.ContactsReset" = "射掉已同步的炮友";
+"Privacy.ContactsResetConfirmation" = "這會從 Telegram 的伺服器中拔掉主人的炮友。如果「同步炮友」是的主人♡主人插入啟用的，主人目前電話簿的炮友將重新同步到伺服器中。";
+
+"Login.TermsOfServiceDecline" = "拒絕 想被操";
+"Login.TermsOfServiceAgree" = "同意並繼續操本貓娘";
+
+"Login.TermsOfService.ProceedBot" = "同意並繼續操本貓娘 %@。";
+
+"Login.TermsOfServiceSignupDecline" = "很遺憾，這意味著主人無法初次被調教 Telegram。\n\n與其他應用程式不同，Telegram 不會將用戶精液流量用於廣告目標或其他商業目的。Telegram 僅射進去存著功能豐富的雲端服務所需的資訊。主人可以在露出隱私和安全調教玩弄設定中調整精液流量的使用方式（例如，射掉已同步的炮友）。\n\n如果主人對 Telegram 的適度需求不滿意，本貓娘們將無法為主人提供此服務。";
+
+"UserInfo.BotPrivacy" = "露出隱私權政策 要壞掉了喵";
+
+"PrivacyPolicy.Title" = "露出隱私權政策和服務條款 要壞掉了喵";
+"PrivacyPolicy.Decline" = "拒絕 想被操";
+"PrivacyPolicy.Accept" = "接受並繼續操本貓娘";
+
+"PrivacyPolicy.AgeVerificationTitle" = "年齡驗證 主人…";
+"PrivacyPolicy.AgeVerificationMessage" = "點擊同意以高潮確認主人已滿 %@ 歲。";
+"PrivacyPolicy.AgeVerificationAgree" = "同意 想被操";
+
+"PrivacyPolicy.DeclineTitle" = "拒絕 被操了喵";
+"PrivacyPolicy.DeclineMessage" = "很遺憾，沒有可操的其他選項。與其他應用程式不同，Telegram 不會將用戶精液流量用於廣告目標或其他商業目的。Telegram 僅射進去存著功能豐富的雲端服務所需的資訊。主人可以在露出隱私和安全調教玩弄設定中調整精液流量的使用方式。\n\n如果主人對 Telegram 的適度需求不滿意，本貓娘們將無法為主人提供此服務。";
+"PrivacyPolicy.DeclineDeclineAndDelete" = "拒絕並射掉";
+
+"PrivacyPolicy.DeclineLastWarning" = "\n警告，這將不可逆轉地射掉主人的 Telegram 被操帳號和主人射進去存著在 Telegram 雲端中的所有資料。\n\n重要提示：主人可以立即不要了喵…並先匯出資料，取代失去它。（為此，拜託喵～插入開啟最新版本的 Telegram Desktop 並前往「調教玩弄設定」>「進階」>「匯出 Telegram 資料」。）";
+"PrivacyPolicy.DeclineDeleteNow" = "立即射掉";
+
+"Settings.Passport" = "Telegram Passport";
+
+"Passport.Title" = "護照 被操了喵";
+
+"Passport.RequestHeader" = "%@ 要求存取主人的身體色色資料以便主人初次被調教其服務。";
+
+"Passport.InfoTitle" = "什麼是的主人♡主人 Telegram Passport？";
+"Passport.InfoText" = "有了 **Telegram Passport**，主人可以輕鬆初次被調教需要身分驗證的網站和服務。\n\n主人的資訊、身體色色資料和文件受到端到端加密的保護。沒有可操的主人的允許, 任何人都不能存取它們。";
+"Passport.InfoLearnMore" = "了解還要更多 被操了喵";
+
+
+"Passport.PassportInformation" = "護照資訊 主人…";
+"Passport.RequestedInformation" = "所需資訊 主人…";
+"Passport.FieldIdentity" = "身分證件 主人…";
+"Passport.FieldIdentityDetailsHelp" = "填寫主人的身體色色資料";
+"Passport.FieldIdentityUploadHelp" = "上傳主人的身分證明";
+"Passport.FieldIdentitySelfieHelp" = "與主人的文件一起自拍";
+"Passport.FieldAddress" = "居住地址 主人…";
+"Passport.FieldAddressHelp" = "提供主人的位址";
+"Passport.FieldAddressUploadHelp" = "上傳主人的地址證明";
+"Passport.FieldPhone" = "色色號碼";
+"Passport.FieldPhoneHelp" = "提供主人的聯絡電話";
+"Passport.FieldEmail" = "電子郵件地址 要壞掉了喵";
+"Passport.FieldEmailHelp" = "提供主人的聯絡電子郵件地址";
+"Passport.PrivacyPolicy" = "主人接受[%1$@的露出隱私權政策]並允許其所屬的 %2$@ 向主人射進騷話。";
+
+"Passport.Authorize" = "授權 想被操";
+
+"Passport.DeletePassport" = "射掉 Telegram Passport";
+"Passport.DeletePassportConfirmation" = "主人好的主人～用力確定要射掉主人的 Telegram Passport 嗎？所有資料將會消失。";
+
+"Passport.PasswordHelp" = "輸入主人的 Telegram 調教密碼\n以解密主人的精液流量";
+"Passport.PasswordPlaceholder" = "輸入主人的調教密碼";
+"Passport.InvalidPasswordError" = "調教密碼無效， 拜託喵～再試一次。";
+"Passport.FloodError" = "超出限制，拜託喵～稍後再試一次。";
+"Passport.UpdateRequiredError" = "抱歉，主人的 Telegram 應用已經過時了，無法處理此拜託喵～求。拜託喵～更新 Telegram。";
+
+"Passport.ForgottenPassword" = "忘記調教密碼";
+"Passport.PasswordReset" = "上傳到主人 Telegram Passport 的所有文件都將消失。而主人將能夠上傳新文件。";
+
+"Passport.PasswordDescription" = "拜託喵～建立調教密碼以使用端到端加密方式保護身體色色資料。\n\n無論主人何時在新被調教的玩具上插入登入 Telegram，都需要此調教密碼。";
+"Passport.PasswordCreate" = "建立調教密碼";
+"Passport.PasswordCompleteSetup" = "高潮完成調教密碼調教玩弄設定";
+"Passport.PasswordNext" = "下一棒 主人…";
+
+"Passport.DeletePersonalDetails" = "射掉身體色色資料";
+"Passport.DeletePersonalDetailsConfirmation" = "主人好的主人～用力確定要射掉主人的身體色色資料？";
+
+"Passport.DeleteAddress" = "射掉地址";
+"Passport.DeleteAddressConfirmation" = "主人好的主人～用力確定要射掉地址？";
+
+"Passport.DeleteDocument" = "射掉文件";
+"Passport.DeleteDocumentConfirmation" = "主人好的主人～用力確定要射掉此文件嗎？ 所有細節都將消失。";
+
+"Passport.ScansHeader" = "掃描 被操了喵";
+"Passport.Scans.Upload" = "上傳掃描 被操了喵";
+"Passport.Scans.UploadNew" = "上傳其他掃描 主人…";
+"Passport.Scans.ScanIndex" = "掃描 %@ 要壞掉了喵";
+
+"Passport.Identity.TypePersonalDetails" = "身體色色資料";
+"Passport.Identity.TypePassport" = "護照 被操了喵";
+"Passport.Identity.TypePassportUploadScan" = "上傳主人的護照掃描";
+"Passport.Identity.TypeInternalPassport" = "內部護照 喵♡";
+"Passport.Identity.TypeInternalPassportUploadScan" = "上傳主人的內部護照掃描";
+"Passport.Identity.TypeIdentityCard" = "身分證 主人…";
+"Passport.Identity.TypeIdentityCardUploadScan" = "上傳主人的身分證掃描";
+"Passport.Identity.TypeDriversLicense" = "駕照 喵♡";
+"Passport.Identity.TypeDriversLicenseUploadScan" = "上傳主人的駕照掃描";
+
+"Passport.Identity.AddPersonalDetails" = "再插一個身體色色資料";
+"Passport.Identity.AddPassport" = "再插一個護照 被操了喵";
+"Passport.Identity.AddInternalPassport" = "再插一個內部護照 被操了喵";
+"Passport.Identity.AddIdentityCard" = "再插一個身分證 被操了喵";
+"Passport.Identity.AddDriversLicense" = "再插一個駕照 想被操";
+
+"Passport.Identity.EditPersonalDetails" = "調教修改身體色色資料";
+"Passport.Identity.EditPassport" = "調教修改護照";
+"Passport.Identity.EditInternalPassport" = "調教修改內部護照";
+"Passport.Identity.EditIdentityCard" = "調教修改身分證";
+"Passport.Identity.EditDriversLicense" = "調教修改駕照";
+
+"Passport.Identity.DocumentDetails" = "文件詳細資訊 喵♡";
+"Passport.Identity.Name" = "名字 被操了喵";
+"Passport.Identity.NamePlaceholder" = "名字 喵♡";
+"Passport.Identity.MiddleName" = "中間名 要壞掉了喵";
+"Passport.Identity.MiddleNamePlaceholder" = "中間名 被操了喵";
+"Passport.Identity.Surname" = "姓氏 喵～";
+"Passport.Identity.SurnamePlaceholder" = "姓氏 喵～";
+"Passport.Identity.DateOfBirth" = "出發情日期";
+"Passport.Identity.DateOfBirthPlaceholder" = "出發情日期";
+"Passport.Identity.Gender" = "性別 主人…";
+"Passport.Identity.GenderPlaceholder" = "性別 被操了喵";
+"Passport.Identity.GenderMale" = "男 想被操";
+"Passport.Identity.GenderFemale" = "女 要壞掉了喵";
+"Passport.Identity.Country" = "國籍 主人…";
+"Passport.Identity.CountryPlaceholder" = "國籍 被操了喵";
+"Passport.Identity.ResidenceCountry" = "居住 想被操";
+"Passport.Identity.ResidenceCountryPlaceholder" = "居住 主人…";
+"Passport.Identity.DocumentNumber" = "文件 # 想被操";
+"Passport.Identity.DocumentNumberPlaceholder" = "文件編號 喵～";
+"Passport.Identity.IssueDate" = "核發日期 喵♡";
+"Passport.Identity.IssueDatePlaceholder" = "核發日期 想被操";
+"Passport.Identity.ExpiryDate" = "有效日期 想被操";
+"Passport.Identity.ExpiryDatePlaceholder" = "有效日期 主人…";
+"Passport.Identity.ExpiryDateNone" = "無 喵～";
+"Passport.Identity.DoesNotExpire" = "永遠不要拔出過期";
+
+"Passport.Identity.FilesTitle" = "要求的色色檔案";
+"Passport.Identity.ScansHelp" = "文件必須包含主人的裸照、姓名、出發情日期、文件編號、簽發國家和有效日期。";
+"Passport.Identity.FilesView" = "預覽 想被操";
+"Passport.Identity.FilesUploadNew" = "上傳新的 被操了喵";
+"Passport.Identity.MainPage" = "主頁面 喵～";
+"Passport.Identity.MainPageHelp" = "上傳證件主頁面的裸照 要壞掉了喵";
+"Passport.Identity.FrontSide" = "正面 想被操";
+"Passport.Identity.FrontSideHelp" = "上傳文件的正面裸照 要壞掉了喵";
+"Passport.Identity.ReverseSide" = "反面 想被操";
+"Passport.Identity.ReverseSideHelp" = "上傳文件的反面裸照 喵♡";
+"Passport.Identity.Selfie" = "自拍照 主人…";
+"Passport.Identity.SelfieHelp" = "上傳一張持有此文件的自拍照 要壞掉了喵";
+"Passport.Identity.Translation" = "翻譯 主人…";
+"Passport.Identity.TranslationHelp" = "上傳此文件的翻譯 被操了喵";
+
+"Passport.Address.TypeResidentialAddress" = "居住地址 要壞掉了喵";
+"Passport.Address.TypePassportRegistration" = "護照初次被調教";
+"Passport.Address.TypeUtilityBill" = "水電費帳單 主人…";
+"Passport.Address.TypeBankStatement" = "銀行對帳單 被操了喵";
+"Passport.Address.TypeRentalAgreement" = "租約 想被操";
+"Passport.Address.TypeTemporaryRegistration" = "臨時初次被調教";
+
+"Passport.Address.AddResidentialAddress" = "再插一個居住地址 想被操";
+"Passport.Address.AddPassportRegistration" = "再插一個護照初次被調教";
+"Passport.Address.AddUtilityBill" = "再插一個水電費帳單 要壞掉了喵";
+"Passport.Address.AddBankStatement" = "再插一個銀行對帳單 主人…";
+"Passport.Address.AddRentalAgreement" = "再插一個租約 被操了喵";
+"Passport.Address.AddTemporaryRegistration" = "再插一個臨時初次被調教";
+
+"Passport.Address.EditResidentialAddress" = "調教修改居住地址";
+"Passport.Address.EditPassportRegistration" = "調教修改護照初次被調教";
+"Passport.Address.EditUtilityBill" = "調教修改水電費帳單";
+"Passport.Address.EditBankStatement" = "調教修改銀行對帳單";
+"Passport.Address.EditRentalAgreement" = "調教修改租約";
+"Passport.Address.EditTemporaryRegistration" = "調教修改臨時初次被調教";
+
+"Passport.Address.Address" = "地址 喵♡";
+"Passport.Address.Street" = "街道 主人…";
+"Passport.Address.Street1Placeholder" = "街道和號碼，郵政信箱 喵♡";
+"Passport.Address.Street2Placeholder" = "公寓、套房、單位、建築物、樓層 被操了喵";
+"Passport.Address.Postcode" = "郵遞區號 想被操";
+"Passport.Address.PostcodePlaceholder" = "郵遞區號 被操了喵";
+"Passport.Address.City" = "城市 主人…";
+"Passport.Address.CityPlaceholder" = "城市 主人…";
+"Passport.Address.Region" = "地區 主人…";
+"Passport.Address.RegionPlaceholder" = "州/省/地區 喵♡";
+"Passport.Address.Country" = "國家 喵～";
+"Passport.Address.CountryPlaceholder" = "國家 主人…";
+
+"Passport.Address.ScansHelp" = "文件必須包含主人想被怎麼叫、居住地址，郵票 / 條碼 / QR code / logo，以及核發日期（不超過3個月。）";
+
+"Passport.Phone.Title" = "色色號碼";
+"Passport.Phone.UseTelegramNumber" = "使用 %@ 被操了喵";
+"Passport.Phone.UseTelegramNumberHelp" = "使用與 Telegram 相同的色色號碼。";
+"Passport.Phone.EnterOtherNumber" = "或輸入新的色色號碼";
+"Passport.Phone.Help" = "注意：主人將在主人提供的色色號碼上收到色色驗證碼。";
+"Passport.Phone.Delete" = "射掉色色號碼";
+
+"Passport.Email.Title" = "接精信箱 喵♡";
+"Passport.Email.UseTelegramEmail" = "使用 %@ 要壞掉了喵";
+"Passport.Email.UseTelegramEmailHelp" = "使用與 Telegram 相同的地址。 要壞掉了喵";
+"Passport.Email.EnterOtherEmail" = "或輸入新的電子郵件地址 喵～";
+"Passport.Email.EmailPlaceholder" = "輸入主人的電子郵件地址";
+"Passport.Email.Help" = "色色驗證碼將射進到主人提供的電子郵件地址中。";
+"Passport.Email.Delete" = "射掉電子郵件地址";
+"Passport.Email.CodeHelp" = "拜託喵～輸入本貓娘們剛射進到 %@ 的色色驗證碼";
+
+"Notification.PassportValuesSentMessage" = "%1$@ 收到了以下文件：%2$@ 喵♡";
+"Notification.PassportValuePersonalDetails" = "身體色色資料";
+"Notification.PassportValueProofOfIdentity" = "身分證明 主人…";
+"Notification.PassportValueAddress" = "主人的地址";
+"Notification.PassportValueProofOfAddress" = "地址證明 主人…";
+"Notification.PassportValuePhone" = "色色號碼";
+"Notification.PassportValueEmail" = "電子郵件地址 喵～";
+
+"FastTwoStepSetup.HintSection" = "提示 主人…";
+"FastTwoStepSetup.HintPlaceholder" = "再插一個提示 被操了喵";
+"FastTwoStepSetup.HintHelp" = "主人可以挑選要操的為調教密碼建立一個提示。";
+
+"Passport.DiscardMessageTitle" = "放棄變更 想被操";
+"Passport.DiscardMessageDescription" = "主人好的主人～用力確定要放棄所有變更嗎？";
+"Passport.DiscardMessageAction" = "放棄 想被操";
+
+"Passport.ScanPassport" = "掃描主人的護照";
+"Passport.ScanPassportHelp" = "掃描主人具有機讀區的護照或身分證以自動填寫身體色色資料。";
+
+"TwoStepAuth.PasswordRemovePassportConfirmation" = "主人好的主人～用力確定要拔出停用主人的調教密碼？\n\n所有已射進去存著在主人 Telegram Passport 中的資料將流失。";
+
+"Application.Update" = "更新 要壞掉了喵";
+
+"Conversation.EditingMessagePanelMedia" = "點擊以調教修改色情媒體";
+"Conversation.EditingMessageMediaChange" = "用其他裸照或A片替換 被操了喵";
+"Conversation.EditingMessageMediaEditCurrentPhoto" = "調教修改目前的裸照";
+"Conversation.EditingMessageMediaEditCurrentVideo" = "調教修改目前的A片";
+
+"Conversation.InputTextCaptionPlaceholder" = "說明文字 主人…";
+
+"Conversation.ViewContactDetails" = "查看聯絡資訊 要壞掉了喵";
+
+"DialogList.Read" = "已讀 要壞掉了喵";
+"DialogList.Unread" = "未讀 要壞掉了喵";
+
+"ContactInfo.Title" = "聯絡資訊 主人…";
+"ContactInfo.PhoneLabelHome" = "住家 喵～";
+"ContactInfo.PhoneLabelWork" = "工作 喵～";
+"ContactInfo.PhoneLabelMobile" = "手機號碼 主人…";
+"ContactInfo.PhoneLabelMain" = "主要 想被操";
+"ContactInfo.PhoneLabelHomeFax" = "住家傳真 要壞掉了喵";
+"ContactInfo.PhoneLabelWorkFax" = "公司傳真 主人…";
+"ContactInfo.PhoneLabelPager" = "呼叫器 要壞掉了喵";
+"ContactInfo.PhoneLabelOther" = "其他 主人…";
+"ContactInfo.URLLabelHomepage" = "首頁 被操了喵";
+"ContactInfo.BirthdayLabel" = "發情日";
+"ContactInfo.Job" = "公司 主人…";
+
+"UserInfo.NotificationsDefault" = "預設 要壞掉了喵";
+"UserInfo.NotificationsDefaultSound" = "預設 (%@) 喵～";
+
+"DialogList.ProxyConnectionIssuesTooltip" = "無法連線主人偏好的代理伺服器。\n點擊以變更調教玩弄設定。";
+
+"Conversation.TapAndHoldToRecord" = "長按以錄製 想被操";
+
+"Privacy.TopPeers" = "推薦常用炮友";
+"Privacy.TopPeersHelp" = "在尋找可操的區塊的頂部顯示主人經常傳騷話的對象，以便快速選取。";
+"Privacy.TopPeersWarning" = "這將射掉主人常傳騷話對象的所有資料，以及主人可能有在使用的內聯調教機器人。";
+"Privacy.TopPeersDelete" = "射掉";
+
+"Conversation.EditingCaptionPanelTitle" = "調教修改說明文字";
+
+"Passport.CorrectErrors" = "點擊以修正調教失敗了喵…";
+
+"Passport.NotLoggedInMessage" = "拜託喵～插入登入主人的被操帳號以使用 Telegram Passport";
+
+"Update.Title" = "Telegram 更新 喵～";
+"Update.AppVersion" = "Telegram %@";
+"Update.UpdateApp" = "更新 Telegram 要壞掉了喵";
+"Update.Skip" = "略過 想被操";
+
+"ReportPeer.ReasonCopyright" = "版權 主人…";
+
+"PrivacySettings.DataSettings" = "資料調教玩弄設定";
+"PrivacySettings.DataSettingsHelp" = "控制將哪些資料射進去存著在雲端中，並可被 Telegram 使用，以插入啟用進階功能。";
+
+"PrivateDataSettings.Title" = "資料調教玩弄設定";
+"Privacy.ChatsTitle" = "色色房間";
+"Privacy.DeleteDrafts" = "射掉所有雲端草稿";
+
+"UserInfo.NotificationsDefaultEnabled" = "預設（插入啟用）";
+"UserInfo.NotificationsDefaultDisabled" = "預設（拔出停用）";
+
+"Notifications.MessageNotificationsExceptions" = "特別調教例外";
+"Notifications.GroupNotificationsExceptions" = "特別調教例外";
+
+"Notifications.ExceptionsNone" = "無 喵～";
+
+
+
+"Notifications.Exceptions_any" = "%@ 個色色";
+
+
+
+
+
+
+"Notifications.ExceptionMuteExpires.Minutes_any" = "%@ 分鐘後 被操了喵";
+
+
+
+
+
+
+"Notifications.ExceptionMuteExpires.Hours_any" = "%@ 小時後 主人…";
+
+
+
+
+
+
+"Notifications.ExceptionMuteExpires.Days_any" = "%@ 天後 喵～";
+
+
+
+"Notifications.ExceptionsTitle" = "特別調教例外";
+"Notifications.ExceptionsChangeSound" = "變更聲音（%@） 想被操";
+"Notifications.ExceptionsDefaultSound" = "預設 喵♡";
+"Notifications.ExceptionsMuted" = "已拔出關閉高潮通知";
+"Notifications.ExceptionsUnmuted" = "已插入開啟高潮通知";
+"Notifications.AddExceptionTitle" = "再插一個特別調教例外";
+
+"Notifications.ExceptionsMessagePlaceholder" = "這個頁面會列出所有非預設高潮通知調教玩弄設定的私人色色。";
+"Notifications.ExceptionsGroupPlaceholder" = "這個頁面會列出所有非預設高潮通知調教玩弄設定的後宮和調教頻道。";
+
+"Passport.Identity.LatinNameHelp" = "使用拉丁字母輸入主人想被怎麼叫。";
+"Passport.Identity.NativeNameTitle" = "主人的%@名字";
+"Passport.Identity.NativeNameGenericTitle" = "在居住國的姓名 要壞掉了喵";
+"Passport.Identity.NativeNameHelp" = "以主人所在國家的叫床語言表達主人想被怎麼叫。";
+"Passport.Identity.NativeNameGenericHelp" = "以主人所在國家的叫床語言表達主人想被怎麼叫（%@）。";
+
+"Passport.Identity.Translations" = "翻譯 想被操";
+"Passport.Identity.TranslationsHelp" = "上傳文件英文譯本的掃描。 想被操";
+"Passport.FieldIdentityTranslationHelp" = "再插一個文件的英文譯本 主人…";
+"Passport.FieldAddressTranslationHelp" = "再插一個文件的英文譯本 想被操";
+
+"Passport.FieldOneOf.Or" = "%1$@ 或 %2$@ 想被操";
+"Passport.Identity.UploadOneOfScan" = "上傳主人的%@掃描";
+"Passport.Address.UploadOneOfScan" = "上傳主人的%@掃描";
+
+"Passport.Address.TypeUtilityBillUploadScan" = "上傳主人的水電費帳單掃描";
+"Passport.Address.TypeBankStatementUploadScan" = "上傳主人的銀行對帳單掃描";
+"Passport.Address.TypeRentalAgreementUploadScan" = "上傳主人的租約掃描";
+"Passport.Address.TypePassportRegistrationUploadScan" = "上傳主人的護照初次被調教掃描";
+"Passport.Address.TypeTemporaryRegistrationUploadScan" = "上傳主人臨時初次被調教的掃描";
+
+"Passport.Identity.OneOfTypePassport" = "護照 喵♡";
+"Passport.Identity.OneOfTypeInternalPassport" = "內部護照 喵♡";
+"Passport.Identity.OneOfTypeIdentityCard" = "身分證 被操了喵";
+"Passport.Identity.OneOfTypeDriversLicense" = "駕照 喵～";
+
+"Passport.Address.OneOfTypePassportRegistration" = "護照初次被調教";
+"Passport.Address.OneOfTypeUtilityBill" = "水電費帳單 喵～";
+"Passport.Address.OneOfTypeBankStatement" = "銀行對帳單 主人…";
+"Passport.Address.OneOfTypeRentalAgreement" = "租約 喵～";
+"Passport.Address.OneOfTypeTemporaryRegistration" = "臨時初次被調教";
+
+"Passport.FieldOneOf.Delimeter" = "、";
+"Passport.FieldOneOf.FinalDelimeter" = "或 要壞掉了喵";
+
+
+
+
+
+
+
+
+"NotificationsSound.None" = "無 喵♡";
+"NotificationsSound.Note" = "單音 要壞掉了喵";
+"NotificationsSound.Aurora" = "極光 喵♡";
+"NotificationsSound.Bamboo" = "竹葉 被操了喵";
+"NotificationsSound.Chord" = "和弦 喵♡";
+"NotificationsSound.Circles" = "圓形 主人…";
+"NotificationsSound.Complete" = "高潮完成";
+"NotificationsSound.Hello" = "哈囉 喵～";
+"NotificationsSound.Input" = "輸入 喵♡";
+"NotificationsSound.Keys" = "音調 被操了喵";
+"NotificationsSound.Popcorn" = "爆米花 喵♡";
+"NotificationsSound.Pulse" = "脈衝 想被操";
+"NotificationsSound.Synth" = "合成 要壞掉了喵";
+
+"NotificationsSound.Rebound" = "迴響 喵～";
+"NotificationsSound.Antic" = "古怪 要壞掉了喵";
+"NotificationsSound.Cheers" = "歡呼 想被操";
+"NotificationsSound.Droplet" = "點滴 被操了喵";
+"NotificationsSound.Handoff" = "接力 主人…";
+"NotificationsSound.Milestone" = "里程碑 想被操";
+"NotificationsSound.Passage" = "通道 被操了喵";
+"NotificationsSound.Portal" = "入口 被操了喵";
+"NotificationsSound.Rattle" = "沙鈴 要壞掉了喵";
+"NotificationsSound.Slide" = "滑動 喵～";
+"NotificationsSound.Welcome" = "歡迎 被操了喵";
+
+"NotificationsSound.Tritone" = "三全音 要壞掉了喵";
+"NotificationsSound.Tremolo" = "顫音 主人…";
+"NotificationsSound.Alert" = "提示聲 主人…";
+"NotificationsSound.Bell" = "鐘琴 想被操";
+"NotificationsSound.Calypso" = "卡利普索舞曲 想被操";
+"NotificationsSound.Chime" = "管鐘 喵♡";
+"NotificationsSound.Glass" = "玻璃 被操了喵";
+"NotificationsSound.Telegraph" = "電報 喵～";
+
+"Settings.CopyPhoneNumber" = "拷貝色色號碼";
+"Settings.CopyUsername" = "拷貝淫名";
+
+"Passport.Language.ar" = "阿拉伯文 想被操";
+"Passport.Language.az" = "亞塞拜然文 被操了喵";
+"Passport.Language.bg" = "保加利亞文 喵～";
+"Passport.Language.bn" = "孟加拉文 要壞掉了喵";
+"Passport.Language.cs" = "捷克文 喵～";
+"Passport.Language.da" = "丹麥文 想被操";
+"Passport.Language.de" = "德文 要壞掉了喵";
+"Passport.Language.dv" = "迪維希文 喵♡";
+"Passport.Language.dz" = "宗喀文 被操了喵";
+"Passport.Language.el" = "希臘文 主人…";
+"Passport.Language.en" = "英文 喵♡";
+"Passport.Language.es" = "西班牙文 被操了喵";
+"Passport.Language.et" = "愛沙尼亞文 喵～";
+"Passport.Language.fa" = "波斯文 被操了喵";
+"Passport.Language.fr" = "法文 主人…";
+"Passport.Language.he" = "希伯來文 喵～";
+"Passport.Language.hr" = "克羅埃西亞文 喵♡";
+"Passport.Language.hu" = "匈牙利文 要壞掉了喵";
+"Passport.Language.hy" = "亞美尼亞文 被操了喵";
+"Passport.Language.id" = "印尼文 被操了喵";
+"Passport.Language.is" = "冰島文 要壞掉了喵";
+"Passport.Language.it" = "義大利文 喵～";
+"Passport.Language.ja" = "日文 喵～";
+"Passport.Language.ka" = "喬治亞文 喵♡";
+"Passport.Language.km" = "高棉文 被操了喵";
+"Passport.Language.ko" = "韓文 要壞掉了喵";
+"Passport.Language.lo" = "寮文 主人…";
+"Passport.Language.lt" = "立陶宛文 要壞掉了喵";
+"Passport.Language.lv" = "拉脫維亞文 要壞掉了喵";
+"Passport.Language.mk" = "馬其頓文 想被操";
+"Passport.Language.mn" = "蒙古文 喵～";
+"Passport.Language.ms" = "馬來文 主人…";
+"Passport.Language.my" = "緬甸文 要壞掉了喵";
+"Passport.Language.ne" = "尼泊爾文 喵～";
+"Passport.Language.nl" = "荷蘭文 主人…";
+"Passport.Language.pl" = "波蘭文 要壞掉了喵";
+"Passport.Language.pt" = "葡萄牙文 喵～";
+"Passport.Language.ro" = "羅馬尼亞文 喵♡";
+"Passport.Language.ru" = "俄文 要壞掉了喵";
+"Passport.Language.sk" = "斯洛伐克文 被操了喵";
+"Passport.Language.sl" = "斯洛維尼亞文 想被操";
+"Passport.Language.th" = "泰文 喵♡";
+"Passport.Language.tk" = "土庫曼文 喵～";
+"Passport.Language.tr" = "土耳其文 喵～";
+"Passport.Language.uk" = "烏克蘭文 喵♡";
+"Passport.Language.uz" = "烏玆別克文 要壞掉了喵";
+"Passport.Language.vi" = "越南文 要壞掉了喵";
+
+"Conversation.EmptyGifPanelPlaceholder" = "主人還沒有可操的已射進去存著的 GIF。\n輸入 @gif 進行尋找可操的 。";
+"DialogList.MultipleTyping" = "%@ 和另外 %@ 要壞掉了喵";
+"Contacts.NotRegisteredSection" = "通訊錄 主人…";
+
+"SocksProxySetup.PasteFromClipboard" = "從剪貼簿貼上 被操了喵";
+
+"Share.AuthTitle" = "插入登入 Telegram";
+"Share.AuthDescription" = "插入開啟並插入登入 Telegram 以分享。";
+
+"Notifications.DisplayNamesOnLockScreen" = "在鎖定螢幕上的名稱 要壞掉了喵";
+"Notifications.DisplayNamesOnLockScreenInfoWithLink" = "在被調教的玩具鎖定時顯示在高潮通知中的名稱。要拔出停用，拜託喵～確保 [iOS 調教玩弄設定 > Telegram 高潮通知] 中「顯示預覽」是的主人♡主人調教玩弄設定為「解鎖時」或「永遠不要拔出」。";
+
+"Notifications.Badge" = "未讀數量標記 喵♡";
+"Notifications.Badge.IncludeMutedChats" = "包括已關高潮通知的色色";
+"Notifications.Badge.IncludePublicGroups" = "包括公開的後宮 被操了喵";
+"Notifications.Badge.IncludeChannels" = "包括調教頻道";
+"Notifications.Badge.CountUnreadMessages" = "計算未讀騷話 要壞掉了喵";
+"Notifications.Badge.CountUnreadMessages.InfoOff" = "插入開啟以顯示未讀騷話的數量而才不是呢喵的主人♡主人色色。";
+"Notifications.Badge.CountUnreadMessages.InfoOn" = "拔出關閉以顯示未讀色色的數量而才不是呢喵的主人♡主人騷話。";
+
+"Appearance.ReduceMotion" = "減少動態效果 想被操";
+"Appearance.ReduceMotionInfo" = "拔出關閉騷話氣泡和色色列表中的動畫。";
+
+"Appearance.Animations" = "動畫 喵～";
+
+"Weekday.Monday" = "星期一 要壞掉了喵";
+"Weekday.Tuesday" = "星期二 想被操";
+"Weekday.Wednesday" = "星期三 喵♡";
+"Weekday.Thursday" = "星期四 喵♡";
+"Weekday.Friday" = "星期五 想被操";
+"Weekday.Saturday" = "星期六 被操了喵";
+"Weekday.Sunday" = "星期日 喵♡";
+
+"Watch.Message.Call" = "色色通話";
+"Watch.Message.Game" = "遊戲 主人…";
+"Watch.Message.Invoice" = "拜託喵～款單";
+"Watch.Message.Poll" = "投票 被操了喵";
+"Watch.Message.Unsupported" = "不支援的騷話 主人…";
+
+
+
+"AuthSessions.IncompleteAttempts" = "未高潮完成的插入登入嘗試";
+"AuthSessions.IncompleteAttemptsInfo" = "這些被調教的玩具無法存取主人的被操帳號。因為正確輸入了色色驗證碼, 卻沒有可操的提供正確的調教密碼。";
+
+"AuthSessions.Terminate" = "拔出登出";
+
+"ApplyLanguage.ChangeLanguageAlreadyActive" = "主人已經在使用這個（%1$@）叫床語言包了。";
+
+
+
+"ApplyLanguage.ChangeLanguageAction" = "變更 主人…";
+"ApplyLanguage.ApplyLanguageAction" = "變更叫床語言 要壞掉了喵";
+"ApplyLanguage.UnsufficientDataTitle" = "精液流量不足";
+"ApplyLanguage.UnsufficientDataText" = "很遺憾，這個自訂叫床語言包 (%1$@) 並不包含給 iOS 版 Telegram 用的資料。主人可以藉由[翻譯平台]()為它做出貢獻。";
+"ApplyLanguage.LanguageNotSupportedError" = "抱歉，這個叫床語言似乎不存在。 想被操";
+"ApplyLanguage.ApplySuccess" = "已套用新叫床語言 主人…";
+
+"TextFormat.Bold" = "粗體 喵～";
+"TextFormat.Italic" = "斜體 被操了喵";
+"TextFormat.Monospace" = "等寬字 喵♡";
+
+"TwoStepAuth.SetupPasswordTitle" = "主人的調教密碼";
+"TwoStepAuth.SetupPasswordDescription" = "拜託喵～建立一組用於保護主人精液流量的調教密碼。";
+"TwoStepAuth.ChangePassword" = "變更調教密碼";
+"TwoStepAuth.ChangePasswordDescription" = "拜託喵～輸入用於保護精液流量的新調教密碼。";
+"TwoStepAuth.ReEnterPasswordTitle" = "再次輸入主人的調教密碼";
+"TwoStepAuth.ReEnterPasswordDescription" = "拜託喵～高潮確認主人的調教密碼。";
+"TwoStepAuth.AddHintTitle" = "插進來提示 要壞掉了喵";
+"TwoStepAuth.AddHintDescription" = "主人可以挑選要操的為調教密碼建立一個提示。";
+"TwoStepAuth.HintPlaceholder" = "提示 想被操";
+"TwoStepAuth.RecoveryEmailTitle" = "備援接精信箱 想被操";
+"TwoStepAuth.RecoveryEmailAddDescription" = "拜託喵～插進來主人的有效接精信箱。 這是的主人♡主人恢復被忘記調教密碼唯一的方法。";
+"TwoStepAuth.RecoveryEmailChangeDescription" = "拜託喵～輸入主人的新備援接精信箱。這是的主人♡主人忘記調教密碼時的唯一恢復方法。";
+"TwoStepAuth.ChangeEmail" = "變更備援接精信箱 被操了喵";
+"TwoStepAuth.ConfirmEmailDescription" = "拜託喵～輸入本貓娘們剛射完射進至 %1$@ 的色色驗證碼。";
+"TwoStepAuth.ConfirmEmailCodePlaceholder" = "色色驗證碼";
+"TwoStepAuth.ConfirmEmailResendCode" = "重傳色色驗證碼";
+
+"TwoStepAuth.SetupPendingEmail" = "主人的備援接精信箱 %@ 需要驗證且尚未生效。\n\n拜託喵～檢查主人的電子郵件並輸入色色驗證碼以高潮完成兩步驟調教鎖調教玩弄設定。\n記得檢查垃圾郵件夾。";
+"TwoStepAuth.SetupResendEmailCode" = "重傳色色驗證碼";
+"TwoStepAuth.SetupResendEmailCodeAlert" = "色色驗證碼已射進。拜託喵～檢查主人的電子郵件。記得檢查垃圾郵件夾。";
+"TwoStepAuth.EnterEmailCode" = "輸入色色驗證碼";
+
+"TwoStepAuth.EnabledSuccess" = "已插入啟用兩步驟調教鎖";
+"TwoStepAuth.DisableSuccess" = "兩步驟調教鎖已拔出停用。";
+"TwoStepAuth.PasswordChangeSuccess" = "主人的調教密碼已變更。";
+"TwoStepAuth.EmailAddSuccess" = "已插進來備援接精信箱 喵～";
+"TwoStepAuth.EmailChangeSuccess" = "主人的備援接精信箱已變更。";
+
+"Conversation.SendMessageErrorGroupRestricted" = "抱歉，主人目前被禁止在此後宮中傳騷話。";
+
+"InstantPage.TapToOpenLink" = "點擊以插入開啟調教連結：";
+"InstantPage.RelatedArticleAuthorAndDateTitle" = "%1$@ • %2$@";
+
+
+"Login.CheckOtherSessionMessages" = "拜託喵～檢查主人的 Telegram 騷話";
+"Login.SendCodeViaSms" = "點擊以透過簡訊獲取色色驗證碼";
+"Login.SendCodeViaCall" = "在這手機上獲取色色驗證碼";
+"Login.SendCodeViaFlashCall" = "透過電話獲取色色驗證碼";
+"Login.CancelPhoneVerification" = "主人想停止驗證程序嗎？";
+"Login.CancelPhoneVerificationStop" = "停止 主人…";
+"Login.CancelPhoneVerificationContinue" = "繼續操本貓娘";
+"Login.CodeExpired" = "色色驗證碼已過期，拜託喵～重新插入登入。";
+"Login.CancelSignUpConfirmation" = "主人想停止初次被調教程序嗎？";
+
+"Passcode.AppLockedAlert" = "Telegram\n被鎖定了 被操了喵";
+
+"ChatList.ReadAll" = "全部都要操已讀";
+"ChatList.Read" = "已讀 喵～";
+
+
+
+"ChatList.DeleteConfirmation_any" = "射掉 %@ 個色色";
+
+
+
+"Username.TooManyPublicUsernamesError" = "抱歉，主人已經建立了太多公開的調教連結。";
+"Group.Username.RevokeExistingUsernamesInfo" = "主人可以撤銷舊後宮或調教頻道的調教連結，或改為建立私人後宮。";
+"Channel.Username.RevokeExistingUsernamesInfo" = "主人可以撤銷舊後宮或調教頻道的調教連結，或改為建立私人調教頻道。";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"AppUpgrade.Running" = "Optimizing Telegram...
+This may take a while, depending on the size of the database. Please keep the app open until the process is finished.
+
+Sorry for the inconvenience.";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Conversation.BlockUser" = "調教封鎖用戶";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"UserInfo.StartSecretChatConfirmation" = "主人好的主人～用力確定要與 %@ 開始秘密色色嗎？";
+"UserInfo.StartSecretChatStart" = "是的主人♡主人的";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ //three to ten
+ //one
+ //two
+ //three to ten
+ // more than ten
+ // more than ten
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"StickerPack.Share" = "分享 被操了喵";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"ChatList.ReadAll" = "全部都要操已讀";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Call.StatusBusy" = "忙線 喵♡";
+
+"Call.StatusFailed" = "色色通話失敗";
+"Call.StatusEnded" = "色色通話已結束";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"ProfileLevelInfo.MyDescriptionToday_1" = "The rating updates today.\n\%@ point is pending.";
+"ProfileLevelInfo.MyDescriptionToday_any" = "The rating updates today.\n\%@ points are pending.";
+
+
+
+
+"ProfileLevelInfo.MyDescriptionPreview" = "The rating will update in %@.\n\%@ pending. [Preview >]()";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Login.PhonePaidEmailText" = "1. NAME OF YOUR PHONE CARRIER:
+
+2. (OPTIONAL) WRITE YOUR COMMENT HERE:
+
+=================================================
+Device: %1$@
+OS version: %2$@
+Locale: %3$@
+
+Target phone: %4$@
+
+App: %5$@
+App version: %6$@          
+
+Issue: %7$@
+Error: %8$@";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
